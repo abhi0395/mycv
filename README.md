@@ -8,7 +8,7 @@ This is based on CV template of Daniel Foreman-Mackey. Here is the original [rep
 
 ## Abhijeet Anand
 
- <span class="sans-serif">https://abhi0395.github.io</span>  
+ <span class="sans-serif"> See my professional website: https://abhi0395.github.io</span>  
 Postdoctoral Scientist, Lawrence Berkeley National Lab, Berkeley, CA
 
 ## Education
