@@ -6,12 +6,10 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 <hr>
 
-## Daniel Foreman-Mackey
+## Abhijeet Anand
 
- <span class="sans-serif">dfm@dfm.io,
-https://dfm.io</span>  
-Research Scientist, Center for Computational Astrophysics, Flatiron
-Institute  
+ <span class="sans-serif">https://abhi0395.github.io</span>  
+Postdoctoral Scientist, Lawrence Berkeley National Lab, Berkeley, CA
 
 ## Education
 
