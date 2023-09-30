@@ -1,4 +1,4 @@
-# Dan Foreman-Mackey's CV
+# Abhijeet Anand's CV
 
 [![Auto update](https://github.com/dfm/cv/workflows/Auto%20update/badge.svg)](https://github.com/dfm/cv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://raw.githubusercontent.com/dfm/cv/main-pdf/tex/cv_pubs.pdf)
 
@@ -15,13 +15,17 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, Berkeley, CA
 
 <div class="list">
 
-
-PhD 2015, Department of Physics, New York University. Advisor: Hogg
-
-MSc 2010, Department of Physics, Queen’s University, Canada. Advisor:
-Widrow
-
-BSc 2008, Department of Physics, McGill University, Canada.
+* Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University - Max Planck Institute for Astrophysics (MPA), Germany.  
+    * Thesis: ["Probing cool and warm circumgalactic gas in galaxies and clusters with large spectroscopic and imaging surveys"](https://edoc.ub.uni-muenchen.de/30337/)  
+    * Advisors: [Prof. Dr. Guinevere Kauffmann](https://www.mpa-garching.mpg.de/galaxyformation), MPA & [Dr. Dylan Nelson](https://www.ita.uni-heidelberg.de/%7Ednelson/), ITA/ZAH, University of Heidelberg.  
+  
+* Jul 2016 - Jul 2017: MS, Physics, Indian Institute of Science (IISc), Bangalore, India.  
+    * Thesis: ["A sensitive search for HI 21 cm emission from super disks in radio galaxies"](/files/MS_thesis.pdf)  
+    * Advisor: [Dr. Nirupam Roy](http://www.physics.iisc.ernet.in/%7Enroy/), IISc​.  
+  
+* Aug 2012 - June 2016: BSc (Research), Physics, Indian Institute of Science, Bangalore, India.  
+    * Thesis: ["Sources of Continuum Opacity in Hydrogen deficient stars"](/files/BS_thesis.pdf)  
+    * Advisor: [Prof. Gajendra Pandey](https://www.iiap.res.in/?q=user/29), [Indian Institute of Astrophysics (IIA)](https://www.iiap.res.in/), Bangalore.
 
 </div>
 
