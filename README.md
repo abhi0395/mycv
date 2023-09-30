@@ -29,17 +29,27 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, Berkeley, CA
 
 </div>
 
-## Positions
+## Positions/Work Experience
 
 <div class="list">
 
+* Sep'22 - Aug'25: Postdoctoral Scientist
+  * [Dark Energy Survey Instrument (DESI)](https://www.desi.lbl.gov/) Team
+  * Lawerence Berkeley National Lab (LBNL), Berkeley, CA, USA
+  * Supervisor: Dr. Julien Guy
 
-Research Scientist, Flatiron Institute, 2022–present.
+* Aug'22: Bridge Postdoctoral Fellow
+  * Max Planck Institute for Astrophysics, Garching, Germany
+  * Supervisor: Prof. Dr. Guinevere Kauffmann
 
-Associate Research Scientist, Flatiron Institute, 2017–2022.
+* Sep'18 - Jul'22: IMPRS PhD Fellow
+  * Max Planck Institute for Astrophysics, Garching, Germany
+  * Supervisors: Prof. Dr. Guinevere Kauffmann & Dr. Dylan Nelson
 
-Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
-
+* Sep'17 - Jul'18: DST - Junior Research Fellow (JRF)
+  * National Institute of Advanced Studies, Bangalore, India
+  * Supervisor: Prof. Janaki Balakrishnan
+  
 </div>
 
 ## Popular open-source software
