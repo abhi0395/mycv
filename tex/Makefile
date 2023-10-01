@@ -4,7 +4,7 @@ ECHO        = echo
 RM          = rm -rf
 
 TMP_SUFFS   = aux bbl blg log dvi ps eps out
-RM_TMP      = ${RM} $(foreach suff, ${TMP_SUFFS}, *.${suff})
+RM_TMP      = ${RM} $(foreach suff, ${TMP_SUFFS})#, *.${suff})
 
 CHECK_RERUN = grep Rerun $*.log
 
