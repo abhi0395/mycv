@@ -52,40 +52,6 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, Berkeley, CA
   
 </div>
 
-## Popular open-source software
-
-<div class="list">
-
-
-[**tinygp**](https://github.com/dfm/tinygp) — 248 stars / 19 forks  
-The tiniest of Gaussian Process libraries
-[\[docs\]](https://tinygp.readthedocs.io)
-
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 477
-stars / 39 forks  
-A workflow for reproducible and open scientific articles
-[\[docs\]](https://show-your.work)
-
-[**emcee**](https://github.com/dfm/emcee) — 1363 stars / 427 forks  
-The Python ensemble sampling toolkit for affine-invariant MCMC
-[\[docs\]](https://emcee.readthedocs.io)
-
-[**corner.py**](https://github.com/dfm/corner.py) — 448 stars / 218
-forks  
-Make some beautiful corner plots
-[\[docs\]](http://corner.readthedocs.io)
-
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 189 stars
-/ 49 forks  
-Fast & scalable MCMC for all your exoplanet needs!
-[\[docs\]](https://docs.exoplanet.codes)
-
-[**daft**](https://github.com/daft-dev/daft) — 661 stars / 119 forks  
-Render probabilistic graphical models using matplotlib
-[\[docs\]](https://docs.daft-pgm.org)
-
-</div>
-
 ## Publications
 
 refereed: 99 / first author: 9 / citations: 16,776 / h-index: 44

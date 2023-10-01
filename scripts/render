@@ -94,18 +94,7 @@ def format_repo(repo):
 if __name__ == "__main__":
     with open("./data/pubs.json", "r") as f:
         pubs = json.load(f)
-    with open("./data/other_pubs.json", "r") as f:
-        other_pubs = json.load(f)
-    with open("./data/select_pubs.json", "r") as f:
-        select_pubs = json.load(f)
-    for p in other_pubs:
-        for p1 in pubs:
-            if (p1["arxiv"] is not None and p["arxiv"] == p1["arxiv"]) or p[
-                "title"
-            ] == p1["title"]:
-                p["citations"] = max(p["citations"], p1["citations"])
-                pubs.remove(p1)
-    pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
+    pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
     pubs = [
         p
         for p in pubs
@@ -152,8 +141,8 @@ if __name__ == "__main__":
     #    f.write("\n\n".join(selected))
 
     # Write the repo info
-    with open("data/repos.json", "r") as f:
-        repos = json.load(f)
-    repos = repos["data"]["user"]["pinnedItems"]["edges"]
-    with open("./tex/repos.tex", "w") as f:
-        f.write("\n\n".join(map(format_repo, repos)))
+    # with open("data/repos.json", "r") as f:
+    #     repos = json.load(f)
+    # repos = repos["data"]["user"]["pinnedItems"]["edges"]
+    # with open("./tex/repos.tex", "w") as f:
+    #     f.write("\n\n".join(map(format_repo, repos)))
