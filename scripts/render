@@ -37,7 +37,7 @@ def format_pub(args):
     n = [
         i
         for i in range(len(pub["authors"]))
-        if "Anand, A" in pub["authors"][i]
+        if "Anand, Abhijeet" or "Anand, A." in pub["authors"][i]
     ][0]
     pub["authors"][n] = "\\textbf{Anand, Abhijeet}"
     if len(pub["authors"]) > 5:
@@ -92,11 +92,11 @@ def format_repo(repo):
 
 
 if __name__ == "__main__":
-    with open("data/pubs.json", "r") as f:
+    with open("./data/pubs.json", "r") as f:
         pubs = json.load(f)
-    with open("data/other_pubs.json", "r") as f:
+    with open("./data/other_pubs.json", "r") as f:
         other_pubs = json.load(f)
-    with open("data/select_pubs.json", "r") as f:
+    with open("./data/select_pubs.json", "r") as f:
         select_pubs = json.load(f)
     for p in other_pubs:
         for p1 in pubs:
@@ -127,33 +127,33 @@ if __name__ == "__main__":
     summary = (
         "refereed: {1} / first author: {2} / citations: {3:,} / " "h-index: {4} ({0})"
     ).format(date.today(), npapers, nfirst, ncitations, hindex)
-    with open("tex/pubs_summary.tex", "w") as f:
+    with open("./tex/pubs_summary.tex", "w") as f:
         f.write(summary)
 
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
-    with open("tex/pubs_ref.tex", "w") as f:
+    with open("./tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
-    with open("tex/pubs_unref.tex", "w") as f:
+    with open("./tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
 
-    # Choose the selected publications
-    selected = []
-    for s in select_pubs:
-        k = s["key"]
-        v = s["value"]
-        for doc in pubs:
-            if doc[k] == v:
-                selected.append(doc)
-                break
-    selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
-    selected = list(map(format_pub, zip(range(len(selected), 0, -1), selected)))
-    with open("tex/pubs_select.tex", "w") as f:
-        f.write("\n\n".join(selected))
+    # # Choose the selected publications
+    # selected = []
+    # for s in select_pubs:
+    #     k = s["key"]
+    #     v = s["value"]
+    #     for doc in pubs:
+    #         if doc[k] == v:
+    #             selected.append(doc)
+    #             break
+    #selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
+    #selected = list(map(format_pub, zip(range(len(selected), 0, -1), selected)))
+    #with open("./tex/pubs_select.tex", "w") as f:
+    #    f.write("\n\n".join(selected))
 
     # Write the repo info
     with open("data/repos.json", "r") as f:
         repos = json.load(f)
     repos = repos["data"]["user"]["pinnedItems"]["edges"]
-    with open("tex/repos.tex", "w") as f:
+    with open("./tex/repos.tex", "w") as f:
         f.write("\n\n".join(map(format_repo, repos)))

@@ -343,7 +343,9 @@ the Royal Astronomical Society, **504**, 3561
 ([arXiv:2104.13715](http://arxiv.org/abs/2104.13715)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 
-**Foreman-Mackey, Daniel**; Luger, Rodrigo; Agol, Eric; Barclay, Thomas;
+## Foreman-Mackey, Daniel
+
+; Luger, Rodrigo; Agol, Eric; Barclay, Thomas;
 *et al.*, 2021, *[exoplanet: Gradient-based probabilistic inference for
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
@@ -474,7 +476,9 @@ Astronomical Journal, **158**, 173
 ([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
-**Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
+## Foreman-Mackey, Daniel
+
+; Farr, Will; Sinha, Manodeep; Archibald,
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
@@ -600,14 +604,18 @@ the Royal Astronomical Society, **474**, 2094
 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[145
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
-**Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
+## Foreman-Mackey, Daniel
+
+, 2018, *[Scalable Backpropagation for
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
 ([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
-**Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
+## Foreman-Mackey, Daniel
+
+; Agol, Eric; Ambikasaran, Sivaram; & Angus,
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
@@ -659,7 +667,9 @@ Journal, **837**, 20
 ([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[94
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
-**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
+## Foreman-Mackey, Daniel
+
+; Morton, Timothy D.; Hogg, David W.; Agol,
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 The Astronomical Journal, **152**, 206
@@ -711,7 +721,9 @@ Publications of the Astronomical Society of the Pacific, **128**, 66001
 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[233
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
-**Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
+## Foreman-Mackey, Daniel
+
+, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
 Source Software, **1**, 2 \[[1800
 citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063)\]
@@ -760,7 +772,9 @@ the Royal Astronomical Society, **450**, 1787
 ([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[148
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
-**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
+## Foreman-Mackey, Daniel
+
+; Montet, Benjamin T.; Hogg, David W.; Morton,
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
 Astrophysical Journal, **806**, 215
@@ -789,7 +803,9 @@ Astrophysical Journal, **800**, 46
 ([arXiv:1408.3149](http://arxiv.org/abs/1408.3149)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 
-**Foreman-Mackey, Daniel**; Hogg, David W.; & Morton, Timothy D., 2014,
+## Foreman-Mackey, Daniel
+
+; Hogg, David W.; & Morton, Timothy D., 2014,
 *[Exoplanet Population Inference and the Abundance of Earth Analogs from
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
@@ -821,7 +837,9 @@ Journal, **146**, 7 ([arXiv:1211.5805](http://arxiv.org/abs/1211.5805))
 \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 
-**Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
+## Foreman-Mackey, Daniel
+
+; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
