@@ -84,6 +84,6 @@ def get_papers(author):
 
 
 if __name__ == "__main__":
-    papers = get_papers("Foreman-Mackey")
+    papers = get_papers("Anand")
     with open("data/pubs.json", "w") as f:
         json.dump(papers, f, sort_keys=True, indent=2, separators=(",", ": "))

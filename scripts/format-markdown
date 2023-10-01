@@ -13,7 +13,7 @@ if __name__ == "__main__":
             continue
         if line.startswith("**") and prev == "":
             parts = line.split("**")
-            if not parts[1].startswith("Foreman-Mackey"):
+            if not parts[1].startswith("Anand"):
                 results += ["## " + parts[1], ""] + parts[2:]
                 continue
         results.append(line)
