@@ -15,11 +15,11 @@ spec = importlib.util.spec_from_file_location(
 utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
-
 def get_papers(author):
     papers = list(
         ads.SearchQuery(
             author=author,
+            q='galaxy',
             fl=[
                 "id",
                 "title",
@@ -62,6 +62,7 @@ def get_papers(author):
             page = None
             if paper.page is not None and paper.page[0].startswith("arXiv:"):
                 aid.append(":".join(paper.page[0].split(":")[1:]))
+                
         dicts.append(
             dict(
                 doctype=paper.doctype,
@@ -84,6 +85,6 @@ def get_papers(author):
 
 
 if __name__ == "__main__":
-    papers = get_papers("Anand")
-    with open("data/pubs.json", "w") as f:
+    papers = get_papers("Anand, Abhijeet")
+    with open("./data/pubs.json", "w") as f:
         json.dump(papers, f, sort_keys=True, indent=2, separators=(",", ": "))
