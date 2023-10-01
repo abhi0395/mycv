@@ -1,6 +1,6 @@
 # Dan Foreman-Mackey's CV
 
-[![Auto update](https://github.com/dfm/cv/workflows/Auto%20update/badge.svg)](https://github.com/dfm/cv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://raw.githubusercontent.com/dfm/cv/main-pdf/tex/cv_pubs.pdf)
+[![Auto update](https://github.com/abhi0395/cv/workflows/Auto%20update/badge.svg)](https://github.com/abhi0395/cv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://raw.githubusercontent.com/abhi0395/cv/main-pdf/tex/cv_pubs.pdf)
 
 Licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 
