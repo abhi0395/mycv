@@ -17,15 +17,14 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 <div class="list">
 
 
-Postdoctoral Scientist, [Dark Energy Survey Instrument (DESI)
-Group](https://www.desi.lbl.gov/) Lawrence Berkeley National Lab,
-Berkeley, Sep 2022–present.
+Sep’22 - Aug’25: Postdoctoral Scientist, Lawerence Berkeley National Lab
+(LBNL), Berkeley, CA, USA
 
-Postdoctoral Fellow, Max Planck Institute for Astrophysics (MPA),
-Germany, Aug 2022
+Aug’22: Bridge Postdoctoral Fellow, Max Planck Institute for
+Astrophysics, Garching, Germany
 
-Junior Research Fellow (JRF), National Institute of Advanced Studies,
-Bangalore, Sep 2017 - Jul 2018.
+Sep’18 - Jul’22: IMPRS PhD Fellow, Max Planck Institute for
+Astrophysics, Garching, Germany
 
 </div>
 
