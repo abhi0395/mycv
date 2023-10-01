@@ -902,124 +902,18 @@ era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
 *Open software for Astrophysics*, 2023, Invited Plenary, 241st AAS
 Meeting, Seattle.
 
-*Gaussian Processes for EPRV*, 2022, Invited Tutorial, University of
-Oxford, UK.
-
-*Methods for scalable probabilistic inference*, 2022, Colloquium,
-University of Illinois Urbana-Champaign.  
-2022, Colloquium, UC Berkeley.  
-2022, Colloquium, University of Oxford, UK.  
-2021, Invited Talk, Institute for Pure & Applied Mathematics, UCLA.
-
-*Advanced probabilistic modeling*, 2021, Tutorial, Harley Wood Winter
-School of Astronomy, Australia.
-
-*Open-source software for probabilistic data analysis in astronomy*,
-2021, Seminar, Instituto de Astrofísica, Portugal.
-
-*Gaussian processes & stellar variability*, 2021, Seminar, CARMENES Team
-Meeting.
-
-*Extending JAX with custom C++ & CUDA*, 2021, Invited Talk, IRIS-HEP
-Topical Meeting, CERN.
-
-*Open source software for probabilistic data analysis*, 2020, Invited
-Talk, OzGrav Early Career Researcher Symposium, Australia.
-
-*The why & how of exoplanet, a domain-specific PyMC3 extension*, 2020,
-Contributed Talk, PyMC Con.
-
-*A modular ecosystem for probabilistic data analysis*, 2019, Invited
-Talk, Open Digital Infrastructure in Astronomy conference, Kavli
-Institute for Theoretical Physics.
-
-*Exoplanet population inference, a tutorial*, 2019, Invited Talk,
-Exostar19 conference, Kavli Institute for Theoretical Physics.
-
-*Astronomy as a testbed for statistical method development*, 2019,
-Colloquium, Center for Statistics and Machine Learning, Princeton.
-
-*Data-driven discovery in the astronomical time domain*, 2018,
-Colloquium, Institute for Theory and Computation, Harvard-Smithsonian
-Center for Astrophysics.  
-2018, Colloquium, University of California, Santa Cruz.  
-2017, Interdisciplinary Colloquium, CIERA, Northwestern University.
-
-*A practical introduction to Gaussian Processes for astronomy*, 2017,
-Invited Talk, Statistical Challenges in Astrophysics, University of New
-South Wales, Australia.
-
-*Long-period transiting planets & their population*, 2016, Invited talk,
-Exoplanets I, Davos.  
-2016, Invited talk, Statistical Challenges of Modern Astrophysics,
-Carnegie Mellon.  
-2016, Colloquium, Villanova.
-
-*Scalable Gaussian processes & the search for transiting exoplanets*,
-2015, Data Science at the LHC, CERN, Geneva.
-
-*Discovery & characterization of transiting exoplanets & their
-population*, 2015, Colloquium, University of Washington.
-
-*Hierarchical inference for exoplanet population inference*, 2015, IAU
-Symposium, Honolulu.
-
-*Data-driven models*, 2015, Extreme precision radial velocities, Yale.
-
-*Population inference from noisy & incomplete catalogs*, 2015, Local
-Group Astrostatistics, University of Michigan.
-
-*Time series analysis, Gaussian Processes, and the search for
-exo-Earths*, 2014, PyData NYC conference, New York.
-
-*Introduction to Gaussian Processes, probabilistic graphical models, and
-deep learning*, 2014, Astro Hack Week, University of Washington.
-
-*An astronomer’s introduction to Gaussian processes*, 2014, Bayesian
-Computing for Astronomical Data Analysis (Summer school at Penn State
-University).
-
 </div>
 
-## Grants
 
-<div class="list">
-
-
-NSF-CDS&E (PI: Agol) *Development of fast, multi-dimensional Gaussian
-Processes for Exoplanet discovery and beyond*, \$471,048.00, 2019–2022
-
-NSF-AAG (PI: Agol), *Collaborative Research: Masses and architectures of
-(potentially habitable) exoplanet systems*, \$491,950, 2016–2018
-
-K2 Guest Observer – Cycle 3 (PI: Penny), *Free-Floating and Bound Planet
-Mass Measurements with K2: Ground- and Space-Based Photometry, Event
-Detection and Modeling*, \$84,000, 2016–2017
-
-K2 Guest Observer – Cycle 3 (PI: Hogg), *Ultra-precise photometry in
-crowded fields: A self-calibration approach*, \$100,000, 2016–2017
-
-XSEDE (PI: Foreman-Mackey), *A systematic search for transiting
-exoplanets using K2*, 100,000 CPU hours, 2015–2016
-
-</div>
 
 ## Honors
 
 <div class="list">
 
-
-Kavli Fellow, 2015.
-
-Sagan Postdoctoral Fellowship, 2015–2017.
-
-James Arthur Graduate Fellowship, 2014.
-
-Horizon Fellowship in the Natural & Physical Sciences, 2012.
-
-Henry M. MacCracken Fellowship, 2010.
-
-NSERC Undergraduate Summer Research Award, 2007.
+  DESI Postdoc Fellow, 2022.
+  IMPRS PhD Fellowship, 2018--2022.
+  UGC - Junior Research Fellowship, 2017.
+  DST - INSPIRE Scholarship, 2012-2016.
 
 </div>
 
@@ -1027,13 +921,6 @@ NSERC Undergraduate Summer Research Award, 2007.
 
 <div class="list">
 
-
-Associate Editor-in-Chief — Journal of Open Source Software
-
-Active Referee — AAS Journals, MNRAS, PASP, A&A, Journal of Statistical
-Software, Journal on Uncertainty Quantification, Journal of Open Source
-Software
-
-Panelist — NSF, NASA, LSSTC
+Active Referee — A&A
 
 </div>

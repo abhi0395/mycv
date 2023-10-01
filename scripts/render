@@ -28,23 +28,15 @@ JOURNAL_MAP = {
 def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
-
-    # Hack: Handle missing hyphens
-    pub["authors"] = [
-        a.replace("Anand", "Anand") for a in pub["authors"]
-    ]
-
-    n = [
-        i
-        for i in range(len(pub["authors"]))
-        if "Anand, Abhijeet" or "Anand, A." in pub["authors"][i]
-    ][0]
-    pub["authors"][n] = "\\textbf{Anand, Abhijeet}"
+    nauth = [i for i in range(len(pub["authors"])) if "Anand, A" in pub["authors"][i]][0]
+    
+    pub["authors"][nauth] = "\\textbf{Anand, Abhijeet}"
+    
     if len(pub["authors"]) > 5:
-        fmt += "; ".join(pub["authors"][:4])
+        fmt += "; ".join(pub["authors"][:5])
         fmt += "; \\etal"
-        if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{A.Anand})"
+        if nauth >= 6:
+            fmt += "\\ (incl.\\ \\textbf{A. Anand})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
@@ -72,23 +64,10 @@ def format_pub(args):
     if pub["arxiv"] is not None:
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
-    if pub["citations"] > 1:
+    if pub["citations"] >= 1:
         fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"], pub["citations"])
 
     return fmt
-
-
-def format_repo(repo):
-    repo = repo["node"]
-    for k in ["name", "description"]:
-        repo[k] = utf8totex.utf8totex(repo[k])
-    txt = "\\item \\href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
-    txt += "{repo[stargazers][totalCount]} stars / "
-    txt += "{repo[forkCount]} forks \\\\\n"
-    txt += "{repo[description]} "
-    txt += "\\href{{{repo[homepageUrl]}}}{{[docs]}}"
-    txt = txt.format(repo=repo)
-    return txt
 
 
 if __name__ == "__main__":
@@ -105,44 +84,24 @@ if __name__ == "__main__":
     ]
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
-
+    
     # Compute citation stats
-    npapers = len(ref)
-    nfirst = sum(1 for p in pubs if "Anand" in p["authors"][0])
+    nrefpapers = len(ref)
+    ntotal = len(ref)+len(unref)
+    nfirst = sum(1 for p in pubs if "Anand, A" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "refereed: {1} / first author: {2} / citations: {3:,} / " "h-index: {4} ({0})"
-    ).format(date.today(), npapers, nfirst, ncitations, hindex)
+        "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {5} ({0})"
+    ).format(date.today(), ntotal, nrefpapers, nfirst, ncitations, hindex)
     with open("./tex/pubs_summary.tex", "w") as f:
         f.write(summary)
-
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
+    
     with open("./tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
     with open("./tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
-
-    # # Choose the selected publications
-    # selected = []
-    # for s in select_pubs:
-    #     k = s["key"]
-    #     v = s["value"]
-    #     for doc in pubs:
-    #         if doc[k] == v:
-    #             selected.append(doc)
-    #             break
-    #selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
-    #selected = list(map(format_pub, zip(range(len(selected), 0, -1), selected)))
-    #with open("./tex/pubs_select.tex", "w") as f:
-    #    f.write("\n\n".join(selected))
-
-    # Write the repo info
-    # with open("data/repos.json", "r") as f:
-    #     repos = json.load(f)
-    # repos = repos["data"]["user"]["pinnedItems"]["edges"]
-    # with open("./tex/repos.tex", "w") as f:
-    #     f.write("\n\n".join(map(format_repo, repos)))
