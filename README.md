@@ -8,25 +8,9 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ## Abhijeet Anand
 
-
-<span class="sans-serif">https://abhi0395.github.io</span>  
+ <span class="sans-serif">AbhijeetAnand@lbl.gov,
+https://abhi0395.github.io</span>  
 Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
-
-## Education
-
-<div class="list">
-
-
-PhD 2022, Faculty of Physics, LMU Munich - Max Planck Institute for
-Astrophysics. Advisor: Prof.Dr. Guinevere Kauffmann & Dr. Dylan Nelson
-
-MS 2017, Department of Physics, Indian Institute of Science, Bangalore,
-Advisor: Dr. Nirupam Roy
-
-BS 2016, Department of Physics, Indian Institute of Science, Bangalore,
-Advisor: Prof. Gajendra Pandey, IIA
-
-</div>
 
 ## Positions
 
@@ -42,6 +26,42 @@ Germany, Aug 2022
 
 Junior Research Fellow (JRF), National Institute of Advanced Studies,
 Bangalore, Sep 2017 - Jul 2018.
+
+</div>
+
+## Education
+
+<div class="list">
+
+
+Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
+Max Planck Institute for Astrophysics (MPA), Germany.
+
+- Thesis: [Probing cool and warm circumgalactic gas in galaxies and
+  clusters with large spectroscopic and imaging
+  surveys](https://edoc.ub.uni-muenchen.de/30337/)
+
+- Advisors: [Prof. Dr. Guinevere
+  Kauffmann](https://www.mpa-garching.mpg.de/galaxyformation) & [Dr.
+  Dylan Nelson](https://www.ita.uni-heidelberg.de/~dnelson/)
+
+Jul 2016 - Jul 2017: MS, Physics, Indian Institute of Science (IISc),
+Bangalore, India.
+
+- Thesis: [A sensitive search for HI 21 cm emission from super disks in
+  radio galaxies](/files/MS_thesis.pdf)
+
+- Advisor: [Prof. Nirupam
+  Roy](http://www.physics.iisc.ernet.in/%7Enroy/)
+
+Aug 2012 - June 2016: BSc (Research), Physics, Indian Institute of
+Science, Bangalore, India.
+
+- Thesis: [Sources of Continuum Opacity in Hydrogen deficient
+  stars](/files/BS_thesis.pdf)
+
+- Advisors: [Prof. Gajendra Pandey](https://www.iiap.res.in/?q=user/29),
+  [Indian Institute of Astrophysics (IIA)](https://www.iiap.res.in/)
 
 </div>
 
