@@ -1,7 +1,7 @@
 all:
 	scripts/update-astro-pubs
 	scripts/render
-	cd tex && pandoc -s cv.tex -o ../README.md --template=template.markdown --to=gfm
+	cd tex && pandoc -s cv.tex -o README.md --template=template.markdown --to=gfm
 	scripts/format-markdown
 	git --no-pager diff
 

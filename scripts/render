@@ -71,7 +71,7 @@ def format_pub(args):
 
 
 if __name__ == "__main__":
-    with open("./data/pubs.json", "r") as f:
+    with open("data/pubs.json", "r") as f:
         pubs = json.load(f)
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
     pubs = [
@@ -96,12 +96,12 @@ if __name__ == "__main__":
     summary = (
         "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {5} ({0})"
     ).format(date.today(), ntotal, nrefpapers, nfirst, ncitations, hindex)
-    with open("./tex/pubs_summary.tex", "w") as f:
+    with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
     
-    with open("./tex/pubs_ref.tex", "w") as f:
+    with open("tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
-    with open("./tex/pubs_unref.tex", "w") as f:
+    with open("tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
