@@ -144,7 +144,7 @@ surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
 
 ## Selected visits, talks and conferences
 
-$$^i$$*Invited Visits/Talks*, *Schools & Workshops*
+\*\**Invited Visits/Talks*, \**Schools & Workshops*
 
 ## Honors
 
