@@ -1,6 +1,6 @@
 # Abhijeet Anand's CV
 
-[![Auto update](https://github.com/abhi0395/mycv/workflows/Auto%20update/badge.svg)](https://github.com/abhi0395/mycv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://github.com/abhi0395/mycv/main-pdf/tex/cv_pubs.pdf)
+[![Auto update](https://github.com/abhi0395/mycv/workflows/Auto%20update/badge.svg)](https://github.com/abhi0395/mycv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://github.com/abhi0395/mycv/blob/main-pdf/tex/cv_pubs.pdf)
 
 This CV is based on template designed by Daniel Foreman-Mackey. Here is the original [repository](https://github.com/dfm/cv). Licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
 
@@ -8,9 +8,10 @@ This CV is based on template designed by Daniel Foreman-Mackey. Here is the orig
 
 ## Abhijeet Anand
 
- <span class="sans-serif">AbhijeetAnand@lbl.gov,
-https://abhi0395.github.io</span>  
-Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
+ <span class="sans-serif">Email:
+AbhijeetAnand@lbl.gov, Website: https://abhi0395.github.io</span>
+\[0.5ex\] Postdoctoral Scientist, Lawrence Berkeley National Lab, CA,
+USA \[0.5ex\]
 
 ## Positions
 
@@ -141,20 +142,16 @@ surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
 
 </div>
 
-## Selected invited talks & tutorials
+## Selected visits, talks and conferences
 
-<div class="list">
-
-
-*Open software for Astrophysics*, 2023, Invited Plenary, 241st AAS
-Meeting, Seattle.
-
-</div>
+*$^{i}$Invited Visits/Talks*, *$^{s}$Schools & Workshops*
 
 ## Honors
 
 <div class="list">
 
+
+DESI Early Career Travel Grant (USD 4000)
 
 DESI Postdoc Fellow, 2022.
 
@@ -173,4 +170,37 @@ DST - INSPIRE Scholarship, 2012-2016.
 
 Active Referee — A&A
 
+Collaboration — DESI, NANCY
+
+Organizer — INPA Weekly Seminar, Physica Division, LBNL
+
+My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
+[II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
+in monthly research highlight of MPA and appeared on
+[astrobites](https://astrobites.org/2021/05/06/cool-metal-gas-search-thanks-it-was-automated/).
+
+Gave
+[interview](https://theinterviewportal.com/2020/03/13/astrophysicist-interview-8/)
+to [The Interview Portal](https://theinterviewportal.com/) to help
+Indian college students plan their careers.
+
+Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
+Symposium, 4-5 Apr, 2019.
+
+Served as online physics tutor at E-acharya (more than 20 students)[^1]
+from June 2017 - Aug 2018.
+
+Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017. Solving
+advance physics problems and clearing doubts of students from all over
+the world.
+
+Organized and coordinated scientific and technical workshops ($\sim$ 150
+participants) in “Pravega" (Annual Fest of IISc), in Jan’14.
+
+Conducted experiments and demonstrations for open day celebration at
+IISc during my undergraduate.
+
 </div>
+
+[^1]: an initiative to help poor students in sub-urban and rural areas
+    of Bihar, India.
