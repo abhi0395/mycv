@@ -68,7 +68,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 8 / refereed: 5 / first author: 3 / citations: 90 / h-index: 5
-(2023-10-02)
+(2023-10-01)
 
 ### Refereed publications
 
@@ -157,9 +157,9 @@ DESI Postdoc Fellow, 2022.
 
 IMPRS PhD Fellowship, 2018–2022.
 
-UGC - Junior Research Fellowship, 2017.
+UGC[^1] - Junior Research Fellowship, 2017.
 
-DST - INSPIRE Scholarship, 2012-2016.
+DST[^2] - INSPIRE Scholarship, 2012-2016.
 
 </div>
 
@@ -170,9 +170,10 @@ DST - INSPIRE Scholarship, 2012-2016.
 
 Active Referee — A&A
 
-Collaboration — DESI, NANCY
+Collaboration — [DESI](https://www.desi.lbl.gov/), NANCY
 
-Organizer — INPA Weekly Seminar, Physica Division, LBNL
+Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
+Division, LBNL
 
 My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
 [II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
@@ -187,7 +188,7 @@ Indian college students plan their careers.
 Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
 Symposium, 4-5 Apr, 2019.
 
-Served as online physics tutor at E-acharya (more than 20 students)[^1]
+Served as online physics tutor at E-acharya (more than 20 students)[^3]
 from June 2017 - Aug 2018.
 
 Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017. Solving
@@ -195,12 +196,18 @@ advance physics problems and clearing doubts of students from all over
 the world.
 
 Organized and coordinated scientific and technical workshops ($\sim$ 150
-participants) in “Pravega" (Annual Fest of IISc), in Jan’14.
+participants) in *Pravega*[^4], in Jan’14.
 
 Conducted experiments and demonstrations for open day celebration at
 IISc during my undergraduate.
 
 </div>
 
-[^1]: an initiative to help poor students in sub-urban and rural areas
+[^1]: University Grants Commission, Govt. of India
+
+[^2]: Department of Science & Technology, Govt. of India
+
+[^3]: an initiative to help poor students in sub-urban and rural areas
     of Bihar, India.
+
+[^4]: Annual Science Festival of IISc
