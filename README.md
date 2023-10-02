@@ -144,19 +144,19 @@ surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
 
 ## Selected visits, talks and conferences
 
-$$^i$$*Invited Visits/Talks*, $$^s$$*Schools & Workshops*
+i*Invited Visits/Talks*, s*Schools & Workshops*
 
 <div class="list">
 
 
-$$^i$$Aug 2023: *DESI Data Systems and Management Meeting*, Aug 29, 2023
+iAug 2023: *DESI Data Systems and Management Meeting*, Aug 29, 2023
 (*Virtual Talk*).
 
 Jul 2023: *DESI Collaboration Summer Meeting*, Durham, UK, Jul 17 - Jul
 21, 2023 (*Talk*).
 
-$$^i$$Mar 2023: *DESI Absorber Science Workshop*, Mar 28, 2023 (
-*Virtual Talk*).
+iMar 2023: *DESI Absorber Science Workshop*, Mar 28, 2023 ( *Virtual
+Talk*).
 
 Dec 2022: *DESI Collaboration Winter Meeting*, Cancun, Mexico, 5-9 Dec,
 2022 (*Talk*).
@@ -165,7 +165,7 @@ Sep 2022: *[What matter(s) around galaxies
 2022](https://sites.google.com/unimib.it/gas2022/home)*, Champoluc,
 Italy, 12-16 Sep, 2022 (*Virtual*).
 
-$$^i$$May 2022: *[Gas Flows around
+iMay 2022: *[Gas Flows around
 Galaxies](https://indico.ph.tum.de/event/7018/)*, MPA, Garching, 24 May,
 2022 (*Talk*).
 
@@ -173,21 +173,20 @@ Apr 2022: *[Galaxy Clusters
 2022](https://www.stsci.edu/contents/events/stsci/2022/april/galaxy-clusters-2022-challenging-our-cosmological-perspectives)*,
 STScI 25-29 Apr, 2022 (*e-Poster*).
 
-$$^i$$Mar 2022: *[Computational Galaxy Formation and Evolution
+iMar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
 University of Heidelberg, 14-16 Mar, 2022 (*Visitor*).
 
-$$^i$$Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
+iFeb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
 (*Virtual*).
 
-$$^i$$Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
-(*Virtual*).
+iFeb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022 (*Virtual*).
 
-$$^i$$Dec 2021: *[Galaxies & Cosmology
+iDec 2021: *[Galaxies & Cosmology
 Seminar](https://pweb.cfa.harvard.edu/calendar/event/9298)*, CfA
 Harvard, 13 Dec, 2021 (*Virtual*).
 
-$$^i$$Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
+iSep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 (*Virtual*).
 
 Nov 2021: *[e-Poster &
@@ -202,15 +201,15 @@ Sep 2021: *[German Astronomical Society Meeting
 Aug 2021: *[SDSS-IV Collaboration Meeting
 2021](https://jhu2021.sdss.org/)*, 12 Aug, 2021 (*Virtual + e-poster*)
 
-$$^s$$Jul 2021: *MIAPP Workshop: High-Energy Plasma Physics Phenomena in
+sJul 2021: *MIAPP Workshop: High-Energy Plasma Physics Phenomena in
 Astrophysics*, MIAPP, Garching, Jul 19 - 30, 2021 (*Virtual
 participant*).
 
 Jun 2021: *MPA Galaxy Group Retreat*, Fraueninsel, Chiemsee, 14-17 June,
 2021 (*Talk*).
 
-$$^s$$Jan 2021: *Fundamental of Gaseous Halos*, KITP, UCSB, 11 Jan - 5
-Mar, 2021 (*Virtual participant*).
+sJan 2021: *Fundamental of Gaseous Halos*, KITP, UCSB, 11 Jan - 5 Mar,
+2021 (*Virtual participant*).
 
 Oct 2020: *Galaxy Introductory Symposium*, MPA, Garching, 27 Oct, 2020
 (*Virtual*).
@@ -221,10 +220,10 @@ Oct 2019: *[CGM 2019: CGM
 Conference](https://wwwmpa.mpa-garching.mpg.de/conf/berlincgm2019/)*,
 Berlin, 3 Oct - 5 Oct 2019 (*Participation*).
 
-$$^s$$Aug 2019: *Summer School: Galaxy Formation*, AKSS, Spetses, 28
-Aug - 5 Sept 2019.
+sAug 2019: *Summer School: Galaxy Formation*, AKSS, Spetses, 28 Aug - 5
+Sept 2019.
 
-$$^s$$Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
+sNov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 2018.
 
 </div>
