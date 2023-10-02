@@ -6,7 +6,9 @@ This CV is based on template designed by Daniel Foreman-Mackey. Here is the orig
 
 <hr>
 
-**Abhijeet Anand** <span class="sans-serif">AbhijeetAnand@lbl.gov,
+## Abhijeet Anand
+
+ <span class="sans-serif">AbhijeetAnand@lbl.gov,
 https://abhi0395.github.io</span>  
 Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
 
@@ -14,7 +16,6 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 
 <div class="list">
 
-=0ex =0.2ex
 
 Sep’22 - Aug’25: Postdoctoral Scientist, Lawerence Berkeley National Lab
 (LBNL), Berkeley, CA, USA
@@ -31,7 +32,6 @@ Astrophysics, Garching, Germany
 
 <div class="list">
 
-=0ex =0.2ex
 
 Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
 Max Planck Institute for Astrophysics (MPA), Germany.
@@ -73,7 +73,6 @@ Total: 8 / refereed: 5 / first author: 3 / citations: 90 / h-index: 5
 
 <div class="list">
 
-=0ex =0.2ex
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 **Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
@@ -119,7 +118,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 <div class="list">
 
-=0ex =0.2ex
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
@@ -147,7 +145,6 @@ surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
 
 <div class="list">
 
-=0ex =0.2ex
 
 *Open software for Astrophysics*, 2023, Invited Plenary, 241st AAS
 Meeting, Seattle.
@@ -158,7 +155,6 @@ Meeting, Seattle.
 
 <div class="list">
 
-=0ex =0.2ex
 
 DESI Postdoc Fellow, 2022.
 
@@ -174,7 +170,6 @@ DST - INSPIRE Scholarship, 2012-2016.
 
 <div class="list">
 
-=0ex =0.2ex
 
 Active Referee — A&A
 
