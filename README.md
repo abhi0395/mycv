@@ -6,12 +6,11 @@ This CV is based on template designed by Daniel Foreman-Mackey. Here is the orig
 
 <hr>
 
-## Abhijeet Anand
+## Abhijeet Anand, PhD
 
- <span class="sans-serif">Email:
-AbhijeetAnand@lbl.gov, Website: https://abhi0395.github.io</span>
-\[0.5ex\] Postdoctoral Scientist, Lawrence Berkeley National Lab, CA,
-USA \[0.5ex\]
+ <span class="sans-serif">email:
+AbhijeetAnand@lbl.gov, website: https://abhi0395.github.io</span>  
+Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
 
 ## Positions
 
