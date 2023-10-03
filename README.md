@@ -245,12 +245,25 @@ DST[^2] - INSPIRE Scholarship, 2012-2016.
 
 </div>
 
+## Computer skills
+
+<div class="list">
+
+
+Language/Packages — python, numpy, matplotlib, scipy, astropy
+
+OS/Tools — Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm
+manager, git
+
+</div>
+
 ## Professional service & activities
 
 <div class="list">
 
 
-Active Referee — A&A
+Active Referee —
+[A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics)
 
 Collaboration — [Dark Energy Survey Instrument
 (DESI)](https://www.desi.lbl.gov/), NANCY
