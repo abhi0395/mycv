@@ -17,8 +17,8 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 <div class="list">
 
 
-Sep’22 - Aug’25: Postdoctoral Scientist, Lawerence Berkeley National Lab
-(LBNL), Berkeley, CA, USA  
+Sep’22 - Aug’25: Postdoctoral Scientist, Lawerence Berkeley National
+Lab, Berkeley, USA  
 
 - Team: [Dark Energy Survey Instrument
   (DESI)](https://www.desi.lbl.gov/)
