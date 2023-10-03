@@ -18,13 +18,8 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 
 
 Sep’22 - Aug’25: Postdoctoral Scientist, Lawerence Berkeley National Lab
-(LBNL), Berkeley, CA, USA
-
-<div class="itemize*">
-
-Team: [Dark Energy Survey Instrument (DESI)]()
-
-</div>
+(LBNL), Berkeley, CA, USA  
+Team: [Dark Energy Survey Instrument (DESI)](https://www.desi.lbl.gov/)
 
 Aug’22: Bridge Postdoctoral Fellow, Max Planck Institute for
 Astrophysics, Garching, Germany
@@ -262,15 +257,9 @@ Collaboration — [Dark Energy Survey Instrument
 (DESI)](https://www.desi.lbl.gov/), NANCY
 
 Member & contributor (github repo) —
-
-<div class="itemize*">
-
 [redrock](https://github.com/desihub/redrock): Redshift fitting for
 spectroperfectionism.  
-
 [desihub](https://github.com/desihub): Public code associated with DESI.
-
-</div>
 
 Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL
