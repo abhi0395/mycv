@@ -8,9 +8,10 @@ This CV is based on template designed by [Daniel Foreman-Mackey](https://dfm.io/
 
 ## Abhijeet Anand, PhD
 
- <span class="sans-serif">AbhijeetAnand@lbl.gov,
-[https://www.mpa-garching.mpg.de/ abhijeet/](https://www.mpa-garching.mpg.de/~abhijeet/)</span>  
+  
 Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
+<span class="sans-serif">AbhijeetAnand@lbl.gov,
+[https://www.mpa-garching.mpg.de/ abhijeet/](https://www.mpa-garching.mpg.de/~abhijeet/)</span>\[0.5ex\]
 
 ## Positions
 
