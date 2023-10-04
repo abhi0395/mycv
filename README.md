@@ -243,7 +243,7 @@ IMPRS PhD Fellowship, 2018–2022.
 
 UGC[^1] - Junior Research Fellowship, 2017-2018 (INR 390,000).
 
-DST[^2] - INSPIRE Scholarship, 2012-2016.
+DST[^2] - Higher Studies Scholarship, 2012-2017.
 
 </div>
 
