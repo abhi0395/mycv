@@ -52,7 +52,8 @@ Jul 2016 - Jul 2017: MS, Physics, Indian Institute of Science (IISc),
 Bangalore, India.
 
 - Thesis: [A sensitive search for HI 21 cm emission from super disks in
-  radio galaxies](/files/MS_thesis.pdf)
+  radio
+  galaxies](https://raw.githubusercontent.com/abhi0395/mycv/main/files/MS_thesis.pdf)
 
 - Advisor: [Prof. Nirupam
   Roy](http://www.physics.iisc.ernet.in/%7Enroy/)
@@ -61,7 +62,7 @@ Aug 2012 - June 2016: BSc (Research), Physics, Indian Institute of
 Science, Bangalore, India.
 
 - Thesis: [Sources of Continuum Opacity in Hydrogen deficient
-  stars](/files/BS_thesis.pdf)
+  stars](https://raw.githubusercontent.com/abhi0395/mycv/main/files/BS_thesis.pdf)
 
 - Advisors: [Prof. Gajendra Pandey](https://www.iiap.res.in/?q=user/29),
   [Indian Institute of Astrophysics (IIA)](https://www.iiap.res.in/)
