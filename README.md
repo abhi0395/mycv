@@ -30,6 +30,9 @@ Astrophysics, Garching, Germany
 Sep’18 - Jul’22: IMPRS PhD Fellow, Max Planck Institute for
 Astrophysics, Garching, Germany
 
+Sep’17 - Jul’18: UGC - JRF[^1], National Institute of Advanced Studies,
+Bangalore, India
+
 </div>
 
 ## Education
@@ -241,7 +244,7 @@ DESI Postdoc Fellow, 2022-2025.
 
 IMPRS PhD Fellowship, 2018–2022.
 
-UGC[^1] - Junior Research Fellowship, 2017-2018 (INR 390,000).
+UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
 
 DST[^2] - Higher Studies Scholarship, 2012-2017.
 
@@ -311,7 +314,8 @@ IISc during my undergraduate.
 
 </div>
 
-[^1]: University Grants Commission, Govt. of India
+[^1]: University Grants Commission, Govt. of India - Junior Research
+    Fellowship
 
 [^2]: Department of Science & Technology, Govt. of India
 
