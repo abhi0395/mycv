@@ -18,7 +18,7 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 <div class="list">
 
 
-Sep’22 - Aug’25: Postdoctoral Scientist, Lawerence Berkeley National
+Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
 - Team: [Dark Energy Survey Instrument
