@@ -22,10 +22,10 @@ Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
 - Group: [Dark Energy Survey Instrument
-  (DESI)](https://www.desi.lbl.gov/), Supervisor: Dr. Julien Guy
+  (DESI)](https://www.desi.lbl.gov/), *Supervisor*: Dr. Julien Guy
 
-- Improving redshift estimation algorithm for DESI galaxes, using DESI
-  spectra to characterize cool/warm gas in galactic halo
+- *Improving redshift estimation algorithm for DESI galaxes, using DESI
+  spectra to characterize cool/warm gas in galactic halo*
 
 Aug’22: Bridge Postdoctoral Fellow, Max Planck Institute for
 Astrophysics, Garching, Germany
