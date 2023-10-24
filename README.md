@@ -11,7 +11,7 @@ This CV is based on template designed by [Daniel Foreman-Mackey](https://dfm.io/
   
 Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
-[https://www.mpa-garching.mpg.de/ abhijeet/](https://www.mpa-garching.mpg.de/~abhijeet/)</span>  
+[https://abhi0395.github.io/](https://abhi0395.github.io/)</span>  
 
 ## Positions
 
