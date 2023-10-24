@@ -11,7 +11,7 @@ This CV is based on template designed by [Daniel Foreman-Mackey](https://dfm.io/
   
 Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
-[https://abhi0395.github.io/](https://abhi0395.github.io/)</span>  
+[https://www.mpa-garching.mpg.de/ abhijeet/](https://www.mpa-garching.mpg.de/~abhijeet/)</span>  
 
 ## Positions
 
@@ -24,7 +24,7 @@ Lab, Berkeley, CA, USA
 - Group: [Dark Energy Survey Instrument
   (DESI)](https://www.desi.lbl.gov/), *Supervisor*: Dr. Julien Guy
 
-- *Improving redshift estimation algorithm for DESI galaxes, using DESI
+- *Improving redshift estimation algorithm for DESI galaxies, using DESI
   spectra to characterize cool/warm gas in galactic halo*
 
 Aug’22: Bridge Postdoctoral Fellow, Max Planck Institute for
@@ -77,8 +77,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 5 / first author: 3 / citations: 95 / h-index: 5
-(2023-10-12)
+Total: 8 / refereed: 5 / first author: 3 / citations: 99 / h-index: 5
+(2023-10-24)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[6
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
@@ -141,7 +141,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[Validation of the Scientific
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2306.06307)*, ArXiv
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[25
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606307D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
