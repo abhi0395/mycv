@@ -77,8 +77,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 5 / first author: 3 / citations: 100 / h-index: 5
-(2023-10-28)
+Total: 8 / refereed: 5 / first author: 3 / citations: 101 / h-index: 5
+(2023-10-29)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[8
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
