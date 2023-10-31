@@ -159,16 +159,10 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
-$^i$ Aug 2023: *DESI Data Systems and Management Meeting*, Oct 31, 2023
-(*Virtual Talk*).
-
-$^i$ Aug 2023: *DESI Data Systems and Management Meeting*, Aug 29, 2023
-(*Virtual Talk*).
-
 $^c$ Jul 2023: *DESI Collaboration Summer Meeting*, Durham, UK, Jul 17 -
 Jul 21, 2023 (*Talk*).
 
-$^i$ Mar 2023: *DESI Absorber Science Workshop*, Mar 28, 2023 ( *Virtual
+$^c$ Mar 2023: *DESI Absorber Science Workshop*, Mar 28, 2023 ( *Virtual
 Talk*).
 
 $^c$ Dec 2022: *DESI Collaboration Winter Meeting*, Cancun, Mexico, 5-9
@@ -224,7 +218,7 @@ Mar, 2021 (*Virtual participant*).
 $^c$ Oct 2020: *Galaxy Introductory Symposium*, MPA, Garching, 27 Oct,
 2020 (*Virtual*).
 
-$^i$ Oct 2020: *Institute Seminar*, MPA, Garching, 26 Oct, 2020
+$^c$ Oct 2020: *Institute Seminar*, MPA, Garching, 26 Oct, 2020
 (*Virtual*).
 
 $^c$ Oct 2019: *[CGM 2019: CGM
