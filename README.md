@@ -159,6 +159,9 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
+$^i$ Aug 2023: *DESI Data Systems and Management Meeting*, Oct 31, 2023
+(*Virtual Talk*).
+
 $^i$ Aug 2023: *DESI Data Systems and Management Meeting*, Aug 29, 2023
 (*Virtual Talk*).
 
