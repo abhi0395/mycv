@@ -77,7 +77,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 5 / first author: 3 / citations: 102 / h-index: 5
+Total: 8 / refereed: 5 / first author: 3 / citations: 106 / h-index: 5
 (2023-11-02)
 
 ### Refereed publications
@@ -134,14 +134,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2306.06308)*, ArXiv
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[36
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606308D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[Validation of the Scientific
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2306.06307)*, ArXiv
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[29
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606307D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
