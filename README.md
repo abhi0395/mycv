@@ -77,8 +77,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 5 / first author: 3 / citations: 116 / h-index: 5
-(2023-11-17)
+Total: 8 / refereed: 5 / first author: 3 / citations: 117 / h-index: 5
+(2023-11-18)
 
 ### Refereed publications
 
@@ -113,7 +113,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[17
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
