@@ -77,7 +77,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 10 / refereed: 6 / first author: 4 / citations: 126 / h-index: 5
+Total: 9 / refereed: 5 / first author: 3 / citations: 122 / h-index: 5
 (2023-12-06)
 
 ### Refereed publications
@@ -107,13 +107,6 @@ absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
 ([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
-
-**Anand, Abhijeet**; Pape, J.; Wille, M.; Mezger, K.; & Hofmann, B.,
-2021, *[Early differentiation of magmatic iron meteorite parent bodies
-from Mn-Cr chronometry](http://dx.doi.org/10.7185/geochemlet.2136)*,
-Geochemical Perspectives Letters, **20**, 6
-([arXiv:2111.15291](http://arxiv.org/abs/2111.15291)) \[[4
-citations](https://ui.adsabs.harvard.edu/abs/2021GChPL..20....6A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
 *[Characterizing the abundance, properties, and kinematics of the cool
