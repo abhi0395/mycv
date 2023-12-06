@@ -77,7 +77,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 2 / refereed: 1 / first author: 0 / citations: 2 / h-index: 1
+Total: 10 / refereed: 6 / first author: 4 / citations: 126 / h-index: 5
 (2023-12-06)
 
 ### Refereed publications
@@ -93,12 +93,70 @@ Journal, **166**, 99
 ([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
+Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
+White, Simon D. M., 2023, *[The physical origin of galactic conformity:
+from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
+Monthly Notices of the Royal Astronomical Society, **519**, 1913
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[9
+citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
+
+**Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
+circumgalactic gas in galaxy clusters: connecting the DESI legacy
+imaging survey and SDSS DR16 Mg II
+absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
+the Royal Astronomical Society, **513**, 3210
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[11
+citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
+
+**Anand, Abhijeet**; Pape, J.; Wille, M.; Mezger, K.; & Hofmann, B.,
+2021, *[Early differentiation of magmatic iron meteorite parent bodies
+from Mn-Cr chronometry](http://dx.doi.org/10.7185/geochemlet.2136)*,
+Geochemical Perspectives Letters, **20**, 6
+([arXiv:2111.15291](http://arxiv.org/abs/2111.15291)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2021GChPL..20....6A)\]
+
+**Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
+*[Characterizing the abundance, properties, and kinematics of the cool
+circumgalactic medium of galaxies in absorption with SDSS
+DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
+Royal Astronomical Society, **504**, 65
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[18
+citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
+
+**Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
+I emission from superdisk candidates associated with radio
+galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
+Astronomy and Astrophysics, **19**, 83
+([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
+
 </div>
 
 ### Preprints & white papers
 
 <div class="list">
 
+
+Campeti, P.; Komatsu, E.; Baccigalupi, C.; Ballardini, M.; Bartolo, N.;
+*et al.* (incl. **A. Anand**), 2023, *[LiteBIRD Science Goals and
+Forecasts. A Case Study of the Origin of Primordial Gravitational Waves
+using Large-Scale CMB
+Polarization](http://dx.doi.org/10.48550/arXiv.2312.00717)*, ArXiv
+([arXiv:2312.00717](http://arxiv.org/abs/2312.00717))
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
+Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.48550/arXiv.2306.06308)*, ArXiv
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[45
+citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606308D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2023, *[Validation of the Scientific
+Program for the Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.48550/arXiv.2306.06307)*, ArXiv
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[36
+citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606307D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
 Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
