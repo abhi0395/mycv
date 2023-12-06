@@ -19,7 +19,7 @@ def get_papers(author):
     papers = list(
         ads.SearchQuery(
             author=author,
-            q='astrophysics',
+            q='galaxies',
             fl=[
                 "id",
                 "title",
