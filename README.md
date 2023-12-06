@@ -77,7 +77,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 0 / refereed: 0 / first author: 0 / citations: 0 / h-index: 0
+Total: 2 / refereed: 1 / first author: 0 / citations: 2 / h-index: 1
 (2023-12-06)
 
 ### Refereed publications
@@ -85,12 +85,26 @@ Total: 0 / refereed: 0 / first author: 0 / citations: 0 / h-index: 0
 <div class="list">
 
 
+Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
+**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
+II Absorption in DESI Survey Validation Quasar
+Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
+Journal, **166**, 99
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
+
 </div>
 
 ### Preprints & white papers
 
 <div class="list">
 
+
+Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
+Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
+Next-generation All-sky Near-infrared Community
+surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
+([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
 
 </div>
 
