@@ -82,8 +82,8 @@ def get_papers(author):
                     url="https://ui.adsabs.harvard.edu/abs/" + paper.bibcode,
                 )
             )
-    else:
-        continue
+        else:
+            continue
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
 
