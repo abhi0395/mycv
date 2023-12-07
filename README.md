@@ -77,7 +77,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 9 / refereed: 5 / first author: 3 / citations: 122 / h-index: 5
+Total: 8 / refereed: 5 / first author: 3 / citations: 122 / h-index: 5
 (2023-12-07)
 
 ### Refereed publications
@@ -129,13 +129,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 <div class="list">
 
-
-Campeti, P.; Komatsu, E.; Baccigalupi, C.; Ballardini, M.; Bartolo, N.;
-*et al.* (incl. **A. Anand**), 2023, *[LiteBIRD Science Goals and
-Forecasts. A Case Study of the Origin of Primordial Gravitational Waves
-using Large-Scale CMB
-Polarization](http://dx.doi.org/10.48550/arXiv.2312.00717)*, ArXiv
-([arXiv:2312.00717](http://arxiv.org/abs/2312.00717))
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
