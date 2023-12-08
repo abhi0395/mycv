@@ -77,8 +77,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 5 / first author: 3 / citations: 122 / h-index: 5
-(2023-12-07)
+Total: 8 / refereed: 5 / first author: 3 / citations: 124 / h-index: 5
+(2023-12-08)
 
 ### Refereed publications
 
@@ -105,7 +105,7 @@ circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[11
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
@@ -148,7 +148,8 @@ Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
 Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
 Next-generation All-sky Near-infrared Community
 surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
-([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
+([arXiv:2306.11784](http://arxiv.org/abs/2306.11784)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
