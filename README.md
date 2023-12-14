@@ -160,6 +160,9 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
+$^c$ Dec 2023: *DESI Collaboration Winter Meeting*, Kona, Hawaii, Dec
+11 - Dec 14, 2023 (*Virtual talk*).
+
 $^c$ Jul 2023: *DESI Collaboration Summer Meeting*, Durham, UK, Jul 17 -
 Jul 21, 2023 (*Talk*).
 
