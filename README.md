@@ -272,7 +272,8 @@ manager, git
 
 
 Active Referee —
-[A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics)
+[A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
+Internal Reviewer for DESI collaboration papers
 
 Collaboration — [Dark Energy Survey Instrument
 (DESI)](https://www.desi.lbl.gov/), NANCY
@@ -288,7 +289,8 @@ Member & contributor (github repo) —
 Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL
 
-Mentoring — Corey Dodeson, UC Berkeley UG (short-term spring project)
+Mentoring — Corey Dodeson, UC Berkeley UG (short-term spring project),
+Dylan Green, UC Irvine (as part of DESI mentorship program)
 
 My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
 [II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
