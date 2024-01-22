@@ -77,13 +77,19 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 5 / first author: 3 / citations: 145 / h-index: 5
-(2024-01-21)
+Total: 9 / refereed: 6 / first author: 3 / citations: 146 / h-index: 5
+(2024-01-22)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Aldering, G.;
+*et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
+Program for the Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
+Astronomical Journal, **167**, 62
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 **Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
@@ -134,7 +140,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2306.06308)*, ArXiv
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[57
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606308D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
