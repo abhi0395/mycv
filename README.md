@@ -90,6 +90,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Aldering, G.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307))
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 **Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
