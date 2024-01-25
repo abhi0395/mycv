@@ -27,6 +27,23 @@ views can grow together.
 
 ## Positions
 
+<div class="list">
+
+
+Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
+Lab, Berkeley, CA, USA  
+
+Aug’22: Bridge Postdoctoral Fellow, Max Planck Institute for
+Astrophysics, Garching, Germany
+
+Sep’18 - Jul’22: IMPRS PhD Fellow, Max Planck Institute for
+Astrophysics, Garching, Germany
+
+Sep’17 - Jul’18: UGC - JRF[^1], National Institute of Advanced Studies,
+Bangalore, India
+
+</div>
+
 ## Education
 
 <div class="list">
@@ -240,7 +257,7 @@ IMPRS PhD Fellowship, 2018–2022.
 
 UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
 
-DST[^1] - Higher Studies Scholarship, 2012-2017.
+DST[^2] - Higher Studies Scholarship, 2012-2017.
 
 </div>
 
@@ -295,7 +312,7 @@ Indian college students plan their careers.
 Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
 Symposium, 4-5 Apr, 2019.
 
-Served as online physics tutor at E-acharya (more than 20 students)[^2]
+Served as online physics tutor at E-acharya (more than 20 students)[^3]
 from June 2017 - Aug 2018.
 
 Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017. Solving
@@ -303,16 +320,19 @@ advance physics problems and clearing doubts of students from all over
 the world.
 
 Organized and coordinated scientific and technical workshops ($\sim$ 150
-participants) in *Pravega*[^3], in Jan’14.
+participants) in *Pravega*[^4], in Jan’14.
 
 Conducted experiments and demonstrations for open day celebration at
 IISc during my undergraduate.
 
 </div>
 
-[^1]: Department of Science & Technology, Govt. of India
+[^1]: University Grants Commission, Govt. of India - Junior Research
+    Fellowship
 
-[^2]: an initiative to help poor students in sub-urban and rural areas
+[^2]: Department of Science & Technology, Govt. of India
+
+[^3]: an initiative to help poor students in sub-urban and rural areas
     of Bihar, India.
 
-[^3]: Annual Science Festival of IISc
+[^4]: Annual Science Festival of IISc
