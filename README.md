@@ -22,7 +22,7 @@ Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
 - Group: [Dark Energy Survey Instrument
-  (DESI)](https://www.desi.lbl.gov/), *Supervisor*: Dr. Julien Guy
+  (DESI)](https://www.desi.lbl.gov/)
 
 - *Improving redshift estimation algorithm for DESI galaxies, using DESI
   spectra to characterize cool/warm gas in galactic halo*
@@ -74,6 +74,15 @@ Science, Bangalore, India.
   [Indian Institute of Astrophysics (IIA)](https://www.iiap.res.in/)
 
 </div>
+
+## Research Interest
+
+- Understanding gas in flows in galaxy halo (aka circumgalactic medium)
+  using quasar absorption lines and its connection to galaxy formation
+  and evolution
+
+- Developing new tools to fit and analyze astronomical spectra coming
+  from large spectrscopic surveys
 
 ## Publications
 
