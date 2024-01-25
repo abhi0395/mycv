@@ -13,6 +13,18 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
 <https://abhi0395.github.io/></span>  
 
+## Research Interest
+
+My research focuses on understanding gas flows in the galaxy halo, also
+known as the circumgalactic medium, through the analysis of quasar
+absorption lines. I explore the connection between these gas flows and
+the formation and evolution of galaxies across different epochs.
+Additionally, I have a keen interest in developing novel tools for
+fitting and analyzing astronomical spectra coming from large
+spectroscopic surveys. I also make effort to build a healthy enviornment
+and peer community where people from different background and diverse
+views can grow together.
+
 ## Positions
 
 <div class="list">
@@ -74,15 +86,6 @@ Science, Bangalore, India.
   [Indian Institute of Astrophysics (IIA)](https://www.iiap.res.in/)
 
 </div>
-
-## Research Interest
-
-- Understanding gas in flows in galaxy halo (aka circumgalactic medium)
-  using quasar absorption lines and its connection to galaxy formation
-  and evolution
-
-- Developing new tools to fit and analyze astronomical spectra coming
-  from large spectrscopic surveys
 
 ## Publications
 
