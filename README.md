@@ -83,8 +83,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 6 / first author: 3 / citations: 146 / h-index: 5
-(2024-01-26)
+Total: 8 / refereed: 6 / first author: 3 / citations: 148 / h-index: 5
+(2024-01-27)
 
 ### Refereed publications
 
@@ -96,7 +96,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Aldering, G.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[43
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62A)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -155,7 +155,7 @@ Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
 Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
 Next-generation All-sky Near-infrared Community
 surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
-([arXiv:2306.11784](http://arxiv.org/abs/2306.11784)) \[[1
+([arXiv:2306.11784](http://arxiv.org/abs/2306.11784)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
