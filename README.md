@@ -83,8 +83,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 6 / first author: 3 / citations: 148 / h-index: 5
-(2024-01-27)
+Total: 8 / refereed: 6 / first author: 3 / citations: 149 / h-index: 5
+(2024-01-28)
 
 ### Refereed publications
 
@@ -96,7 +96,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Aldering, G.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[44
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62A)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
