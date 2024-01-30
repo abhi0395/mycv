@@ -280,7 +280,8 @@ manager, git
 
 Active Referee —
 [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
-Internal Reviewer for DESI collaboration papers
+[ApJ](https://en.wikipedia.org/wiki/The_Astrophysical_Journal)Internal
+Reviewer for DESI collaboration papers
 
 Collaboration — [Dark Energy Survey Instrument
 (DESI)](https://www.desi.lbl.gov/), NANCY
