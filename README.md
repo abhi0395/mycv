@@ -83,8 +83,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 6 / first author: 3 / citations: 149 / h-index: 5
-(2024-02-01)
+Total: 8 / refereed: 6 / first author: 3 / citations: 151 / h-index: 5
+(2024-02-02)
 
 ### Refereed publications
 
@@ -96,7 +96,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Aldering, G.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[45
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62A)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -119,7 +119,7 @@ circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[12
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
