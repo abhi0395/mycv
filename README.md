@@ -83,8 +83,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 8 / refereed: 6 / first author: 3 / citations: 162 / h-index: 5
-(2024-02-22)
+Total: 8 / refereed: 6 / first author: 3 / citations: 161 / h-index: 5
+(2024-02-23)
 
 ### Refereed publications
 
@@ -119,7 +119,7 @@ circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[13
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
