@@ -84,7 +84,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 8 / refereed: 6 / first author: 3 / citations: 167 / h-index: 6
-(2024-02-28)
+(2024-02-29)
 
 ### Refereed publications
 
@@ -166,6 +166,12 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
+
+$^i$ Feb 2024: *MPA Extragalactic Seminar*, MPA Garching, Germany, Feb
+29, 2024 (*Talk*).
+
+$^i$ Feb 2024: *MPA Cosmology Seminar*, MPA Garching, Germany, Feb 27,
+2024 (*Talk*).
 
 $^c$ Dec 2023: *DESI Collaboration Winter Meeting*, Kona, Hawaii, Dec
 11 - Dec 14, 2023 (*Virtual talk*).
