@@ -15,15 +15,16 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 
 ## Research Interest
 
-My research focuses on understanding gas flows in the galaxy halo, also
-known as the circumgalactic medium, through the analysis of quasar
-absorption lines. I explore the connection between these gas flows and
-the formation and evolution of galaxies across different epochs.
-Additionally, I have a keen interest in developing novel tools for
-fitting and analyzing astronomical spectra coming from large
-spectroscopic surveys. I also make effort to build a healthy enviornment
-and peer community where people from different background and diverse
-views can grow together.
+My research primarily revolves around investigating gas flows within the
+galaxy halo, commonly referred to as the circumgalactic medium, using
+quasar absorption lines. I explore the connection between these gas
+flows and the formation and evolution of galaxies across different
+epochs. Furthermore, I am deeply interested in developing and learning
+innovative methodologies for fitting and analysing astronomical spectra
+coming from large spectroscopic surveys. Additionally, fostering a
+healthy environment where individuals from diverse backgrounds and
+perspectives can thrive collectively is a core aspect of my professional
+values.
 
 ## Positions
 
@@ -167,11 +168,11 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
-$^i$ Feb 2024: *MPA Extragalactic Seminar*, MPA Garching, Germany, Feb
-29, 2024 (*Talk*).
-
-$^i$ Feb 2024: *MPA Cosmology Seminar*, MPA Garching, Germany, Feb 27,
+$^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
+
+$^i$ Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
+(*Talk*).
 
 $^c$ Dec 2023: *DESI Collaboration Winter Meeting*, Kona, Hawaii, Dec
 11 - Dec 14, 2023 (*Virtual talk*).
@@ -259,7 +260,7 @@ Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100)
 
 Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM)
 
-Dylan Green, UC Irvine PhD (as part of DESI mentorship program)
+Dylan Green (UC Irvine PhD) (as part of DESI mentorship program)
 
 </div>
 
