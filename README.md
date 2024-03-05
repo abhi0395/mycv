@@ -256,11 +256,11 @@ $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 <div class="list">
 
 
-Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100)
+Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100), 2024-present
 
-Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM)
+Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM), 2023
 
-Dylan Green (UC Irvine PhD) (as part of DESI mentorship program)
+Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
 
 </div>
 
