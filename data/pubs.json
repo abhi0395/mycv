@@ -2,6 +2,7 @@
   {
     "arxiv": "2306.06307",
     "authors": [
+      "DESI Collaboration",
       "Adame, A. G.",
       "Aguilar, J.",
       "Ahlen, S.",
@@ -268,14 +269,14 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 59,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": 62,
     "pub": "The Astronomical Journal",
     "pubdate": "2024-02-00",
     "title": "Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024AJ....167...62A",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D",
     "volume": "167",
     "year": "2024"
   },
