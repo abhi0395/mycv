@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 12 / refereed: 6 / first author: 3 / citations: 408 / h-index: 8
-(2024-05-18)
+Total: 12 / refereed: 6 / first author: 3 / citations: 422 / h-index: 8
+(2024-05-19)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[88
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[91
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -155,28 +155,28 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[33
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[72
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[77
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[31
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2306.06308)*, ArXiv
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[124
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[127
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606308D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
