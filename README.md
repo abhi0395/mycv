@@ -85,7 +85,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 12 / refereed: 6 / first author: 3 / citations: 427 / h-index: 8
-(2024-05-22)
+(2024-05-23)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[95
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[93
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -128,7 +128,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[24
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
@@ -155,21 +155,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[34
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[77
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[78
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[33
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
