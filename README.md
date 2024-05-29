@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 12 / refereed: 6 / first author: 3 / citations: 452 / h-index: 9
-(2024-05-28)
+Total: 13 / refereed: 6 / first author: 3 / citations: 452 / h-index: 9
+(2024-05-29)
 
 ### Refereed publications
 
@@ -150,6 +150,11 @@ Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 feedback on the properties of the cool circumgalactic
 medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
 ([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
+
+Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
+*et al.*, 2024, The Construction of Large-scale Structure Catalogs for
+the Dark Energy Spectroscopic Instrument, ArXiv
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593))
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
