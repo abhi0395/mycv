@@ -85,7 +85,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 14 / refereed: 6 / first author: 4 / citations: 465 / h-index: 9
-(2024-05-31)
+(2024-06-01)
 
 ### Refereed publications
 
@@ -158,8 +158,9 @@ Instrument](http://dx.doi.org/10.48550/arXiv.2405.16593)*, ArXiv
 ([arXiv:2405.16593](http://arxiv.org/abs/2405.16593))
 
 **Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
-Aguilar, J.; *et al.*, 2024, Archetype-Based Redshift Estimation for the
-Dark Energy Spectroscopic Instrument Survey, ArXiv
+Aguilar, J.; *et al.*, 2024, *[Archetype-Based Redshift Estimation for
+the Dark Energy Spectroscopic Instrument
+Survey](http://dx.doi.org/10.48550/arXiv.2405.19288)*, ArXiv
 ([arXiv:2405.19288](http://arxiv.org/abs/2405.19288))
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
