@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 14 / refereed: 6 / first author: 4 / citations: 491 / h-index: 9
-(2024-06-06)
+Total: 14 / refereed: 6 / first author: 4 / citations: 493 / h-index: 9
+(2024-06-07)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[102
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[100
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -151,17 +151,18 @@ feedback on the properties of the cool circumgalactic
 medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
 ([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
 
-Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
-*et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
-the Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.48550/arXiv.2405.16593)*, ArXiv
-([arXiv:2405.16593](http://arxiv.org/abs/2405.16593))
-
 **Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
 Aguilar, J.; *et al.*, 2024, *[Archetype-Based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
 Survey](http://dx.doi.org/10.48550/arXiv.2405.19288)*, ArXiv
 ([arXiv:2405.19288](http://arxiv.org/abs/2405.19288))
+
+Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
+*et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
+the Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.48550/arXiv.2405.16593)*, ArXiv
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240516593R)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
@@ -174,7 +175,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[100
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[103
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
