@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 14 / refereed: 6 / first author: 4 / citations: 552 / h-index: 9
-(2024-06-22)
+Total: 14 / refereed: 6 / first author: 4 / citations: 561 / h-index: 9
+(2024-06-23)
 
 ### Refereed publications
 
@@ -112,7 +112,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[11
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
@@ -168,21 +168,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[52
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[135
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[138
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[49
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
