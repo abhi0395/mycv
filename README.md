@@ -333,16 +333,6 @@ DST[^2] - Higher Studies Scholarship, 2012-2017.
 
 ## Computer skills
 
-<div class="list">
-
-
-Language/Packages — python, numpy, matplotlib, scipy, astropy
-
-OS/Tools — Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm
-manager, git
-
-</div>
-
 ## Professional service & activities
 
 <div class="list">
@@ -355,14 +345,6 @@ Reviewer for DESI collaboration papers
 
 Collaboration — [Dark Energy Survey Instrument
 (DESI)](https://www.desi.lbl.gov/), NANCY
-
-Member & contributor (github repo) —
-
-- [redrock](https://github.com/desihub/redrock): Redshift fitting for
-  spectroperfectionism.
-
-- [desihub](https://github.com/desihub): Public code associated with
-  DESI.
 
 Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL
