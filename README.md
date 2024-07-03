@@ -201,16 +201,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-### Observing experience
-
-<div class="list">
-
-
-Jul 2024: Support Observer for DESI, Kitt Peak National Observatory, Jul
-2-5, 2024 (four nights)
-
-</div>
-
 ## Selected visits, talks and conferences
 
 $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
@@ -298,6 +288,16 @@ Aug - 5 Sept 2019.
 
 $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 2018.
+
+</div>
+
+### Observing experience
+
+<div class="list">
+
+
+Jul 2024: Support Observer for DESI, Kitt Peak National Observatory, Jul
+2-5, 2024 (four nights)
 
 </div>
 
