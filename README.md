@@ -333,6 +333,24 @@ DST[^2] - Higher Studies Scholarship, 2012-2017.
 
 ## Computer skills
 
+<div class="list">
+
+
+Language/Packages — python, numpy, matplotlib, scipy, astropy
+
+OS/Tools — Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm
+manager, git
+
+Member & contributor (github repo) —
+
+- [redrock](https://github.com/desihub/redrock): Redshift fitting for
+  spectroperfectionism.
+
+- [desihub](https://github.com/desihub): Public code associated with
+  DESI.
+
+</div>
+
 ## Professional service & activities
 
 <div class="list">
