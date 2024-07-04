@@ -296,8 +296,8 @@ $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 <div class="list">
 
 
-Jul 2024: Support Observer for DESI, Kitt Peak National Observatory, Jul
-2-5, 2024 (four nights)
+Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
+Observatory, Jul 2-5, 2024 (four nights).
 
 </div>
 
