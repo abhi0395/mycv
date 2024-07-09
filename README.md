@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 14 / refereed: 6 / first author: 4 / citations: 596 / h-index: 9
-(2024-07-08)
+Total: 14 / refereed: 6 / first author: 4 / citations: 602 / h-index: 9
+(2024-07-09)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[107
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[111
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -189,7 +189,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2306.06308)*, ArXiv
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[146
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[148
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606308D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
