@@ -84,7 +84,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 15 / refereed: 7 / first author: 4 / citations: 652 / h-index: 9
+Total: 14 / refereed: 7 / first author: 4 / citations: 501 / h-index: 8
 (2024-07-15)
 
 ### Refereed publications
@@ -191,13 +191,6 @@ Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
 ([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2023, *[The Early Data Release of the
-Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.48550/arXiv.2306.06308)*, ArXiv
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[151
-citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230606308D)\]
-
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
 Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
 Next-generation All-sky Near-infrared Community
@@ -213,6 +206,9 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
+
+$^c$ Jul 2024: *DESI Collaboration Summer Meeting*, Marseille, France,
+Jul 9 - Jul 12, 2024 (*Virtual talk*).
 
 $^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
