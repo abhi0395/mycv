@@ -85,7 +85,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 14 / refereed: 7 / first author: 4 / citations: 501 / h-index: 8
-(2024-07-16)
+(2024-07-17)
 
 ### Refereed publications
 
@@ -97,6 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308))
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
