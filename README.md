@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 15 / refereed: 7 / first author: 4 / citations: 708 / h-index: 9
-(2024-07-27)
+Total: 15 / refereed: 7 / first author: 4 / citations: 725 / h-index: 9
+(2024-07-28)
 
 ### Refereed publications
 
@@ -128,7 +128,7 @@ circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[17
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
@@ -136,7 +136,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[25
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
@@ -169,7 +169,8 @@ medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
 Aguilar, J.; *et al.*, 2024, *[Archetype-Based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
 Survey](http://dx.doi.org/10.48550/arXiv.2405.19288)*, ArXiv
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288))
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240519288A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
@@ -182,21 +183,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[82
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[85
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[209
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[217
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[73
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[76
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
