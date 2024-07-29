@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 15 / refereed: 7 / first author: 4 / citations: 725 / h-index: 9
-(2024-07-28)
+Total: 15 / refereed: 7 / first author: 4 / citations: 728 / h-index: 9
+(2024-07-29)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[157
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[158
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -105,7 +105,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[117
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -113,7 +113,7 @@ Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 II Absorption in DESI Survey Validation Quasar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
 Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[9
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
 Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
