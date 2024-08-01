@@ -354,6 +354,9 @@ manager, git
 
 Member & contributor (github repo) —
 
+- [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
+  absorber finder (*Developer*).
+
 - [redrock](https://github.com/desihub/redrock): Redshift fitting for
   spectroperfectionism.
 
