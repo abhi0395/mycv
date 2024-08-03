@@ -84,8 +84,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 15 / refereed: 7 / first author: 4 / citations: 743 / h-index: 9
-(2024-08-02)
+Total: 16 / refereed: 7 / first author: 4 / citations: 745 / h-index: 9
+(2024-08-03)
 
 ### Refereed publications
 
@@ -97,7 +97,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[162
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[163
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -159,6 +159,12 @@ environments through Mg II absorption from redshift z=0.75 to z=1.65
 using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
 ([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
 
+Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
+Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
+Cataclysmic Variables in the Chandra Source
+Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078))
+
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 **Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
 feedback on the properties of the cool circumgalactic
@@ -190,7 +196,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[222
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[223
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
