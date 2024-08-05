@@ -370,6 +370,28 @@
     "year": "2024"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Ayromlou, Mohammadreza",
+      "Nelson, Dylan",
+      "Pillepich, Annalisa",
+      "Kauffmann, Guinevere",
+      "White, Simon D. M.",
+      "Yates, Robert M.",
+      "Anand, Abhijeet"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 2215,
+    "pub": "EAS2024",
+    "pubdate": "2024-07-00",
+    "title": "The Fate of the CGM Gas: Insights from Simulations and Observations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.2215A",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2405.08314",
     "authors": [
       "Chang, Yu-Ling",
@@ -1003,7 +1025,7 @@
       "Zhuang, T.",
       "Zou, H."
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03002",
     "page": null,
@@ -1498,7 +1520,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": 62,
