@@ -5,8 +5,52 @@ import os
 import json
 import importlib.util
 from operator import itemgetter
-
+import re
 import ads
+
+def remove_arxiv_duplicates(sorted_papers):
+    """
+    This function removes duplicate dictionaries from a list based on the "title" key.
+    If duplicates are found, it removes the one where the "doi" key contains "arXiv".
+    """
+    def normalize_title(title):
+        # Convert to lowercase and strip extra spaces
+        title = ' '.join(title.lower().split())
+
+        # General normalization for chemical notations, removing spaces between elements and numbers
+        title = re.sub(r'(?<=\w)\s+(?=\w)', '', title)
+
+        return title
+
+    title_dict = {}
+    removed_duplicates = []
+
+    for item in sorted_papers:
+        title = item.get("title", "")
+        normalized_title = normalize_title(title)
+        doi = item.get("doi", "")
+
+        if normalized_title in title_dict:
+            # If "arXiv" is in the current item's doi, add it to removed duplicates
+            if "arXiv" in doi:
+                removed_duplicates.append(item)
+                continue
+            # If "arXiv" is in the existing item's doi, replace it and add the old item to removed duplicates
+            elif "arXiv" in title_dict[normalized_title].get("doi", ""):
+                removed_duplicates.append(title_dict[normalized_title])
+                title_dict[normalized_title] = item
+            else:
+                removed_duplicates.append(item)
+        else:
+            title_dict[normalized_title] = item
+
+    # Return the cleaned list and the list of removed duplicates
+    cleaned_list = list(title_dict.values())
+    for i, clean in enumerate(cleaned_list):
+        if clean["doctype"] in ["inproceedings", "phdthesis"]:
+           cleaned_list.pop(i)
+    return cleaned_list
+
 
 here = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location(
@@ -84,7 +128,9 @@ def get_papers(author):
             )
         else:
             continue
-    return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
+    sorted_papers = sorted(dicts, key=itemgetter("pubdate"), reverse=True)
+    sorted_papers = remove_arxiv_duplicates(sorted_papers) # in case any arxiv duplicates or inproceedings are found...
+    return sorted_papers
 
 
 if __name__ == "__main__":
