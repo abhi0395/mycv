@@ -15,16 +15,13 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 
 ## Research Interests
 
-My research primarily revolves around investigating gas flows within the
-galaxy halo, commonly referred to as the circumgalactic medium, using
-quasar absorption lines. I explore the connection between these gas
-flows and the formation and evolution of galaxies across different
-epochs. Furthermore, I am deeply interested in developing and learning
-innovative methodologies for fitting and analysing astronomical spectra
-coming from large spectroscopic surveys. Additionally, fostering a
-healthy environment where individuals from diverse backgrounds and
-perspectives can thrive collectively is a core aspect of my professional
-values.
+My research focuses on understanding the physical properties and
+kinematics of the circumgalactic medium (CGM) using quasar absorption
+lines. I am particularly interested in the interaction between gas flows
+and galaxy evolution across cosmic time. I also develop and apply
+innovative methods for analyzing large astronomical datasets, with a
+strong commitment to fostering diversity and inclusion within the
+scientific community.
 
 ## Positions
 
@@ -34,15 +31,21 @@ values.
 Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
-- *Improving redshift estimation algorithm for DESI galaxies, using DESI
-  spectra to characterize cool/warm gas in galactic halo.*
+- *Improved redshift estimation algorithms for DESI galaxies using
+  spectroscopic data for cosmological and astrophysical studies.*
+
+- *Led cross-disciplinary projects involving data analysis, modeling,
+  and interpretation of large astronomical datasets.*
 
 Sep’18 - Jul’22: IMPRS PhD Fellow, Max Planck Institute for
 Astrophysics, Garching, Germany
 
-- *Developed quasar absorber finder,
-  [qsoabsfind](https://github.com/abhi0395/qsoabsfind), studied gas
-  distribution in CGM/ICM of galaxies and clusters using SDSS and DESI.*
+- *Conducted extensive studies on the gas distribution in the
+  circumgalactic and intracluster medium using data from SDSS and DESI.*
+
+- *Developed the quasar absorber finder,
+  [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool used for
+  detecting and analyzing metal absorbers in quasar spectra.*
 
 Sep’17 - Jul’18: UGC - JRF[^1], National Institute of Advanced Studies,
 Bangalore, India
@@ -88,7 +91,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 7 / first author: 4 / citations: 760 / h-index: 9
+Total: 17 / refereed: 7 / first author: 4 / citations: 779 / h-index: 9
 (2024-08-11)
 
 ### Refereed publications
@@ -100,14 +103,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
-Astronomical Journal, **168**, 58 \[[167
+Astronomical Journal, **168**, 58 \[[170
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
-Astronomical Journal, **167**, 62 \[[119
+Astronomical Journal, **167**, 62 \[[121
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -178,7 +181,7 @@ medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
 Aguilar, J.; *et al.*, 2024, *[Archetype-Based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
 Survey](http://dx.doi.org/10.48550/arXiv.2405.19288)*, ArXiv
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[1
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240519288A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -192,21 +195,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[89
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[91
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[232
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[241
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[79
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[81
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
@@ -379,7 +382,7 @@ Member & contributor (github repo) —
 <div class="list">
 
 
-Active Referee —
+Peer reviewer —
 [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
 [ApJ](https://en.wikipedia.org/wiki/The_Astrophysical_Journal), Internal
 Reviewer for DESI collaboration papers
