@@ -13,7 +13,7 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
 <https://abhi0395.github.io/></span>  
 
-## Research Interest
+## Research Interests
 
 My research primarily revolves around investigating gas flows within the
 galaxy halo, commonly referred to as the circumgalactic medium, using
@@ -34,11 +34,15 @@ values.
 Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
-Aug’22: Bridge Postdoctoral Fellow, Max Planck Institute for
-Astrophysics, Garching, Germany
+- *Improving redshift estimation algorithm for DESI galaxies, using DESI
+  spectra to characterize cool/warm gas in galactic halo.*
 
 Sep’18 - Jul’22: IMPRS PhD Fellow, Max Planck Institute for
 Astrophysics, Garching, Germany
+
+- *Developed quasar absorber finder,
+  [qsoabsfind](https://github.com/abhi0395/qsoabsfind), studied gas
+  distribution in CGM/ICM of galaxies and clusters using SDSS and DESI.*
 
 Sep’17 - Jul’18: UGC - JRF[^1], National Institute of Advanced Studies,
 Bangalore, India
@@ -96,54 +100,47 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
-Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[167
+Astronomical Journal, **168**, 58 \[[167
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
-Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[119
+Astronomical Journal, **167**, 62 \[[119
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 **Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
 II Absorption in DESI Survey Validation Quasar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
-Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[10
+Journal, **166**, 99 \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
 Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
-Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[12
+Monthly Notices of the Royal Astronomical Society, **519**, 1913 \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
 circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
-the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[18
+the Royal Astronomical Society, **513**, 3210 \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
 *[Characterizing the abundance, properties, and kinematics of the cool
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
-Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[26
+Royal Astronomical Society, **504**, 65 \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
 I emission from superdisk candidates associated with radio
 galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
-Astronomy and Astrophysics, **19**, 83
-([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[2
+Astronomy and Astrophysics, **19**, 83 \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
@@ -385,7 +382,7 @@ Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
 
 DESI Early Career Travel Grant (USD 4000).
 
-DESI Postdoc Fellow, 2022-2025.
+DESI Postdoc Fellow, 2022–2025.
 
 IMPRS PhD Fellowship, 2018–2022.
 
@@ -411,10 +408,10 @@ Member & contributor (github repo) —
   absorber finder (*Developer*).
 
 - [redrock](https://github.com/desihub/redrock): Redshift fitting for
-  spectroperfectionism.
+  spectroperfectionism (*Contributor*).
 
 - [desihub](https://github.com/desihub): Public code associated with
-  DESI.
+  DESI (*Contributor*).
 
 </div>
 
@@ -433,6 +430,12 @@ Collaboration — [Dark Energy Survey Instrument
 
 Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL
+
+Active mentor in DESI mentorship program.
+
+Appeared in [podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to
+discuss my astronomy journey and how people from small cities can become
+a successful astronomer.
 
 My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
 [II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
