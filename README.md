@@ -6,7 +6,9 @@ This CV is based on template designed by [Daniel Foreman-Mackey](https://dfm.io/
 
 <hr>
 
-**Abhijeet Anand, PhD**  
+## Abhijeet Anand, PhD
+
+  
 Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
 <https://abhi0395.github.io/></span>  
@@ -28,7 +30,6 @@ values.
 
 <div class="list">
 
-=0ex =0.2ex
 
 Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
@@ -52,7 +53,6 @@ Bangalore, India
 
 <div class="list">
 
-=0ex =0.2ex
 
 Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
 Max Planck Institute for Astrophysics (MPA), Germany.
@@ -89,13 +89,12 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 17 / refereed: 7 / first author: 4 / citations: 760 / h-index: 9
-(2024-08-10)
+(2024-08-11)
 
 ### Refereed publications
 
 <div class="list">
 
-=0ex =0.2ex
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
@@ -150,7 +149,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 <div class="list">
 
-=0ex =0.2ex
 
 Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
 *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
@@ -226,7 +224,6 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
-=0ex =0.2ex
 
 $^c$ Jul 2024: *DESI Collaboration Summer Meeting*, Marseille, France,
 Jul 9 - Jul 12, 2024 (*Virtual talk*).
@@ -318,7 +315,6 @@ $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 
 <div class="list">
 
-=0ex =0.2ex
 
 Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
 Observatory, Jul 2-5, 2024 (four nights).
@@ -329,7 +325,6 @@ Observatory, Jul 2-5, 2024 (four nights).
 
 <div class="list">
 
-=0ex =0.2ex
 
 Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100), 2024-present
 
@@ -343,7 +338,6 @@ Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
 
 <div class="list">
 
-=0ex =0.2ex
 
 DESI Early Career Travel Grant (USD 4000).
 
@@ -361,7 +355,6 @@ DST[^2] - Higher Studies Scholarship, 2012-2017.
 
 <div class="list">
 
-=0ex =0.2ex
 
 Language/Packages — python, numpy, matplotlib, scipy, astropy
 
@@ -385,7 +378,6 @@ Member & contributor (github repo) —
 
 <div class="list">
 
-=0ex =0.2ex
 
 Active Referee —
 [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
