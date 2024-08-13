@@ -92,7 +92,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 17 / refereed: 7 / first author: 4 / citations: 779 / h-index: 9
-(2024-08-12)
+(2024-08-13)
 
 ### Refereed publications
 
@@ -103,47 +103,54 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
-Astronomical Journal, **168**, 58 \[[170
+Astronomical Journal, **168**, 58
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[170
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
-Astronomical Journal, **167**, 62 \[[121
+Astronomical Journal, **167**, 62
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[121
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 **Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
 II Absorption in DESI Survey Validation Quasar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
-Journal, **166**, 99 \[[10
+Journal, **166**, 99
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
 Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
-Monthly Notices of the Royal Astronomical Society, **519**, 1913 \[[12
+Monthly Notices of the Royal Astronomical Society, **519**, 1913
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
 circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
-the Royal Astronomical Society, **513**, 3210 \[[18
+the Royal Astronomical Society, **513**, 3210
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
 *[Characterizing the abundance, properties, and kinematics of the cool
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
-Royal Astronomical Society, **504**, 65 \[[26
+Royal Astronomical Society, **504**, 65
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
 I emission from superdisk candidates associated with radio
 galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
-Astronomy and Astrophysics, **19**, 83 \[[2
+Astronomy and Astrophysics, **19**, 83
+([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
