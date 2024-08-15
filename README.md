@@ -91,8 +91,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 7 / first author: 4 / citations: 779 / h-index: 9
-(2024-08-14)
+Total: 17 / refereed: 7 / first author: 4 / citations: 782 / h-index: 9
+(2024-08-15)
 
 ### Refereed publications
 
@@ -104,7 +104,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[170
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[171
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -209,7 +209,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[241
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[243
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
