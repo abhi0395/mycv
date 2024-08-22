@@ -91,8 +91,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 7 / first author: 4 / citations: 787 / h-index: 9
-(2024-08-21)
+Total: 17 / refereed: 7 / first author: 4 / citations: 790 / h-index: 9
+(2024-08-22)
 
 ### Refereed publications
 
@@ -166,17 +166,17 @@ mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
 ([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
 
-Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
-2024, *[Tracing the evolution of the cool gas in CGM and IGM
-environments through Mg II absorption from redshift z=0.75 to z=1.65
-using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
-([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
-
 Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
 Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
 Cataclysmic Variables in the Chandra Source
 Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
 ([arXiv:2408.00078](http://arxiv.org/abs/2408.00078))
+
+Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
+2024, *[Tracing the evolution of the cool gas in CGM and IGM
+environments through Mg II absorption from redshift z=0.75 to z=1.65
+using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 **Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
@@ -202,14 +202,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[91
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[92
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[246
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[248
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
