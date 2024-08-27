@@ -91,13 +91,20 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 7 / first author: 4 / citations: 799 / h-index: 9
-(2024-08-26)
+Total: 17 / refereed: 8 / first author: 4 / citations: 798 / h-index: 9
+(2024-08-27)
 
 ### Refereed publications
 
 <div class="list">
 
+
+**Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
+Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
+the Dark Energy Spectroscopic Instrument
+Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
+Journal, **168**, 124
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288))
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
@@ -112,7 +119,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[121
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[122
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -166,30 +173,23 @@ mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
 ([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
 
-Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
-Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
-Cataclysmic Variables in the Chandra Source
-Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
-([arXiv:2408.00078](http://arxiv.org/abs/2408.00078))
-
 Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 2024, *[Tracing the evolution of the cool gas in CGM and IGM
 environments through Mg II absorption from redshift z=0.75 to z=1.65
 using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
 ([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
 
+Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
+Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
+Cataclysmic Variables in the Chandra Source
+Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078))
+
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 **Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
 feedback on the properties of the cool circumgalactic
 medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
 ([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
-
-**Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
-Aguilar, J.; *et al.*, 2024, *[Archetype-Based Redshift Estimation for
-the Dark Energy Spectroscopic Instrument
-Survey](http://dx.doi.org/10.48550/arXiv.2405.19288)*, ArXiv
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240519288A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
