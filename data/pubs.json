@@ -337,7 +337,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 173,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3217",
     "page": 58,
@@ -410,6 +410,38 @@
     "year": "2024"
   },
   {
+    "arxiv": "2408.00078",
+    "authors": [
+      "Galiullin, Ilkham",
+      "Rodriguez, Antonio C.",
+      "El-Badry, Kareem",
+      "Szkody, Paula",
+      "Anand, Abhijeet",
+      "van Roestel, Jan",
+      "Sibgatullin, Askar",
+      "Dodon, Vladislav",
+      "Tyrin, Nikita",
+      "Caiazzo, Ilaria",
+      "Graham, Matthew J.",
+      "Laher, Russ R.",
+      "Kulkarni, Shrinivas R.",
+      "Prince, Thomas A.",
+      "Riddle, Reed",
+      "Vanderbosch, Zachary P.",
+      "Wold, Avery"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2408.00078",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-07-00",
+    "title": "Searching for New Cataclysmic Variables in the Chandra Source Catalog",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240800078G",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2407.17809",
     "authors": [
       "Wu, X.",
@@ -459,38 +491,6 @@
     "pubdate": "2024-07-00",
     "title": "Tracing the evolution of the cool gas in CGM and IGM environments through Mg II absorption from redshift z=0.75 to z=1.65 using DESI-Y1 data",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240717809W",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": "2408.00078",
-    "authors": [
-      "Galiullin, Ilkham",
-      "Rodriguez, Antonio C.",
-      "El-Badry, Kareem",
-      "Szkody, Paula",
-      "Anand, Abhijeet",
-      "van Roestel, Jan",
-      "Sibgatullin, Askar",
-      "Dodon, Vladislav",
-      "Tyrin, Nikita",
-      "Caiazzo, Ilaria",
-      "Graham, Matthew J.",
-      "Laher, Russ R.",
-      "Kulkarni, Shrinivas R.",
-      "Prince, Thomas A.",
-      "Riddle, Reed",
-      "Vanderbosch, Zachary P.",
-      "Wold, Avery"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2408.00078",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-07-00",
-    "title": "Searching for New Cataclysmic Variables in the Chandra Source Catalog",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240800078G",
     "volume": null,
     "year": "2024"
   },
@@ -846,7 +846,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03000",
     "page": null,
@@ -1064,7 +1064,7 @@
       "Zhuang, T.",
       "Zou, H."
     ],
-    "citations": 252,
+    "citations": 254,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03002",
     "page": null,
@@ -1278,7 +1278,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03001",
     "page": null,
