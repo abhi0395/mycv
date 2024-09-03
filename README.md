@@ -92,7 +92,7 @@ Science, Bangalore, India.
 ## Publications
 
 Total: 17 / refereed: 8 / first author: 4 / citations: 837 / h-index: 9
-(2024-09-02)
+(2024-09-03)
 
 ### Refereed publications
 
@@ -174,18 +174,18 @@ mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
 ([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
 
-Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
-2024, *[Tracing the evolution of the cool gas in CGM and IGM
-environments through Mg II absorption from redshift z=0.75 to z=1.65
-using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
-([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
-
 Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
 Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
 Cataclysmic Variables in the Chandra Source
 Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
 ([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240800078G)\]
+
+Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
+2024, *[Tracing the evolution of the cool gas in CGM and IGM
+environments through Mg II absorption from redshift z=0.75 to z=1.65
+using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 **Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
