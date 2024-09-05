@@ -91,7 +91,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 837 / h-index: 9
+Total: 17 / refereed: 8 / first author: 4 / citations: 839 / h-index: 9
 (2024-09-05)
 
 ### Refereed publications
@@ -120,7 +120,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[128
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[127
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -204,21 +204,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[101
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[102
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[264
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[265
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[88
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[89
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
@@ -402,7 +402,8 @@ Collaboration — [Dark Energy Survey Instrument
 Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL
 
-Active mentor in DESI mentorship program.
+Active mentor in DESI mentorship program and member of DESI DEI
+committee.
 
 Appeared in [podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to
 discuss my astronomy journey and how people from small cities can become
