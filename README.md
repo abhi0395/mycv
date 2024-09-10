@@ -373,6 +373,17 @@ Language/Packages — python, numpy, matplotlib, scipy, astropy
 OS/Tools — Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm
 manager, git
 
+Member & contributor (github repo) —
+
+- [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
+  absorber finder (*Developer*).
+
+- [redrock](https://github.com/desihub/redrock): Redshift fitting for
+  spectroperfectionism (*Contributor*).
+
+- [desihub](https://github.com/desihub): Public code associated with
+  DESI (*Contributor*).
+
 </div>
 
 ## Professional service & activities
