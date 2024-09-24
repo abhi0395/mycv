@@ -89,146 +89,15 @@ Science, Bangalore, India.
 
 </div>
 
+## Research Interest
+
+Galaxy formation and evolution; nature of circumgalactic medium; quasar
+absorption lines; data science methods, machine learning and statistics
+
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 868 / h-index: 9
-(2024-09-13)
-
-### Refereed publications
-
-<div class="list">
-
-
-**Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
-Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
-the Dark Energy Spectroscopic Instrument
-Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
-Journal, **168**, 124
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
-Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
-Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[182
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
-Program for the Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
-Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[128
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
-
-Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
-**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
-II Absorption in DESI Survey Validation Quasar
-Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
-Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[11
-citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
-
-Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
-White, Simon D. M., 2023, *[The physical origin of galactic conformity:
-from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
-Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[13
-citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
-
-**Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
-circumgalactic gas in galaxy clusters: connecting the DESI legacy
-imaging survey and SDSS DR16 Mg II
-absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
-the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[19
-citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
-
-**Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
-*[Characterizing the abundance, properties, and kinematics of the cool
-circumgalactic medium of galaxies in absorption with SDSS
-DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
-Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[27
-citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
-
-**Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
-I emission from superdisk candidates associated with radio
-galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
-Astronomy and Astrophysics, **19**, 83
-([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
-
-</div>
-
-### Preprints & white papers
-
-<div class="list">
-
-
-Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
-*et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
-mass-metallicity relation from dwarfs to massive
-galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
-
-Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
-Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
-Cataclysmic Variables in the Chandra Source
-Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
-([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[1
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240800078G)\]
-
-Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
-2024, *[Tracing the evolution of the cool gas in CGM and IGM
-environments through Mg II absorption from redshift z=0.75 to z=1.65
-using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
-([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
-
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
-**Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
-feedback on the properties of the cool circumgalactic
-medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
-([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
-
-Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
-*et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
-the Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.48550/arXiv.2405.16593)*, ArXiv
-([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240516593R)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
-Oscillations from Galaxies and
-Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[106
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
-Constraints from the Measurements of Baryon Acoustic
-Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[278
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
-Oscillations from the Lyman Alpha
-Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[94
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
-
-Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
-Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
-Next-generation All-sky Near-infrared Community
-surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
-([arXiv:2306.11784](http://arxiv.org/abs/2306.11784)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
-
-</div>
+Total: 17 / refereed: 8 / first author: 4 / significant contribution: 0
+/ citations: 890 / h-index: 9 (2024-09-24)List attached below
 
 ## Selected visits, talks and conferences
 
@@ -323,6 +192,22 @@ $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 
 </div>
 
+### Awarded Super-computing Time
+
+<div class="list">
+
+
+2024: Perlmutter Supercomputer at NERSC, *Searching for metal absorbers
+in quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
+
+2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
+estimation*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
+
+2018-2022 Freya Supercomputer at MPCDF, *The multiphase galactic halo of
+galaxies*, 5000 CPU hours, PI: **A. Anand**
+
+</div>
+
 ### Observing experience
 
 <div class="list">
@@ -353,13 +238,13 @@ Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
 
 DESI Early Career Travel Grant (USD 4000).
 
-DESI Postdoc Fellow, 2022–2025.
+DESI Postdoc Fellowship, 2022–2025.
 
 IMPRS PhD Fellowship, 2018–2022.
 
 UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
 
-DST[^2] - Higher Studies Scholarship, 2012-2017.
+DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
 
 </div>
 
@@ -373,7 +258,7 @@ Language/Packages — python, numpy, matplotlib, scipy, astropy
 OS/Tools — Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm
 manager, git
 
-Member & contributor (github repo) —
+Member & contributor (github repo & software) —
 
 - [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
   absorber finder (*Developer*).
@@ -391,49 +276,198 @@ Member & contributor (github repo) —
 <div class="list">
 
 
-Peer reviewer —
+## Peer reviewer —
+
+
 [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
 [ApJ](https://en.wikipedia.org/wiki/The_Astrophysical_Journal), Internal
 Reviewer for DESI collaboration papers
 
-Collaboration — [Dark Energy Survey Instrument
+## Collaboration —
+
+ [Dark Energy Survey Instrument
 (DESI)](https://www.desi.lbl.gov/), NANCY
 
-Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
-Division, LBNL
+## Organizer —
 
-Active mentor in DESI mentorship program and member of DESI DEI
-committee.
+ [INPA Weekly Seminar](https://inpa.lbl.gov/events/),
+Physics Division, LBNL, 2023-2024  
+Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
+Symposium, 4-5 Apr, 2019.
 
-Appeared in [podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to
-discuss my astronomy journey and how people from small cities can become
-a successful astronomer.
+## Mentor
 
-My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
+ in DESI mentorship program and member of DESI DEI committee.
+
+## Press releases
+
+ My papers
+([I](https://www.mpa-garching.mpg.de/964620/hl202107),
 [II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
 in monthly research highlight of MPA and appeared on
 [astrobites](https://astrobites.org/2021/05/06/cool-metal-gas-search-thanks-it-was-automated/).
 
-Gave
+## Interviews & podcast
+
+ Interviewed by [Vidpeds
+podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to discuss my
+astronomy journey and how people from small cities can become a
+successful astronomer.  
 [interview](https://theinterviewportal.com/2020/03/13/astrophysicist-interview-8/)
 to [The Interview Portal](https://theinterviewportal.com/) to help
 Indian college students plan their careers.
 
-Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
-Symposium, 4-5 Apr, 2019.
+## Teaching Experience
 
-Served as online physics tutor at E-acharya (more than 20 students)[^3]
-from June 2017 - Aug 2018.
-
+ Served as online physics tutor at E-acharya
+(more than 20 students)[^3] from June 2017 - Aug 2018.  
 Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017. Solving
 advance physics problems and clearing doubts of students from all over
 the world.
 
-Organized and coordinated scientific and technical workshops ($\sim$ 150
-participants) in *Pravega*[^4], in Jan’14.
+## More organization skills—
 
+ Organized and coordinated scientific and
+technical workshops ($\sim$ 150 participants) in *Pravega*[^4], in
+Jan’14.  
 Conducted experiments and demonstrations for open day celebration at
 IISc during my undergraduate.
+
+</div>
+
+### Refereed publications
+
+<div class="list">
+
+
+**Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
+Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
+the Dark Energy Spectroscopic Instrument
+Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
+Journal, **168**, 124
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
+Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
+Astronomical Journal, **168**, 58
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[185
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
+Program for the Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
+Astronomical Journal, **167**, 62
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[129
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
+
+Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
+**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
+II Absorption in DESI Survey Validation Quasar
+Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
+Journal, **166**, 99
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[11
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
+
+Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
+White, Simon D. M., 2023, *[The physical origin of galactic conformity:
+from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
+Monthly Notices of the Royal Astronomical Society, **519**, 1913
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
+
+**Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
+circumgalactic gas in galaxy clusters: connecting the DESI legacy
+imaging survey and SDSS DR16 Mg II
+absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
+the Royal Astronomical Society, **513**, 3210
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[19
+citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
+
+**Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
+*[Characterizing the abundance, properties, and kinematics of the cool
+circumgalactic medium of galaxies in absorption with SDSS
+DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
+Royal Astronomical Society, **504**, 65
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[27
+citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
+
+**Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
+I emission from superdisk candidates associated with radio
+galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
+Astronomy and Astrophysics, **19**, 83
+([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
+
+</div>
+
+### Preprints & white papers
+
+<div class="list">
+
+
+Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
+*et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
+mass-metallicity relation from dwarfs to massive
+galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
+
+Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
+Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
+Cataclysmic Variables in the Chandra Source
+Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240800078G)\]
+
+Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
+2024, *[Tracing the evolution of the cool gas in CGM and IGM
+environments through Mg II absorption from redshift z=0.75 to z=1.65
+using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809))
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
+**Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
+feedback on the properties of the cool circumgalactic
+medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
+([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
+
+Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
+*et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
+the Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.48550/arXiv.2405.16593)*, ArXiv
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240516593R)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
+Oscillations from Galaxies and
+Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[109
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
+Constraints from the Measurements of Baryon Acoustic
+Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[289
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
+Oscillations from the Lyman Alpha
+Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[97
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
+
+Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
+Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
+Next-generation All-sky Near-infrared Community
+surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv
+([arXiv:2306.11784](http://arxiv.org/abs/2306.11784)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
