@@ -29,9 +29,9 @@ def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     nauth = [i for i in range(len(pub["authors"])) if "Anand, A" in pub["authors"][i]][0]
-    
+
     pub["authors"][nauth] = "\\textbf{Anand, Abhijeet}"
-    
+
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:5])
         fmt += "; \\etal"
@@ -84,23 +84,25 @@ if __name__ == "__main__":
     ]
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
-    
+
     # Compute citation stats
     nrefpapers = len(ref)
     ntotal = len(ref)+len(unref)
     nfirst = sum(1 for p in pubs if "Anand, A" in p["authors"][0])
+    nsignificant = sum(1 for p in pubs if "Anand, A" in p["authors"][0:5])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {5} ({0})"
-    ).format(date.today(), ntotal, nrefpapers, nfirst, ncitations, hindex)
+        "Total: {1} / refereed: {2} / first author: {3} / significant contribution: {4} / citations: {5:,} / " "h-index: {6} ({0})"
+    ).format(date.today(), ntotal, nrefpapers, nfirst, nsignificant, ncitations, hindex)
     with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
+        f.write("List attached below")
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
-    
+
     with open("tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
     with open("tex/pubs_unref.tex", "w") as f:
