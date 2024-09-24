@@ -95,11 +95,10 @@ if __name__ == "__main__":
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "Total: {1} / refereed: {2} / first author: {3} / significant contribution: {4} / citations: {5:,} / " "h-index: {6} ({0})"
-    ).format(date.today(), ntotal, nrefpapers, nfirst, nsignificant, ncitations, hindex)
+        "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {4} (Last updated: {0}), List attached below"
+    ).format(date.today(), ntotal, nrefpapers, nfirst, ncitations, hindex)
     with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
-        f.write("List attached below")
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
 
