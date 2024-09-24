@@ -96,8 +96,8 @@ absorption lines; data science methods, machine learning and statistics
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / significant contribution: 0
-/ citations: 890 / h-index: 9 (2024-09-24)List attached below
+Total: 17 / refereed: 8 / first author: 4 / citations: 890 / h-index:
+890 (Last updated: 2024-09-24), List attached below
 
 ## Selected visits, talks and conferences
 
@@ -276,40 +276,27 @@ Member & contributor (github repo & software) —
 <div class="list">
 
 
-## Peer reviewer —
-
-
+Peer reviewer —
 [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
 [ApJ](https://en.wikipedia.org/wiki/The_Astrophysical_Journal), Internal
 Reviewer for DESI collaboration papers
 
-## Collaboration —
+Collaboration — [Dark Energy Survey Instrument
+(DESI)](https://www.desi.lbl.gov/), NANCY  
+Mentor in DESI mentorship program and member of DESI DEI committee.
 
- [Dark Energy Survey Instrument
-(DESI)](https://www.desi.lbl.gov/), NANCY
-
-## Organizer —
-
- [INPA Weekly Seminar](https://inpa.lbl.gov/events/),
-Physics Division, LBNL, 2023-2024  
+Organizer — [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
+Division, LBNL, 2023-2024  
 Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
 Symposium, 4-5 Apr, 2019.
 
-## Mentor
-
- in DESI mentorship program and member of DESI DEI committee.
-
-## Press releases
-
- My papers
+Press releases — My papers
 ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
 [II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
 in monthly research highlight of MPA and appeared on
 [astrobites](https://astrobites.org/2021/05/06/cool-metal-gas-search-thanks-it-was-automated/).
 
-## Interviews & podcast
-
- Interviewed by [Vidpeds
+Interviews & podcast — Interviewed by [Vidpeds
 podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to discuss my
 astronomy journey and how people from small cities can become a
 successful astronomer.  
@@ -317,17 +304,13 @@ successful astronomer.
 to [The Interview Portal](https://theinterviewportal.com/) to help
 Indian college students plan their careers.
 
-## Teaching Experience
-
- Served as online physics tutor at E-acharya
-(more than 20 students)[^3] from June 2017 - Aug 2018.  
+Teaching Experience — Served as online physics tutor at E-acharya (more
+than 20 students)[^3] from June 2017 - Aug 2018.  
 Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017. Solving
 advance physics problems and clearing doubts of students from all over
 the world.
 
-## More organization skills—
-
- Organized and coordinated scientific and
+More organization skills — Organized and coordinated scientific and
 technical workshops ($\sim$ 150 participants) in *Pravega*[^4], in
 Jan’14.  
 Conducted experiments and demonstrations for open day celebration at
