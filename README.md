@@ -91,8 +91,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 890 / h-index:
-890 (Last updated: 2024-09-25), List attached below
+Total: 17 / refereed: 8 / first author: 4 / citations: 893 / h-index:
+893 (Last updated: 2024-09-26), List attached below
 
 ## Selected visits, talks and conferences
 
@@ -435,7 +435,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[289
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[292
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
