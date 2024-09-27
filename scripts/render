@@ -95,7 +95,7 @@ if __name__ == "__main__":
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {4} (Last updated: {0}), List attached below"
+        "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {5} (Last updated: {0}), List attached below"
     ).format(date.today(), ntotal, nrefpapers, nfirst, ncitations, hindex)
     with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
