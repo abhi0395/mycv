@@ -101,6 +101,9 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
+$^i$ Jul 2024: *DESI Galaxy Quasar Physics Working Group Seminar*, Sep
+27, 2024 (*Virtual talk*)
+
 $^c$ Jul 2024: *DESI Collaboration Summer Meeting*, Marseille, France,
 Jul 9 - Jul 12, 2024 (*Virtual talk*).
 
@@ -192,14 +195,15 @@ $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 <div class="list">
 
 
-2024: Perlmutter Supercomputer at NERSC, *Searching for metal absorbers
-in quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
+– 2024: Perlmutter Supercomputer at NERSC, *Searching for metal
+absorbers in quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI: **A.
+Anand**
 
-2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
+– 2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
 estimation*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
 
-2018-2022 Freya Supercomputer at MPCDF, *The multiphase galactic halo of
-galaxies*, 5000 CPU hours, PI: **A. Anand**
+– 2018-2022 Freya Supercomputer at MPCDF, *The multiphase galactic halo
+of galaxies*, 5000 CPU hours, PI: **A. Anand**
 
 </div>
 
@@ -208,7 +212,7 @@ galaxies*, 5000 CPU hours, PI: **A. Anand**
 <div class="list">
 
 
-Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
+– Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
 Observatory, Jul 2-5, 2024 (four nights).
 
 </div>
@@ -218,11 +222,12 @@ Observatory, Jul 2-5, 2024 (four nights).
 <div class="list">
 
 
-Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100), 2024-present
+– Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100), 2024-present
 
-Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM), 2023
+– Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM),
+2023
 
-Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
+– Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
 
 </div>
 
@@ -231,15 +236,15 @@ Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
 <div class="list">
 
 
-DESI Early Career Travel Grant (USD 4000).
+– DESI Early Career Travel Grant (USD 4000).
 
-DESI Postdoc Fellowship, 2022–2025.
+– DESI Postdoc Fellowship, 2022–2025.
 
-IMPRS PhD Fellowship, 2018–2022.
+– IMPRS PhD Fellowship, 2018–2022.
 
-UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
+– UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
 
-DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
+– DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
 
 </div>
 
@@ -248,10 +253,12 @@ DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
 <div class="list">
 
 
-Language/Packages — python, numpy, matplotlib, scipy, astropy
+Language/Packages —  
+– python, numpy, matplotlib, scipy, astropy
 
-OS/Tools — Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm
-manager, git
+OS/Tools —  
+– Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm manager,
+git
 
 Member & contributor (github repo & software) —
 
