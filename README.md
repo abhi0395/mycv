@@ -91,8 +91,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 893 / h-index:
-893 (Last updated: 2024-09-27), List attached below
+Total: 17 / refereed: 8 / first author: 4 / citations: 893 / h-index: 9
+(Last updated: 2024-09-27), List attached below
 
 ## Selected visits, talks and conferences
 
