@@ -16,12 +16,12 @@ Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA
 ## Research Interests
 
 My research focuses on understanding the physical properties and
-kinematics of the circumgalactic medium (CGM) using quasar absorption
-lines. I am particularly interested in the interaction between gas flows
-and galaxy evolution across cosmic time. I also develop and apply
-innovative methods for analyzing large astronomical datasets, with a
-strong commitment to fostering diversity and inclusion within the
-scientific community.
+kinematics of gas in the circumgalactic medium (CGM) and intergalactic
+medium (IGM) using quasar absorption lines. I am particularly interested
+in the interaction between gas flows and galaxy evolution across cosmic
+time. I also develop and apply innovative methods for analyzing large
+astronomical datasets, with a strong commitment to fostering diversity
+and inclusion within the scientific community.
 
 ## Positions
 
@@ -30,6 +30,9 @@ scientific community.
 
 Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
+
+- *Performing the largest statistical analysis of metal absorbers in the
+  universe with DESI quasars.*
 
 - *Improved redshift estimation algorithms for DESI galaxies using
   spectroscopic data for cosmological and astrophysical studies.*
@@ -190,20 +193,21 @@ $^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
 
 </div>
 
-## Awarded Super-computing Time
+## Awarded Supercomputing time
 
 <div class="list">
 
 
-– 2024: Perlmutter Supercomputer at NERSC, *Searching for metal
-absorbers in quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI: **A.
-Anand**
+– 2024: Perlmutter Supercomputer at NERSC, *Properties of precious metal
+absorbers in DESI quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI:
+**A. Anand**
 
 – 2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
-estimation*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
+estimation for DESI*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
 
-– 2018-2022 Freya Supercomputer at MPCDF, *The multiphase galactic halo
-of galaxies*, 5000 CPU hours, PI: **A. Anand**
+– 2018-2022: Freya Supercomputer at MPCDF, *The multiphase galactic halo
+of galaxies and clusters with large spectroscopic and imaging surveys*,
+5000 CPU hours, PI: **A. Anand**
 
 </div>
 
@@ -279,17 +283,17 @@ Member & contributor (github repo & software) —
 
 
 Peer reviewer —  
-– [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics) ,
+– [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics),
 [ApJ](https://en.wikipedia.org/wiki/The_Astrophysical_Journal), Internal
 Reviewer for DESI collaboration papers
 
 Collaboration —  
-– [Dark Energy Survey Instrument (DESI)](https://www.desi.lbl.gov/),
-NANCY  
-– Mentor in DESI mentorship program and member of DESI DEI committee.
+– [DESI: Dark Energy Survey Instrument](https://www.desi.lbl.gov/)  
+– NANCY: Next-generation All-sky Near-infrared Community surveY
 
-Organizer —  
-– [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
+Organizer & Member —  
+– Mentor in DESI mentorship program and member of DESI DEI committee. –
+[INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
 LBNL, 2023-2024  
 – Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
 Symposium, 4-5 Apr, 2019.
