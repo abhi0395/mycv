@@ -94,7 +94,7 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 893 / h-index: 9
+Total: 17 / refereed: 8 / first author: 4 / citations: 914 / h-index: 9
 (Last updated: 2024-09-28), List attached below
 
 ## Selected visits, talks and conferences
@@ -292,10 +292,10 @@ Collaboration —
 – NANCY: Next-generation All-sky Near-infrared Community surveY
 
 Organizer & Member —  
-– Mentor in DESI mentorship program and member of DESI DEI committee. –
-[INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
+– Mentor in DESI mentorship program and member of DESI DEI committee.  
+– [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
 LBNL, 2023-2024  
-– Member of Local organizing Committee of VII<sup>th</sup> IMPRS Student
+– Member of Local Organizing Committee of VII<sup>th</sup> IMPRS Student
 Symposium, 4-5 Apr, 2019.
 
 Press releases —  
@@ -307,8 +307,8 @@ in monthly research highlight of MPA and appeared on
 Interviews & podcast —  
 – Interviewed by [Vidpeds
 podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to discuss my
-astronomy journey and how people from small cities can become a
-successful astronomer.  
+astronomy journey and how people from small cities can become successful
+astronomers.  
 – Gave
 [interview](https://theinterviewportal.com/2020/03/13/astrophysicist-interview-8/)
 to [The Interview Portal](https://theinterviewportal.com/) to help
@@ -318,7 +318,7 @@ Teaching Experience —
 – Served as online physics tutor at E-acharya (more than 20
 students)[^3] from June 2017 - Aug 2018.  
 – Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017.
-Solving advance physics problems and clearing doubts of students from
+Solving advanced physics problems and clearing doubts of students from
 all over the world.
 
 More organization skills —  
@@ -347,7 +347,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[185
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[187
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -386,7 +386,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[27
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
@@ -439,21 +439,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[109
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[111
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[293
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[306
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[97
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[100
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
@@ -470,7 +470,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 [^2]: Department of Science & Technology, Govt. of India
 
-[^3]: an initiative to help poor students in sub-urban and rural areas
-    of Bihar, India.
+[^3]: an initiative to help poor students in suburban and rural areas of
+    Bihar, India.
 
 [^4]: Annual – Science Festival of IISc
