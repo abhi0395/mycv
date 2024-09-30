@@ -104,7 +104,7 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
-$^i$ Jul 2024: *DESI Galaxy Quasar Physics Working Group Seminar*, Sep
+$^i$ Sep 2024: *DESI Galaxy Quasar Physics Working Group Seminar*, Sep
 27, 2024 (*Virtual talk*)
 
 $^c$ Jul 2024: *DESI Collaboration Summer Meeting*, Marseille, France,
