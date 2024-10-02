@@ -94,8 +94,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 914 / h-index: 9
-(Last updated: 2024-09-30), List attached below
+Total: 17 / refereed: 8 / first author: 4 / citations: 915 / h-index: 9
+(Last updated: 2024-10-02), List attached below
 
 ## Selected visits, talks and conferences
 
@@ -355,7 +355,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[128
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[129
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;

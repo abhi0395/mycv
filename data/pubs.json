@@ -442,28 +442,6 @@
     "year": "2024"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Ayromlou, Mohammadreza",
-      "Nelson, Dylan",
-      "Pillepich, Annalisa",
-      "Kauffmann, Guinevere",
-      "White, Simon D. M.",
-      "Yates, Robert M.",
-      "Anand, Abhijeet"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": null,
-    "page": 2215,
-    "pub": "EAS2024",
-    "pubdate": "2024-07-00",
-    "title": "The Fate of the CGM Gas: Insights from Simulations and Observations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.2215A",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2407.17809",
     "authors": [
       "Wu, X.",
@@ -513,6 +491,28 @@
     "pubdate": "2024-07-00",
     "title": "Tracing the evolution of the cool gas in CGM and IGM environments through Mg II absorption from redshift z=0.75 to z=1.65 using DESI-Y1 data",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240717809W",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Ayromlou, Mohammadreza",
+      "Nelson, Dylan",
+      "Pillepich, Annalisa",
+      "Kauffmann, Guinevere",
+      "White, Simon D. M.",
+      "Yates, Robert M.",
+      "Anand, Abhijeet"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 2215,
+    "pub": "EAS2024",
+    "pubdate": "2024-07-00",
+    "title": "The Fate of the CGM Gas: Insights from Simulations and Observations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.2215A",
     "volume": null,
     "year": "2024"
   },
@@ -1581,7 +1581,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": 62,
