@@ -94,8 +94,8 @@ Science, Bangalore, India.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 969 / h-index: 9
-(Last updated: 2024-10-11), List attached below
+Total: 17 / refereed: 8 / first author: 4 / citations: 971 / h-index: 9
+(Last updated: 2024-10-12), List attached below
 
 ## Selected visits, talks and conferences
 
@@ -347,7 +347,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[194
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[195
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -355,7 +355,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[129
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[130
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
