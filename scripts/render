@@ -112,11 +112,11 @@ if __name__ == "__main__":
     significant = list(map(format_pub, zip(range(len(significant), 0, -1), significant)))
     collaboration = list(map(format_pub, zip(range(len(collaboration), 0, -1), collaboration)))
 
-    with open("/tex/first_author.tex", "w") as f:
+    with open("tex/first_author.tex", "w") as f:
         f.write("\n\n".join(first))
-    with open("/tex/significant_author.tex", "w") as f:
+    with open("tex/significant_author.tex", "w") as f:
         f.write("\n\n".join(significant))
-    with open("/tex/collaboration_author.tex", "w") as f:
+    with open("tex/collaboration_author.tex", "w") as f:
         f.write("\n\n".join(collaboration))
 
     with open("tex/pubs_ref.tex", "w") as f:
