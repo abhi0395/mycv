@@ -84,12 +84,19 @@ if __name__ == "__main__":
     ]
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
+    
+    first = [p for p in pubs if "Anand, A." in p["authors"][0] or "Anand, Abhijeet" in p["authors"][0]]
+    significant = [p for p in pubs if ("Anand, A." in p["authors"][1:5] or "Anand, Abhijeet" in p["authors"][1:5]) and ("Construction of Large-scale Structure" not in p["title"])]
+    collaboration = [p for p in pubs if "Anand, A." in p["authors"][5:] or "Anand, Abhijeet" in p["authors"][5:] or "Construction of Large-scale Structure" in p["title"]]
+
 
     # Compute citation stats
     nrefpapers = len(ref)
     ntotal = len(ref)+len(unref)
+    
+    assert ntotal==len(first) + len(significant) + len(collaboration)
+    
     nfirst = sum(1 for p in pubs if "Anand, A" in p["authors"][0])
-    nsignificant = sum(1 for p in pubs if "Anand, A" in p["authors"][0:5])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
@@ -101,6 +108,16 @@ if __name__ == "__main__":
         f.write(summary)
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
+    first = list(map(format_pub, zip(range(len(first), 0, -1), first)))
+    significant = list(map(format_pub, zip(range(len(significant), 0, -1), significant)))
+    collaboration = list(map(format_pub, zip(range(len(collaboration), 0, -1), collaboration)))
+
+    with open("/tex/first_author.tex", "w") as f:
+        f.write("\n\n".join(first))
+    with open("/tex/significant_author.tex", "w") as f:
+        f.write("\n\n".join(significant))
+    with open("/tex/collaboration_author.tex", "w") as f:
+        f.write("\n\n".join(collaboration))
 
     with open("tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
