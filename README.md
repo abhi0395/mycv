@@ -9,38 +9,32 @@ This CV is based on template designed by [Daniel Foreman-Mackey](https://dfm.io/
 ## Abhijeet Anand, PhD
 
   
-Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA  
+Postdoctoral Fellow, Lawrence Berkeley National Lab, CA, USA  
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
-<https://abhi0395.github.io/></span>  
+<https://abhi0395.github.io/>, [Google
+Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>  
 
 ## Research Interests
 
-My research focuses on understanding the physical properties and
-kinematics of gas in the circumgalactic medium (CGM) and intergalactic
-medium (IGM) using quasar absorption lines. I am particularly interested
-in the interaction between gas flows and galaxy evolution across cosmic
-time. I also develop and apply innovative methods for analyzing large
-astronomical datasets, with a strong commitment to fostering diversity
-and inclusion within the scientific community.
+Observational galaxy formation and evolution, circumgalactic and
+intergalactic medium, quasar absorption lines, spectral fitting for
+large surveys, data science methods
 
 ## Positions
 
 <div class="list">
 
 
-Sep’22 - present: Postdoctoral Scientist, Lawrence Berkeley National
-Lab, Berkeley, CA, USA  
+Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
+Berkeley, CA, USA  
 
-- *Performing the largest statistical analysis of metal absorbers in the
-  universe with DESI quasars.*
+- *Investigating evolution of metal absorbers in the universe with DESI
+  quasars.*
 
-- *Improved redshift estimation algorithms for DESI galaxies using
-  spectroscopic data for cosmological and astrophysical studies.*
+- *Improved redshift estimation algorithms for DESI galaxies, support
+  scientist for DESI spectroscopic pipeline*
 
-- *Led cross-disciplinary projects involving data analysis, modeling,
-  and interpretation of large astronomical datasets.*
-
-Sep’18 - Jul’22: IMPRS PhD Fellow, Max Planck Institute for
+Sep 2018 - Jul 2022: IMPRS PhD Fellow, Max Planck Institute for
 Astrophysics, Garching, Germany
 
 - *Conducted extensive studies on the gas distribution in the
@@ -50,8 +44,8 @@ Astrophysics, Garching, Germany
   [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool used for
   detecting and analyzing metal absorbers in quasar spectra.*
 
-Sep’17 - Jul’18: UGC - JRF[^1], National Institute of Advanced Studies,
-Bangalore, India
+Sep 2017 - Jul 2018: UGC - JRF[^1], National Institute of Advanced
+Studies, Bangalore, India
 
 </div>
 
@@ -92,23 +86,24 @@ Science, Bangalore, India.
 
 </div>
 
-## Publications
-
-Total: 17 / refereed: 8 / first author: 4 / citations: 996 / h-index: 9
-(Last updated: 2024-10-13), List attached below
-
-## Selected visits, talks and conferences
+## Selected visits, talks and conferences (\>20 talks)
 
 $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
 
-$^i$ Sep 2024: *DESI Galaxy Quasar Physics Working Group Seminar*, Sep
-27, 2024 (*Virtual talk*)
+$^i$ Jan 2025: *DESI Year 1 Science Results*, 245th AAS Meeting,
+Maryland, USA, Jan 12 - Jan 15, 2025
 
-$^c$ Jul 2024: *DESI Collaboration Summer Meeting*, Marseille, France,
-Jul 9 - Jul 12, 2024 (*Virtual talk*).
+$^i$ Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
+India, Dec 11, 2024 (*talk*)
+
+$^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
+Dec 2 - Dec 6, 2024 (*talk*)
+
+$^i$ Oct 2024: *DESI Absorber Topical Working Group Seminar*, Oct 10,
+2024 (*Virtual talk*)
 
 $^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
@@ -116,25 +111,8 @@ $^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 $^i$ Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
 (*Talk*).
 
-$^c$ Dec 2023: *DESI Collaboration Winter Meeting*, Kona, Hawaii, Dec
-11 - Dec 14, 2023 (*Virtual talk*).
-
-$^c$ Jul 2023: *DESI Collaboration Summer Meeting*, Durham, UK, Jul 17 -
-Jul 21, 2023 (*Talk*).
-
-$^c$ Mar 2023: *DESI Absorber Science Workshop*, Mar 28, 2023 ( *Virtual
-Talk*).
-
-$^c$ Dec 2022: *DESI Collaboration Winter Meeting*, Cancun, Mexico, 5-9
-Dec, 2022 (*Talk*).
-
-$^c$ May 2022: *[Gas Flows around
-Galaxies](https://indico.ph.tum.de/event/7018/)*, MPA, Garching, 24 May,
-2022 (*Talk*).
-
-$^c$ Apr 2022: *[Galaxy Clusters
-2022](https://www.stsci.edu/contents/events/stsci/2022/april/galaxy-clusters-2022-challenging-our-cosmological-perspectives)*,
-STScI 25-29 Apr, 2022 (*e-Poster*).
+$^i$ Oct 2023: *DESI Data Systems and Management Meeting*, Oct 31, 2023
+(*Virtual Talk*).
 
 $^i$ Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
@@ -153,72 +131,6 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 $^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 (*Virtual*).
 
-$^c$ Nov 2021: *[e-Poster &
-talk](https://www.bilibili.com/video/BV1nv411M7w3)*,
-*[KooGiG-Junior’21](https://kiaa.pku.edu.cn/KooGig_junior21/Home.htm)*,
-KIAA, Peking University, 1-5 Nov, 2021 (*Virtual*).
-
-$^c$ Sep 2021: *[German Astronomical Society Meeting
-2021](https://ag2021.astronomische-gesellschaft.de/view_splinter.php?session=Stars)*,
-16 Sep, 2021 (*Virtual*)
-
-$^c$ Aug 2021: *[SDSS-IV Collaboration Meeting
-2021](https://jhu2021.sdss.org/)*, 12 Aug, 2021 (*Virtual + e-poster*)
-
-$^s$ Jul 2021: *MIAPP Workshop: High-Energy Plasma Physics Phenomena in
-Astrophysics*, MIAPP, Garching, Jul 19 - 30, 2021 (*Virtual
-participant*).
-
-$^c$ Jun 2021: *MPA Galaxy Group Retreat*, Fraueninsel, Chiemsee, 14-17
-June, 2021 (*Talk*).
-
-$^s$ Jan 2021: *Fundamental of Gaseous Halos*, KITP, UCSB, 11 Jan - 5
-Mar, 2021 (*Virtual participant*).
-
-$^c$ Oct 2020: *Galaxy Introductory Symposium*, MPA, Garching, 27 Oct,
-2020 (*Virtual*).
-
-$^c$ Oct 2020: *Institute Seminar*, MPA, Garching, 26 Oct, 2020
-(*Virtual*).
-
-$^c$ Oct 2019: *[CGM 2019: CGM
-Conference](https://wwwmpa.mpa-garching.mpg.de/conf/berlincgm2019/)*,
-Berlin, 3 Oct - 5 Oct 2019 (*Participation*).
-
-$^s$ Aug 2019: *Summer School: Galaxy Formation*, AKSS, Spetses, 28
-Aug - 5 Sept 2019.
-
-$^s$ Nov 2018: *Python for HPC*, attended at MPCDF, Garching, 20-21 Nov
-2018.
-
-</div>
-
-## Awarded Supercomputing time
-
-<div class="list">
-
-
-– 2024: Perlmutter Supercomputer at NERSC, *Properties of precious metal
-absorbers in DESI quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI:
-**A. Anand**
-
-– 2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
-estimation for DESI*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
-
-– 2018-2022: Freya Supercomputer at MPCDF, *The multiphase galactic halo
-of galaxies and clusters with large spectroscopic and imaging surveys*,
-5000 CPU hours, PI: **A. Anand**
-
-</div>
-
-## Observing experience
-
-<div class="list">
-
-
-– Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
-Observatory, Jul 2-5, 2024 (four nights).
-
 </div>
 
 ## Mentoring
@@ -228,27 +140,13 @@ Observatory, Jul 2-5, 2024 (four nights).
 
 – Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100), 2024-present
 
+– Shivansh Tiwari (Delhi University UG) (QSO continuum modeling),
+2024-present
+
 – Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM),
 2023
 
 – Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
-
-</div>
-
-## Honors & Awards
-
-<div class="list">
-
-
-– DESI Early Career Travel Grant (USD 4000).
-
-– DESI Postdoc Fellowship, 2022–2025.
-
-– IMPRS PhD Fellowship, 2018–2022.
-
-– UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
-
-– DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
 
 </div>
 
@@ -277,26 +175,78 @@ Member & contributor (github repo & software) —
 
 </div>
 
+## Awarded Supercomputing time
+
+<div class="list">
+
+
+– 2024: Perlmutter Supercomputer at NERSC, *Properties of precious metal
+absorbers in DESI quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI:
+**A. Anand**
+
+– 2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
+estimation for DESI*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
+
+– 2018-2022: Freya Supercomputer at MPCDF, *The multiphase galactic halo
+of galaxies and clusters with large spectroscopic and imaging surveys*,
+5000 CPU hours, PI: **A. Anand**
+
+</div>
+
+## Observing and data processing experience
+
+<div class="list">
+
+
+– Sep 2022: Support Scientist for DESI spectroscopic pipeline
+
+– Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
+Observatory, Jul 2-5, 2024 (four nights).
+
+</div>
+
+## Honors & Awards
+
+<div class="list">
+
+
+– DESI Early Career Travel Grant (USD 4000).
+
+– DESI Postdoc Fellowship, 2022–2025.
+
+– IMPRS PhD Fellowship, 2018–2022.
+
+– UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
+
+– DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
+
+</div>
+
 ## Professional service & activities
 
 <div class="list">
 
 
-Peer reviewer —  
-– [A&A](https://en.wikipedia.org/wiki/Astronomy_%26_Astrophysics),
-[ApJ](https://en.wikipedia.org/wiki/The_Astrophysical_Journal), Internal
-Reviewer for DESI collaboration papers
-
-Collaboration —  
-– [DESI: Dark Energy Survey Instrument](https://www.desi.lbl.gov/)  
-– NANCY: Next-generation All-sky Near-infrared Community surveY
+Referee —  
+– Astronomy & Astrophysics, Astrophysical Journal, Internal Reviewer for
+DESI papers
 
 Organizer & Member —  
-– Mentor in DESI mentorship program and member of DESI DEI committee.  
+– Core committee member for DESI Diversity, Equity and Inclusivity (DEI)
+committee.  
 – [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
 LBNL, 2023-2024  
-– Member of Local Organizing Committee of VII<sup>th</sup> IMPRS Student
-Symposium, 4-5 Apr, 2019.
+
+Teaching Experience —  
+– Served as online physics tutor at E-acharya (more than 20
+students)[^3] from June 2017 - Aug 2018.  
+
+</div>
+
+## Outreach activities
+
+<div class="list">
+
 
 Press releases —  
 – My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
@@ -314,20 +264,12 @@ astronomers.
 to [The Interview Portal](https://theinterviewportal.com/) to help
 Indian college students plan their careers.
 
-Teaching Experience —  
-– Served as online physics tutor at E-acharya (more than 20
-students)[^3] from June 2017 - Aug 2018.  
-– Advanced Physics tutor at Chegg India from Jul 2016 - Dec 2017.
-Solving advanced physics problems and clearing doubts of students from
-all over the world.
-
-More organization skills —  
-– Organized and coordinated scientific and technical workshops ($\sim$
-150 participants) in *Pravega*[^4], in Jan’14.  
-– Conducted experiments and demonstrations for open day celebration at
-IISc during my undergraduate.
-
 </div>
+
+## Publications
+
+Total: 17 / refereed: 8 / first author: 4 / citations: 996 / h-index: 9
+(Last updated: 2024-10-13), List attached below
 
 ### Refereed publications
 
@@ -473,5 +415,3 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 [^3]: an initiative to help poor students in suburban and rural areas of
     Bihar, India.
-
-[^4]: Annual – Science Festival of IISc
