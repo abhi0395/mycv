@@ -271,7 +271,7 @@ Indian college students plan their careers.
 Total: 17 / refereed: 8 / first author: 4 / citations: 996 / h-index: 9
 (Last updated: 2024-10-13), List attached below
 
-### Refereed publications
+## First author
 
 <div class="list">
 
@@ -283,37 +283,6 @@ Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
 Journal, **168**, 124
 ([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
-Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
-Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[198
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
-Program for the Dark Energy Spectroscopic
-Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
-Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[134
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
-
-Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
-**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
-II Absorption in DESI Survey Validation Quasar
-Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
-Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[11
-citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
-
-Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
-White, Simon D. M., 2023, *[The physical origin of galactic conformity:
-from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
-Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[14
-citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
 circumgalactic gas in galaxy clusters: connecting the DESI legacy
@@ -340,16 +309,10 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Preprints & white papers
+## Significant contribution
 
 <div class="list">
 
-
-Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
-*et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
-mass-metallicity relation from dwarfs to massive
-galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
 
 Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
 Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
@@ -370,6 +333,42 @@ Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 feedback on the properties of the cool circumgalactic
 medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
 ([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
+
+Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
+**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
+II Absorption in DESI Survey Validation Quasar
+Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
+Journal, **166**, 99
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[11
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
+
+Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
+White, Simon D. M., 2023, *[The physical origin of galactic conformity:
+from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
+Monthly Notices of the Royal Astronomical Society, **519**, 1913
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
+
+</div>
+
+## Collaboration papers
+
+<div class="list">
+
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
+Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
+Astronomical Journal, **168**, 58
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[198
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
+
+Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
+*et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
+mass-metallicity relation from dwarfs to massive
+galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
@@ -398,6 +397,14 @@ Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
 ([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[109
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
+Program for the Dark Energy Spectroscopic
+Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
+Astronomical Journal, **167**, 62
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[134
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
 Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
