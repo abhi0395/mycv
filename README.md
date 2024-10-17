@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 8 / first author: 4 / citations: 978 / h-index: 9
-(Last updated: 2024-10-16), List attached below
+Total: 17 / refereed: 8 / first author: 4 / citations: 983 / h-index: 9
+(Last updated: 2024-10-17), List attached below
 
 ## First author
 
@@ -368,7 +368,8 @@ Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
 *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
 mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240803996S)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
@@ -381,14 +382,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[117
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[340
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[343
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
