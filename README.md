@@ -268,7 +268,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 18 / refereed: 9 / first author: 4 / citations: 1,008 / h-index:
+Total: 17 / refereed: 9 / first author: 4 / citations: 1,008 / h-index:
 9 (Last updated: 2024-10-21), List attached below
 
 ## First author
@@ -333,12 +333,6 @@ environments through Mg II absorption from redshift z=0.75 to z=1.65
 using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
 ([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240717809W)\]
-
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
-**Anand, Abhijeet**; *et al.*, 2024, *[Probing the impact of radio-mode
-feedback on the properties of the cool circumgalactic
-medium](http://dx.doi.org/10.48550/arXiv.2405.08314)*, ArXiv
-([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 **Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
