@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 9 / first author: 4 / citations: 1,010 / h-index:
-9 (Last updated: 2024-10-27), List attached below
+Total: 18 / refereed: 10 / first author: 4 / citations: 1,013 / h-index:
+9 (Last updated: 2024-10-28), List attached below
 
 ## First author
 
@@ -322,6 +322,12 @@ Journal, **974**, 191
 ([arXiv:2405.08314](http://arxiv.org/abs/2405.08314))
 
 Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
+Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for new
+cataclysmic variables in the Chandra Source
+Catalog](http://dx.doi.org/10.1051/0004-6361/202450734)*, Astronomy and
+Astrophysics, **690**
+
+Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
 Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for New
 Cataclysmic Variables in the Chandra Source
 Catalog](http://dx.doi.org/10.48550/arXiv.2408.00078)*, ArXiv
@@ -362,7 +368,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[194
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[196
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
@@ -390,7 +396,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[361
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[362
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
