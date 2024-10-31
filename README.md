@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 10 / first author: 4 / citations: 1,012 / h-index:
-9 (Last updated: 2024-10-30), List attached below
+Total: 17 / refereed: 10 / first author: 4 / citations: 1,016 / h-index:
+9 (Last updated: 2024-10-31), List attached below
 
 ## First author
 
@@ -326,7 +326,8 @@ Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for new
 cataclysmic variables in the Chandra Source
 Catalog](http://dx.doi.org/10.1051/0004-6361/202450734)*, Astronomy and
 Astrophysics, **690**
-([arXiv:2408.00078](http://arxiv.org/abs/2408.00078))
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.374G)\]
 
 Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 2024, *[Tracing the evolution of the cool gas in CGM and IGM
@@ -383,14 +384,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[121
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[122
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[362
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[364
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
