@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 10 / first author: 4 / citations: 1,027 / h-index:
-9 (Last updated: 2024-11-01), List attached below
+Total: 17 / refereed: 10 / first author: 4 / citations: 1,031 / h-index:
+9 (Last updated: 2024-11-02), List attached below
 
 ## First author
 
@@ -363,7 +363,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[197
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[198
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
@@ -391,7 +391,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[369
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[372
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
