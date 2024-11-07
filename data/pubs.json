@@ -135,7 +135,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad60c2",
     "page": 124,
@@ -420,7 +420,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 199,
+    "citations": 201,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3217",
     "page": 58,
@@ -560,7 +560,7 @@
     "doctype": "inproceedings",
     "doi": null,
     "page": 2215,
-    "pub": "EAS2024",
+    "pub": "EAS2024, European Astronomical Society Annual Meeting",
     "pubdate": "2024-07-00",
     "title": "The Fate of the CGM Gas: Insights from Simulations and Observations",
     "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.2215A",
@@ -868,7 +868,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03000",
     "page": null,
@@ -1086,7 +1086,7 @@
       "Zhuang, T.",
       "Zou, H."
     ],
-    "citations": 379,
+    "citations": 378,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03002",
     "page": null,
@@ -1300,7 +1300,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03001",
     "page": null,
@@ -1581,7 +1581,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 137,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": 62,
