@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 10 / first author: 4 / citations: 1,061 / h-index:
-9 (Last updated: 2024-11-11), List attached below
+Total: 17 / refereed: 11 / first author: 4 / citations: 1,062 / h-index:
+9 (Last updated: 2024-11-12), List attached below
 
 ## First author
 
@@ -358,20 +358,20 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 <div class="list">
 
 
+Scholte, Dirk; Saintonge, Amélie; Moustakas, John; Catinella, Barbara;
+Zou, Hu; *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence
+and mass-metallicity relation from dwarfs to massive
+galaxies](http://dx.doi.org/10.1093/mnras/stae2477)*, Monthly Notices of
+the Royal Astronomical Society
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
+
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[201
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[203
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
-
-Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
-*et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
-mass-metallicity relation from dwarfs to massive
-galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[1
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240803996S)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
