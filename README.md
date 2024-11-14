@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 11 / first author: 4 / citations: 1,062 / h-index:
-9 (Last updated: 2024-11-13), List attached below
+Total: 17 / refereed: 11 / first author: 4 / citations: 1,065 / h-index:
+9 (Last updated: 2024-11-14), List attached below
 
 ## First author
 
@@ -363,14 +363,15 @@ Zou, Hu; *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence
 and mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.1093/mnras/stae2477)*, Monthly Notices of
 the Royal Astronomical Society
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[1
+citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2425S)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[The Early Data Release of the
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[203
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[202
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -391,7 +392,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[388
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[391
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
