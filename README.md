@@ -268,8 +268,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 17 / refereed: 11 / first author: 4 / citations: 1,074 / h-index:
-9 (Last updated: 2024-11-17), List attached below
+Total: 17 / refereed: 11 / first author: 4 / citations: 1,095 / h-index:
+9 (Last updated: 2024-11-18), List attached below
 
 ## First author
 
@@ -297,7 +297,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[30
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
@@ -333,7 +333,7 @@ Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 2024, *[Tracing the evolution of the cool gas in CGM and IGM
 environments through Mg II absorption from redshift z=0.75 to z=1.65
 using DESI-Y1 data](http://dx.doi.org/10.48550/arXiv.2407.17809)*, ArXiv
-([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[1
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240717809W)\]
 
 Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
@@ -341,7 +341,7 @@ Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 II Absorption in DESI Survey Validation Quasar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
 Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[12
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
 Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
@@ -371,35 +371,35 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[203
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[207
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
 the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2405.16593)*, ArXiv
-([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[3
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240516593R)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
-Oscillations from Galaxies and
-Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[128
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[397
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[402
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
+Oscillations from Galaxies and
+Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[132
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[113
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[115
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -407,7 +407,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[139
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[141
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
