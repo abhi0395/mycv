@@ -268,7 +268,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 21 / refereed: 11 / first author: 4 / citations: 1,162 / h-index:
+Total: 20 / refereed: 11 / first author: 4 / citations: 1,162 / h-index:
 9 (Last updated: 2024-11-25), List attached below
 
 ## First author
@@ -393,12 +393,6 @@ Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
 ([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[212
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
-
-Scholte, D.; Saintonge, A.; Moustakas, J.; Catinella, B.; Zou, H.;
-*et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence and
-mass-metallicity relation from dwarfs to massive
-galaxies](http://dx.doi.org/10.48550/arXiv.2408.03996)*, ArXiv
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996))
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 *et al.*, 2024, *[The Construction of Large-scale Structure Catalogs for
