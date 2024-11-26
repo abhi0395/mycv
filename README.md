@@ -54,8 +54,8 @@ Studies, Bangalore, India
 <div class="list">
 
 
-Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
-Max Planck Institute for Astrophysics (MPA), Germany.
+Sep 2018 - Jul 2022: PhD in Physics, Ludwig Maximilian University - Max
+Planck Institute for Astrophysics (MPA), Germany.
 
 - Thesis: [Probing cool and warm circumgalactic gas in galaxies and
   clusters with large spectroscopic and imaging
@@ -101,6 +101,9 @@ India, Dec 11, 2024 (*talk*)
 
 $^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
+
+$^c$ Dec 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi,
+India, Nov 20 - Nov 22, 2024 (*talk*)
 
 $^i$ Oct 2024: *DESI Absorber Topical Working Group Seminar*, Oct 10,
 2024 (*Virtual talk*)
