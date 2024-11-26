@@ -102,7 +102,7 @@ India, Dec 11, 2024 (*talk*)
 $^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
-$^c$ Dec 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi,
+$^c$ Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi,
 India, Nov 20 - Nov 22, 2024 (*talk*)
 
 $^i$ Oct 2024: *DESI Absorber Topical Working Group Seminar*, Oct 10,
