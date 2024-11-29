@@ -271,8 +271,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 11 / first author: 4 / citations: 1,161 / h-index:
-9 (Last updated: 2024-11-28), List attached below
+Total: 20 / refereed: 11 / first author: 4 / citations: 1,180 / h-index:
+9 (Last updated: 2024-11-29), List attached below
 
 ## First author
 
@@ -284,7 +284,7 @@ Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
 Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
 Journal, **168**, 124
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[6
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
@@ -395,7 +395,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[210
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[211
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -409,21 +409,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[421
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[428
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[145
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[150
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[128
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[132
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -431,7 +431,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[146
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[147
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
