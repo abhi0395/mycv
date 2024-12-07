@@ -271,8 +271,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 11 / first author: 4 / citations: 1,207 / h-index:
-9 (Last updated: 2024-12-06), List attached below
+Total: 20 / refereed: 11 / first author: 4 / citations: 1,209 / h-index:
+9 (Last updated: 2024-12-07), List attached below
 
 ## First author
 
@@ -373,7 +373,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 V: Full-Shape Galaxy
 Clustering from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[4
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -416,7 +416,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[156
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[157
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
