@@ -57,7 +57,7 @@ jobs:
         env:
           XDG_CACHE_HOME: cache
       - name: Push documents
-        uses: JamesIves/github-pages-deploy-action@v4.6.9
+        uses: JamesIves/github-pages-deploy-action@v4.7.2
         with:
           folder: results
           target-folder: tex
