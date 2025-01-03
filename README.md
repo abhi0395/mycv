@@ -271,8 +271,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 11 / first author: 4 / citations: 1,310 / h-index:
-11 (Last updated: 2025-01-02), List attached below
+Total: 20 / refereed: 11 / first author: 4 / citations: 1,313 / h-index:
+11 (Last updated: 2025-01-03), List attached below
 
 ## First author
 
@@ -366,7 +366,7 @@ Zou, Hu; *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence
 and mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.1093/mnras/stae2477)*, Monthly Notices of
 the Royal Astronomical Society, **535**, 2341
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[1
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2341S)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -416,14 +416,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[172
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[173
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
 Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[142
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[143
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
