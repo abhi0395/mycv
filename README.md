@@ -93,9 +93,6 @@ $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 <div class="list">
 
 
-$^i$ Jan 2025: *DESI Year 1 Science Results*, 245th AAS Meeting,
-Maryland, USA, Jan 12 - Jan 15, 2025
-
 $^i$ Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
 India, Dec 11, 2024 (*talk*)
 
@@ -178,24 +175,6 @@ Member & contributor (github repo & software) —
 
 </div>
 
-## Awarded Supercomputing time
-
-<div class="list">
-
-
-– 2024: Perlmutter Supercomputer at NERSC, *Properties of precious metal
-absorbers in DESI quasar spectra*, 1000 CPU hours, 1000 GPU hours, PI:
-**A. Anand**
-
-– 2023: Perlmutter Supercomputer at NERSC, *Archetype based redshift
-estimation for DESI*, 1000 CPU hours, 1000 GPU hours, PI: **A. Anand**
-
-– 2018-2022: Freya Supercomputer at MPCDF, *The multiphase galactic halo
-of galaxies and clusters with large spectroscopic and imaging surveys*,
-5000 CPU hours, PI: **A. Anand**
-
-</div>
-
 ## Observing and data processing experience
 
 <div class="list">
@@ -203,8 +182,11 @@ of galaxies and clusters with large spectroscopic and imaging surveys*,
 
 – Sep 2022: Support Scientist for DESI spectroscopic pipeline
 
+– Aug 2023: Remote Support Observing Scientist for DESI, Aug 12-14,
+2023.
+
 – Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
-Observatory, Jul 2-5, 2024 (four nights).
+Observatory, Jul 2-5, 2024.
 
 </div>
 
