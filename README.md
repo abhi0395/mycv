@@ -253,8 +253,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 11 / first author: 4 / citations: 1,358 / h-index:
-11 (Last updated: 2025-01-15), List attached below
+Total: 20 / refereed: 11 / first author: 4 / citations: 1,360 / h-index:
+11 (Last updated: 2025-01-16), List attached below
 
 ## First author
 
@@ -391,14 +391,14 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[504
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[505
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
 Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[178
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[179
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
