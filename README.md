@@ -17,8 +17,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 ## Research Interests
 
 Observational galaxy formation and evolution, circumgalactic and
-intergalactic medium, quasar absorption lines, spectral fitting for
-large surveys, data science methods
+intergalactic medium, quasar absorption lines, spectral fitting methods
+for large surveys, data science methods, cosmology
 
 ## Positions
 
@@ -28,8 +28,8 @@ large surveys, data science methods
 Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
-- *Investigating evolution of metal absorbers in the universe with DESI
-  quasars.*
+- *Investigating evolution of metal absorbers in the universe and
+  studying the circumgalactic/intergalactic medium with SDSS and DESI.*
 
 - *Improved redshift estimation algorithms for DESI galaxies, support
   scientist for DESI spectroscopic pipeline*
@@ -156,16 +156,16 @@ $^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 
 
 Language/Packages —  
-– python, numpy, matplotlib, scipy, astropy
+– python, numpy, matplotlib, scipy, astropy, SQL
 
 OS/Tools —  
-– Linux, Mac, LaTeX, bash scripting, jupyter notebooks, slurm manager,
-git
+– jupyter notebooks, slurm manager, git, Linux, Mac, LaTeX, bash
+scripting
 
 Member & contributor (github repo & software) —
 
-- [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
-  absorber finder (*Developer*).
+- [qsoabsfind](https://github.com/abhi0395/qsoabsfind): quasar absorber
+  finder (*Developer*).
 
 - [redrock](https://github.com/desihub/redrock): Redshift fitting for
   spectroperfectionism (*Contributor*).
@@ -182,9 +182,6 @@ Member & contributor (github repo & software) —
 
 – Sep 2022: Support Scientist for DESI spectroscopic pipeline
 
-– Aug 2023: Remote Support Observing Scientist for DESI, Aug 12-14,
-2023.
-
 – Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
 Observatory, Jul 2-5, 2024.
 
@@ -197,7 +194,7 @@ Observatory, Jul 2-5, 2024.
 
 – DESI Early Career Travel Grant (USD 4000).
 
-– DESI Postdoc Fellowship, 2022–2025.
+– DESI Postdoctoral Fellowship, 2022–2025.
 
 – IMPRS PhD Fellowship, 2018–2022.
 
@@ -217,8 +214,8 @@ Referee —
 DESI papers
 
 Organizer & Member —  
-– Core committee member for DESI Diversity, Equity and Inclusivity (DEI)
-committee.  
+– Core committee member for the DESI Diversity, Equity, and Inclusivity
+(DEI) committee.  
 – [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
 LBNL, 2023-2024  
 
@@ -253,7 +250,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 11 / first author: 4 / citations: 1,419 / h-index:
+Total: 20 / refereed: 11 / first author: 4 / citations: 1,418 / h-index:
 11 (Last updated: 2025-01-27), List attached below
 
 ## First author
@@ -391,7 +388,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VI: Cosmological
 Constraints from the Measurements of Baryon Acoustic
 Oscillations](http://dx.doi.org/10.48550/arXiv.2404.03002)*, ArXiv
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[537
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[536
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
