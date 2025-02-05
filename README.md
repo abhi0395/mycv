@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 12 / first author: 4 / citations: 1,456 / h-index:
-11 (Last updated: 2025-02-04), List attached below
+Total: 20 / refereed: 13 / first author: 4 / citations: 1,298 / h-index:
+11 (Last updated: 2025-02-05), List attached below
 
 ## First author
 
@@ -301,6 +301,7 @@ Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.1088/1475-7516/2025/01/125)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 125
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593))
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
 **Anand, Abhijeet**; *et al.*, 2024, *[Probing the Impact of Radio-mode
@@ -345,6 +346,13 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 <div class="list">
 
+
+Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
+*et al.* (incl. **A. Anand**), 2025, *[DESI 2024 IV: Baryon Acoustic
+Oscillations from the Lyman alpha
+forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
+Cosmology and Astroparticle Physics, **2025**, 124
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001))
 
 Scholte, Dirk; Saintonge, Amélie; Moustakas, John; Catinella, Barbara;
 Zou, Hu; *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence
@@ -396,13 +404,6 @@ Oscillations from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
 ([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[192
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 IV: Baryon Acoustic
-Oscillations from the Lyman Alpha
-Forest](http://dx.doi.org/10.48550/arXiv.2404.03001)*, ArXiv
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[158
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
