@@ -86,8 +86,8 @@ if __name__ == "__main__":
     unref = [p for p in pubs if p["doctype"] == "eprint"]
     
     first = [p for p in pubs if "Anand, A." in p["authors"][0] or "Anand, Abhijeet" in p["authors"][0]]
-    significant = [p for p in pubs if ("Anand, A." in p["authors"][1:5] or "Anand, Abhijeet" in p["authors"][1:5]) and ("Construction of Large-scale Structure" not in p["title"])]
-    collaboration = [p for p in pubs if "Anand, A." in p["authors"][5:] or "Anand, Abhijeet" in p["authors"][5:] or "Construction of Large-scale Structure" in p["title"]]
+    significant = [p for p in pubs if ("Anand, A." in p["authors"][1:5] or "Anand, Abhijeet" in p["authors"][1:5]) and ("The construction of large-scale structure catalogs" not in p["title"])]
+    collaboration = [p for p in pubs if "Anand, A." in p["authors"][5:] or "Anand, Abhijeet" in p["authors"][5:] or "The construction of large-scale structure catalogs" in p["title"]]
 
 
     # Compute citation stats
