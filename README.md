@@ -251,7 +251,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 20 / refereed: 14 / first author: 4 / citations: 1,600 / h-index:
-13 (Last updated: 2025-02-24), List attached below
+13 (Last updated: 2025-02-25), List attached below
 
 ## First author
 
