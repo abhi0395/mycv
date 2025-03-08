@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 14 / first author: 4 / citations: 1,615 / h-index:
-13 (Last updated: 2025-03-07), List attached below
+Total: 20 / refereed: 14 / first author: 4 / citations: 1,617 / h-index:
+13 (Last updated: 2025-03-08), List attached below
 
 ## First author
 
@@ -286,7 +286,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 I emission from superdisk candidates associated with radio
 galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
 Astronomy and Astrophysics, **19**, 83
-([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[2
+([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
