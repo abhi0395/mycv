@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 20 / refereed: 14 / first author: 4 / citations: 1,595 / h-index:
-13 (Last updated: 2025-03-09), List attached below
+Total: 20 / refereed: 14 / first author: 4 / citations: 1,594 / h-index:
+13 (Last updated: 2025-03-10), List attached below
 
 ## First author
 
@@ -308,7 +308,7 @@ Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for new
 cataclysmic variables in the Chandra Source
 Catalog](http://dx.doi.org/10.1051/0004-6361/202450734)*, Astronomy and
 Astrophysics, **690**
-([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[2
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.374G)\]
 
 Wu, X.; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
