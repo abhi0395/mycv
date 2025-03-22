@@ -1,118 +1,95 @@
-\documentclass[a4paper,11pt]{article}
-\usepackage{latexsym}
-\usepackage{titlesec}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{xcolor}
-\usepackage{geometry}
-
-\geometry{margin=0.85in}
-
-\titleformat{\section}{\large\bfseries}{}{0em}{}
-
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=0.8in, right=0.8in, top=0.65in, bottom=0.75in]{geometry}
+\usepackage{enumitem, hyperref, titlesec}
 \hypersetup{
     colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,
     urlcolor=blue,
-    citecolor=blue,
+    linkcolor=blue
 }
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[T1]{fontenc}
+
+\pagenumbering{gobble}
+\setlength{\parindent}{0pt}
+\setlist[itemize]{itemsep=2pt, topsep=4pt}
+
+% Formatting Section Titles
+\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
 
 \begin{document}
 
 \begin{center}
-    {\LARGE \textbf{Abhijeet Anand, PhD}} \\
-    Postdoctoral Scientist, Lawrence Berkeley National Lab, CA, USA \\
-    \href{mailto:AbhijeetAnand@lbl.gov}{AbhijeetAnand@lbl.gov} \\
-     \href{https://abhi0395.github.io/}{Website}  | \href{https://www.linkedin.com/in/abhijeet-anand-iisc}{LinkedIn} | \href{https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ}{Google Scholar} | \href{https://ui.adsabs.harvard.edu/public-libraries/YPXGQEsNQg-zR9R9YBYFXw}{NASA/ADS} | \href{https://github.com/abhi0395}{GitHub}\\
-    Citizenship: Indian\\
+    {\huge \textbf{Abhijeet Anand, PhD}} \\
+    {\normalsize \vspace{1.5mm}
+    \textbf{Postdoctoral Fellow – Astrophysics \& Data Science, Lawrence Berkeley National Lab, USA}} \\
+    \vspace{1.5mm}
+\href{mailto:abhijeetanand2011@gmail.com}{abhijeetanand2011@gmail.com} \quad 
+    \href{https://abhi0395.github.io}{Website} \quad
+    \href{https://www.linkedin.com/in/abhijeet-anand-iisc}{LinkedIn} \quad
+    \href{https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ}{Google Scholar} \quad
+    \href{https://github.com/abhi0395}{GitHub}\\
+    \vspace{1.5mm}
+    Mob: +1 650-664-9558
+     \quad 
+    Current Address: Mipitas, CA 95035, USA \quad 
 \end{center}
 
-\vspace{0.5cm}
+\section*{Summary}
+An Astrophysicist with 5+ years of experience in data science, statistical modeling, large-scale data analysis, and visualization. Expertise in designing data pipelines, implementing machine learning algorithms, and optimizing high-performance computing (HPC) workflows. Experienced in working within large international collaborations with diverse, cross-functional teams. Seeking opportunities to apply and develop analytical skills for solving industry and business problems.
+\vspace*{-3mm}
+\section*{Work Experience}
 
-\section*{Objective}
-Postdoctoral scientist with a PhD in Astrophysics with 6 years of experience in quantitative data research and analysis.
-Solid foundation in data science, mathematical modeling, big data analytics, and visualization using Python on HPCs. Seeking to
-apply these skills in researching and developing solutions for quantitative research, data science, and analysis roles in industry. Committed to helping build a more inclusive and equitable society and working with teams with similar mindsets and goals.
-
-\section*{Professional Experience and Projects}
-\noindent
-\textbf{Postdoctoral Fellowship} \\
-Lawrence Berkeley National Lab, Berkeley, CA, USA \hfill \textit{Sep 2022 - Present} \\
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item Developed and implemented physical and mathematical models to improve measurement accuracy and finding features in large datasets using linear algebra, statistical, and machine learning techniques \href{https://github.com/desihub/redrock}{link}. 
-    \item I am also a support scientist for the biggest astronomical dataset on the planet and helping build the largest 3D map of our Universe.
-     \item Collaborated with interdisciplinary teams to deploy scientific data reduction tools. Contributor to the scientific codebases [\href{https://github.com/desihub}{link}].
-        \item Led mentoring initiatives, guiding junior researchers in science analysis projects and fostering a collaborative research environment.
+\textbf{Postdoctoral Fellow } \hfill \textit{Lawrence Berkeley National Lab, Berkeley, USA} \hfill \textit{Sep 2022 – Present} 
+\begin{itemize}
+    \item Developed and optimized statistical models to extract insights from large-scale datasets, applying linear algebra, statistical features, and machine learning techniques (project: \href{https://github.com/desihub/redrock}{redrock}).
+    \item Designed and contributed to scalable data processing pipelines ($\sim 50\, \rm TB$) on high-performance computing clusters (\href{https://www.nersc.gov}{NERSC}), improving model reliability by 30-40\%.
+    %\item (\textit{Contributor}) \textbf{redrock}: Developed PCA-based feature modeling for massive datasets, implemented on CPUs/GPUs. (\href{https://github.com/desihub/redrock}{GitHub})
+    \item Built and deployed data visualization tools for structured and unstructured datasets to support high-impact research goals, such as building the largest 3D map of our Universe (\href{https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument}{DESI}).
+    \item Led collaborations with interdisciplinary teams, mentoring junior researchers and contributing to DEI initiatives.
+\end{itemize}
+\vspace{2mm}
+\textbf{Max Planck PhD Fellow} \hfill \textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill \textit{Sep 2018 – Jul 2022} 
+\begin{itemize}
+    \item Applied unsupervised learning (NMF, PCA) and Gaussian kernel-based methods to high-dimensional astrophysical data for feature extraction (project: \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}).
+    %\item (\textit{Developer}) \textbf{qsoabsfind}: Designed and deployed an automated feature-detection tool for large-scale spectral datasets, significantly improving analysis efficiency. (\href{https://github.com/abhi0395/qsoabsfind}{GitHub})
+    \item Implemented high-performance simulations and data visualization techniques to analyze large observational datasets.
 \end{itemize}
 
-% \noindent \\
-% \textbf{International Max Planck Research School PhD Fellowship} \\
-% Max Planck Institute for Astrophysics, Garching, Germany \hfill \textit{Sep 2018 - Jul 2022} \\
-% \begin{itemize}[noitemsep, topsep=0pt]
-%     \item Leveraged machine learning and statistical analysis techniques to find physical features in astronomical data to answer fundamental scientific questions.
-%     \item Developed the \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind} tool, showcasing expertise in coding and data analysis.
+\vspace{-3mm}
+\section*{Education}
+
+\textbf{PhD in Astrophysics} \hfill \textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill \textit{Sep 2018 – Jul 2022}\\
+\textbf{BS - MS in Physics} \hfill \textit{Indian Institute of Science (IISc), Bangalore, India} \hfill \textit{Aug 2012 – Jun 2017}
+\vspace*{-2mm}
+\section*{Technical Skills}
+\textbf{Programming:} Python (NumPy, SciPy, Pandas, scikit-learn, Matplotlib), Git, LaTeX, SQL \\
+\textbf{Data Science Methods:} Statistical Modeling, Machine Learning, Probabilistic Inference\\
+\textbf{Data Engineering:} Data Pipelines, HPC (Slurm, \href{https://www.nersc.gov}{NERSC}), Data Wrangling\\
+\textbf{Tools:} Jupyter Notebooks, HPC (Slurm)\\
+\textbf{Software Contributions:} \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}, \href{https://github.com/desihub/redrock}{redrock}, \href{https://github.com/desihub/desispec}{desispec}\\
+\textbf{Soft Skills:} Problem-Solving, Team Collaboration, Technical writing and communication
+\vspace*{-2mm}
+\section*{Publications \& Conferences}
+\begin{itemize}
+    \item Published 20+ papers, with over 1600+ citations (h-index: 13). Details: \href{https://ui.adsabs.harvard.edu/public-libraries/YPXGQEsNQg-zR9R9YBYFXw}{NASA/ADS}.
+    \item Delivered 20+ invited and contributed talks at international workshops and conferences.
+\end{itemize}
+\vspace*{-3mm}
+\section*{Professional Activities}
+\begin{itemize}
+    \item Reviewer for leading astrophysical journals (American Astronomical Society, Royal Astronomical Society).
+    \item Featured in academic career podcasts and interviews.
+    \item Active member of big scientific collaboration and contribute to the diversity and inclusion initiatives within them.
+\end{itemize}
+
+% \section*{Honors \& Awards}
+% \begin{itemize}
+%     \item Dark Energy Independent Postdoctoral Fellowship, LBNL (2022 – 2025, USD 90k/yr)
+%     \item Max Planck PhD Fellowship (2018 – 2022, €40k/yr)
+%     \item UGC Junior Research Fellowship, Govt. of India (2017 – 2018, INR 350k)
+%     \item INSPIRE Scholarship, Govt. of India (2012 – 2017, INR 300k)
 % \end{itemize}
 
-\section*{Education}
-\noindent
-\textbf{PhD in Astrophysics} \\
-Max Planck Institute for Astrophysics, Garching, Germany \hfill \textit{Sep 2018 - Jul 2022} \\
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item Leveraged a combination of linear algebra and statistical techniques to find physical features in astronomical data to answer fundamental scientific questions \href{https://edoc.ub.uni-muenchen.de/30337/}{[\textit{Thesis}]}. 
-    \item Developed a method based on a combination of nonnegative matrix factorization and Gaussian kernel convolution-based adaptive signal-to-noise method \href{https://github.com/abhi0395/qsoabsfind}{(qsoabsfind)} to search for features in the astronomical spectra, showcasing expertise in developing, deploying, and maintaining scientific codebase.
-\end{itemize}
-
-\noindent\\
-\textbf{BS - MS in Physics} \\
-Indian Institute of Science (IISc), Bangalore, India \hfill \textit{Aug 2012 - Jul 2017} \\
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item Worked on big data optical and radio astronomy and spectral analysis using computational techniques in python \href{https://raw.githubusercontent.com/abhi0395/mycv/main/files/MS_thesis.pdf}{[\textit{MS Thesis}]}, \href{https://raw.githubusercontent.com/abhi0395/mycv/main/files/BS_thesis.pdf}{[\textit{BS Thesis}]}.
-     \item Also worked in numerical complex system dynamics to understand the nature of physical and biological systems.
-\end{itemize}
-
-\section*{Skills}
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item \textbf{Programming:} Python, NumPy, Matplotlib, SciPy, SQL, MS-Excel
-    \item \textbf{Tools:} Jupyter Notebooks, slurm, Git, HPC, Powerpoint, Keynote, LaTeX
-    \item \textbf{Methods:} Mathematical Modeling, Data Science and Analysis Methods, Data Visualization, Basic statistical methods
-    \item \textbf{Collaborative Platforms:} GitHub (Developer and Contributor to \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}, \href{https://github.com/desihub/redrock}{redrock}, \href{https://github.com/desihub}{DESI public codebase})
-     \item \textbf{Languages:} Hindi (native), English (advanced), German (elementary)
-\end{itemize}
-
-\section*{Selected Publications}
-I have published several lead and co-author papers ($= 20$) that have been well-cited ($\geq 1430$ citations, h-index = 11) in the astrophysics community, demonstrating the impact and relevance of my research.
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item \textbf{Anand, A.,} \textit{et al.} (2024). "Archetype-Based Redshift Estimation for the Dark Energy Spectroscopic Instrument Survey," \textit{The Astronomical Journal}. \href{https://iopscience.iop.org/article/10.3847/1538-3881/ad60c2}{[DOI]}
-    \item \textbf{Anand, A.,} \textit{et al.} (2022). "Cool circumgalactic gas in galaxy clusters: connecting the DESI legacy imaging survey and SDSS DR16 Mg II absorbers," \textit{Monthly Notices of the Royal Astronomical Society}. \href{https://doi.org/10.1093/mnras/stab871}{[DOI]}
-    \item \textbf{Anand, A.,} \textit{et al.} (2021). "Characterizing the abundance, properties, and kinematics of the cool circumgalactic medium of galaxies in absorption with SDSS DR16," \textit{Monthly Notices of the Royal Astronomical Society}. \href{https://doi.org/10.1093/mnras/stac928}{[DOI]}
-    \item DESI Collaboration; \textbf{incl. Anand, A.,} \textit{et al.} (2024). "DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations", \textit{ArXiv}. \href{10.48550/arXiv.2404.03002}{[DOI]}
-    %\item DESI Collaboration; \textbf{Anand, A.,} \textit{et al.} (2024). "The Early Data Release of the Dark Energy Spectroscopic Instrument," \textit{The Astronomical Journal}. \href{https://doi.org/10.3847/1538-3881/ad3217}{[DOI]}
-\end{itemize}
-
-\section*{Selected Conferences \& Talks}
-I have delivered several invited and contributed talks ($>20$) at national and international conferences, sharing my research with the scientific community.
-\begin{itemize}[noitemsep, topsep=0pt]
-\item \textbf{Invited Talk:} Joint Astronomy Seminar, IISc, Bangalore, Dec 2024.
-\item \textbf{Invited Talk:} Dark Energy Collaboration Summer Meeting, Marseille, France, Jul 2024.
-    \item \textbf{Invited Talk:} Cosmology and Extragalactic Seminar, MPA Garching, Germany, Feb 2024.
-\end{itemize}
-
-\section*{Professional services and activities}
-\begin{itemize}[noitemsep, topsep=0pt]
-    \item Active referee of prestigious astrophysical journals reviewing several high-impact papers, organizer of seminars and workshops.
-     \item Strong communicator with experience in presenting complex scientific concepts to a diverse community.
-    \item Interviewed by \href{https://theinterviewportal.com/2020/03/13/astrophysicist-interview-8/}{The Interview Portal} and featured on a \href{https://www.youtube.com/watch?v=WmA_PnYLeCg}{podcast} to discuss career paths in astronomy and academia in general.
-    \item Working with people on initiatives to promote diversity and inclusion (member of DEI committee of DESI collaboration).
-\end{itemize}
-
-\section*{Honors \& Awards}
-\begin{itemize}[noitemsep, topsep=0pt]
- \item \textbf{Dark Energy Postdoctoral Fellowship} (2022-2025)
-    \item \textbf{International Max Planck Research School PhD Fellowship} (2018–2022)
-    \item \textbf{University Grants Commission - Junior Research Fellowship, Govt. of India} (2017-2018)
-     \item \textbf{Department of Science \& Technology-Govt of India INSPIRE Scholarship}  (2012-2017)
-\end{itemize}
-
-
 \end{document}
+
