@@ -175,18 +175,6 @@ Member & contributor (github repo & software) —
 
 </div>
 
-## Observing and data processing experience
-
-<div class="list">
-
-
-– Sep 2022: Support Scientist for DESI spectroscopic pipeline
-
-– Jul 2024: Support Observing Scientist for DESI, Kitt Peak National
-Observatory, Jul 2-5, 2024.
-
-</div>
-
 ## Honors & Awards
 
 <div class="list">
@@ -342,23 +330,27 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
-*et al.* (incl. **A. Anand**), 2025, Construction of the Damped
-Ly$\alpha$ Absorber Catalog for DESI DR2 Ly$\alpha$ BAO, ArXiv
+*et al.* (incl. **A. Anand**), 2025, *[Construction of the Damped
+Ly$\alpha$ Absorber Catalog for DESI DR2 Ly$\alpha$
+BAO](http://dx.doi.org/10.48550/arXiv.2503.14740)*, ArXiv
 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740))
 
 DESI Collaboration; Karim, M. Abdul; Adame, A. G.; Aguado, D.; Aguilar,
-J.; *et al.* (incl. **A. Anand**), 2025, Data Release 1 of the Dark
-Energy Spectroscopic Instrument, ArXiv
+J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
+Energy Spectroscopic
+Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
 
 DESI Collaboration; Karim, M. Abdul; Aguilar, J.; Ahlen, S.; Allende
-Prieto, C.; *et al.* (incl. **A. Anand**), 2025, DESI DR2 Results I:
-Baryon Acoustic Oscillations from the Lyman Alpha Forest, ArXiv
+Prieto, C.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results I:
+Baryon Acoustic Oscillations from the Lyman Alpha
+Forest](http://dx.doi.org/10.48550/arXiv.2503.14739)*, ArXiv
 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
 
 DESI Collaboration; Karim, M. Abdul; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2025, DESI DR2 Results II: Measurements
-of Baryon Acoustic Oscillations and Cosmological Constraints, ArXiv
+*et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
+of Baryon Acoustic Oscillations and Cosmological
+Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
