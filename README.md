@@ -239,7 +239,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 24 / refereed: 14 / first author: 4 / citations: 1,798 / h-index:
-14 (Last updated: 2025-03-24), List attached below
+14 (Last updated: 2025-03-25), List attached below
 
 ## First author
 
@@ -329,23 +329,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 <div class="list">
 
 
-Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
-*et al.* (incl. **A. Anand**), 2025, *[Construction of the Damped
-Ly$\alpha$ Absorber Catalog for DESI DR2 Ly$\alpha$
-BAO](http://dx.doi.org/10.48550/arXiv.2503.14740)*, ArXiv
-([arXiv:2503.14740](http://arxiv.org/abs/2503.14740))
-
 DESI Collaboration; Karim, M. Abdul; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
-
-DESI Collaboration; Karim, M. Abdul; Aguilar, J.; Ahlen, S.; Allende
-Prieto, C.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results I:
-Baryon Acoustic Oscillations from the Lyman Alpha
-Forest](http://dx.doi.org/10.48550/arXiv.2503.14739)*, ArXiv
-([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
 
 DESI Collaboration; Karim, M. Abdul; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
@@ -353,6 +341,18 @@ of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
+
+DESI Collaboration; Karim, M. Abdul; Aguilar, J.; Ahlen, S.; Allende
+Prieto, C.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results I:
+Baryon Acoustic Oscillations from the Lyman Alpha
+Forest](http://dx.doi.org/10.48550/arXiv.2503.14739)*, ArXiv
+([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
+
+Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
+*et al.* (incl. **A. Anand**), 2025, *[Construction of the Damped
+Ly$\alpha$ Absorber Catalog for DESI DR2 Ly$\alpha$
+BAO](http://dx.doi.org/10.48550/arXiv.2503.14740)*, ArXiv
+([arXiv:2503.14740](http://arxiv.org/abs/2503.14740))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 VI: cosmological
