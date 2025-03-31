@@ -3,7 +3,7 @@
     "arxiv": "2503.14738",
     "authors": [
       "DESI Collaboration",
-      "Karim, M. Abdul",
+      "Abdul Karim, M.",
       "Aguilar, J.",
       "Ahlen, S.",
       "Alam, S.",
@@ -190,7 +190,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 12,
+    "citations": 17,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2503.14738",
     "page": null,
@@ -483,7 +483,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2503.14745",
     "page": null,
@@ -498,7 +498,7 @@
     "arxiv": "2503.14739",
     "authors": [
       "DESI Collaboration",
-      "Karim, M. Abdul",
+      "Abdul Karim, M.",
       "Aguilar, J.",
       "Ahlen, S.",
       "Allende Prieto, C.",
@@ -647,7 +647,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2503.14739",
     "page": null,
@@ -977,7 +977,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 646,
+    "citations": 653,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/02/021",
     "page": 21,
@@ -1191,7 +1191,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 194,
+    "citations": 197,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/01/124",
     "page": 124,
@@ -1582,7 +1582,7 @@
       "Zhuang, T.",
       "Zou, H."
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2411.12022",
     "page": null,
@@ -2446,7 +2446,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 289,
+    "citations": 292,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3217",
     "page": 58,
@@ -2710,7 +2710,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 238,
+    "citations": 242,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03000",
     "page": null,
@@ -2991,7 +2991,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": 62,
