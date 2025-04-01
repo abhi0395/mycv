@@ -1,12 +1,21 @@
 \documentclass[a4paper,10pt]{article}
+\usepackage{amssymb}
 \usepackage[left=0.8in, right=0.8in, top=0.65in, bottom=0.75in]{geometry}
-\usepackage{enumitem, hyperref, titlesec}
+\usepackage{enumitem, hyperref, titlesec, amsmath,color, titlesec}
 \hypersetup{
     colorlinks=true,
     urlcolor=blue,
     linkcolor=blue
 }
 \usepackage[scaled]{helvet}
+
+\definecolor{sectionblue}{RGB}
+{2,2,100} % Deep navy
+
+\titleformat{\section}
+  {\color{sectionblue}\normalfont\Large\bfseries}
+  {}{0em}{}[\titlerule]
+  
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage[T1]{fontenc}
 
@@ -15,78 +24,79 @@
 \setlist[itemize]{itemsep=2pt, topsep=4pt}
 
 % Formatting Section Titles
-\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
+%\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
 
 \begin{document}
-
 \begin{center}
     {\huge \textbf{Abhijeet Anand, PhD}} \\
     {\normalsize \vspace{1.5mm}
     \textbf{Postdoctoral Fellow – Astrophysics \& Data Science, Lawrence Berkeley National Lab, USA}} \\
-    \vspace{1.5mm}
-\href{mailto:abhijeetanand2011@gmail.com}{abhijeetanand2011@gmail.com} \quad 
+    \vspace{1mm}
     \href{https://abhi0395.github.io}{Website} \quad
     \href{https://www.linkedin.com/in/abhijeet-anand-iisc}{LinkedIn} \quad
     \href{https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ}{Google Scholar} \quad
     \href{https://github.com/abhi0395}{GitHub}\\
-    \vspace{1.5mm}
-    Mob: +1 650-664-9558
+    \vspace{1mm}
+\href{mailto:abhijeetanand2011@gmail.com}{abhijeetanand2011@gmail.com} \quad Phone: +1 650-664-9558
      \quad 
-    Current Address: Mipitas, CA 95035, USA \quad 
+    Current Address: Milpitas/California \quad 
 \end{center}
-\vspace{-2mm}
+\vspace*{-5mm}
 \section*{Summary}
-An Astrophysicist with 5+ years of experience in data science, statistical modeling, large-scale data analysis, and visualization. Expertise in designing data pipelines, implementing machine learning algorithms, and optimizing high-performance computing (HPC) workflows. Experienced in working within large international collaborations with diverse, cross-functional teams. Seeking opportunities to apply and develop analytical skills for solving industry and business problems.
+Astrophysicist and data scientist with 5+ years of experience in statistical modeling, machine learning, large-scale data analysis, and visualization. Expertise in designing data pipelines, implementing machine learning algorithms, and optimizing high-performance computing (HPC) workflows. Experienced in working within large international collaborations with diverse, cross-functional teams. Seeking opportunities to apply and develop analytical skills for solving industry and business problems.
 \vspace*{-3mm}
-\section*{Work Experience}
+\section*{Work and Research Experience}
 
-\textbf{Postdoctoral Fellow } \hfill \textit{Lawrence Berkeley National Lab, Berkeley, USA} \hfill \textit{Sep 2022 – Present} 
+\textcolor{sectionblue}{\textbf{Postdoctoral Fellow }} \hfill \textcolor{sectionblue}{\textit{Lawrence Berkeley National Lab, USA}} \hfill \textcolor{sectionblue}{\textit{Sep 2022 – Present}}
 \begin{itemize}
-
-    \item Led 2 cross-functional projects across science and analysis teams (15+ members); reduced false positives by 10–-30\% and improved model success by 1–-5\%, impacting hundreds of thousands of objects.
-
-    \item Designed and deployed scalable data pipelines on HPC systems (\href{https://www.nersc.gov/}{NERSC}/Slurm) to process 50+ TB of structured and unstructured data; automated final mathematical model construction for real-time use.
-
-     \item Contributed to open-source repositories (e.g., \href{https://github.com/desihub/redrock}{redrock}), a core component of large-scale projects like \href{https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument}{DESI}, which is building the largest 3D map of the Universe.
-
-    \item Mentored 3 graduate researchers, supporting analysis of simulated and real data using data science methods.
+    \item Built and deployed \textbf{ML based data pipelines on HPC} systems (\href{https://www.nersc.gov/}{NERSC}/Slurm) to process 50+ TB of structured and unstructured data; \textbf{automated model generation for real-time classification pipelines used in large-scale surveys.}
+    \vspace*{-1mm}
+    \item Led 2 cross-functional projects across science and analysis teams (15+ members); \textbf{reduced false positives by 10–30\%} and improved \textbf{true positive rates by 1–5\%}, impacting hundreds of thousands of objects.
+    \vspace*{-1mm}
+     \item \textbf{Contributed to open-source repositories} (e.g., \href{https://github.com/desihub/redrock}{redrock}), a core component of large-scale projects like \href{https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument}{DESI}, which is building the largest 3D map of the Universe.
+    \vspace*{-1mm}
+    \item Mentored 2 graduate researchers in simulation workflows and data analysis that is leading to high-impact publications.
     
-    \end{itemize}
+\end{itemize}
     
 \vspace{2mm}
-\textbf{Max Planck PhD Fellow} \hfill \textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill \textit{Sep 2018 – Jul 2022} 
+\textcolor{sectionblue}{\textbf{Max Planck PhD Fellow}} \hfill \textcolor{sectionblue}{\textit{Max Planck Institute for Astrophysics, Germany}} \hfill \textcolor{sectionblue}{\textit{Sep 2018 – Jul 2022}}
+
 \begin{itemize}
 
-    \item Developed a parallelized feature detection system to analyze 1M+ high-dimensional datasets, cutting manual review time from weeks to hours and improving detection rate by 5--10x.
-
-    \item Released open-source catalogs and tools (project: \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}) used by 30+ external research groups for scientific analysis.
-
-    \item Applied PCA/NMF for dimensionality reduction and feature detection, improving signal clarity and method performance.
-
-    \item Built automated data wrangling pipelines, reducing preprocessing time and manual steps by 70--80\%.
+    \item Developed a parallelized feature algorithm that \textbf{improved detection by a factor of 5-10 and increased the signal purity to $\gtrsim 95\%$}, reducing runtime from weeks to hours, \textbf{impacting millions of high-dimensional datasets.}
+    \vspace*{-1mm}
+    \item Released open-source catalogs and tools (project: \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}) used \textbf{by 30+ external research groups} for scientific analysis.
+    \vspace*{-1mm}
+    \item Applied PCA/NMF for dimensionality reduction for mathematical modeling of features and \textbf{improved signal clarity and method performance by a factor of 2-5}.
+    \vspace*{-1mm}
+  \item Built automated data wrangling pipelines, \textbf{reducing preprocessing time by a factor of 10.}
     
 \end{itemize}
 
-\vspace{-2mm}
+\vspace*{-4mm}
 \section*{Technical Skills}
-\textbf{Programming:} Python (NumPy, SciPy, scikit-learn, Matplotlib), Git, LaTeX, SQL, Jupyter Notebooks \\
-\textbf{Data Science Methods:} Statistical Modeling, Machine Learning\\
-\textbf{Data Engineering:} Data Pipelines, HPC (Slurm, \href{https://www.nersc.gov}{NERSC}), Data Wrangling\\
-\textbf{Software Contributions:} \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}, \href{https://github.com/desihub/redrock}{redrock}, \href{https://github.com/desihub/desispec}{desispec}\\
-\textbf{Soft Skills:} Problem-Solving, Team Collaboration, Technical writing and communication
+\textcolor{sectionblue}{\textbf{Programming:}} Python (NumPy, SciPy, scikit-learn, Matplotlib), Git, LaTeX, SQL, Jupyter Notebooks \\
+\textcolor{sectionblue}{\textbf{Data Science Methods:}} Statistical Modeling (hypothesis testing, Monte Carlo simulations), Machine Learning (regression analysis, linear algebra, PCA, NMF, clustering)\\
+\textcolor{sectionblue}{\textbf{Data Engineering:}} Data Pipelines, HPC (Slurm, \href{https://www.nersc.gov}{NERSC}), Data Wrangling, Unit testing\\
+\textcolor{sectionblue}{\textbf{Open Source Contributions:}} \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind} (astronomical feature finder), \href{https://github.com/desihub/redrock}{redrock} (spectral modeling alogorithm), \href{https://github.com/desihub/desispec}{desispec} (astronomical data reduction pipeline)\\
+\textcolor{sectionblue}{\textbf{Soft Skills:}} Problem-solving, Team Collaboration, Technical writing, and communication
 \vspace*{-2mm}
 
 \section*{Education}
 
-\textbf{PhD in Astrophysics} \hfill \textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill \textit{Sep 2018 – Jul 2022}\\
-\textbf{BS - MS in Physics} \hfill \textit{Indian Institute of Science (IISc), Bangalore, India} \hfill \textit{Aug 2012 – Jun 2017}
+\textcolor{sectionblue}{\textbf{PhD in Astrophysics}} \hfill \textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill \textit{Sep 2018 – Jul 2022}\\
+\textcolor{sectionblue}{\textbf{BS - MS in Physics}} \hfill \textit{Indian Institute of Science (IISc), Bangalore, India} \hfill \textit{Aug 2012 – Jun 2017}
 \vspace*{-2mm}
 
 \section*{Scientific Achievements}
 \begin{itemize}
     \item Published 20+ peer-reviewed papers with 1800+ citations (h-index: 14). Full list: \href{https://ui.adsabs.harvard.edu/public-libraries/YPXGQEsNQg-zR9R9YBYFXw}{NASA/ADS}.
+    \vspace*{-1mm}
     \item Delivered 20+ invited and contributed talks at international conferences and workshops.
+    \vspace*{-1mm}
     \item Awarded “Builder” status in the \href{https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument}{DESI} collaboration (top 10\% of 1,000+ members) for high-impact technical contributions.
+    \vspace*{-1mm}
     \item Reviewer for leading astrophysical journals and member of DEI committee of DESI collaboration.
 \end{itemize}
 
