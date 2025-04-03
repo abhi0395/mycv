@@ -3,7 +3,7 @@
     "arxiv": "2503.14738",
     "authors": [
       "DESI Collaboration",
-      "Abdul Karim, M.",
+      "Abdul-Karim, M.",
       "Aguilar, J.",
       "Ahlen, S.",
       "Alam, S.",
@@ -190,7 +190,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 17,
+    "citations": 19,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2503.14738",
     "page": null,
@@ -498,7 +498,7 @@
     "arxiv": "2503.14739",
     "authors": [
       "DESI Collaboration",
-      "Abdul Karim, M.",
+      "Abdul-Karim, M.",
       "Aguilar, J.",
       "Ahlen, S.",
       "Allende Prieto, C.",
@@ -647,7 +647,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2503.14739",
     "page": null,
@@ -977,7 +977,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 653,
+    "citations": 654,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/02/021",
     "page": 21,
@@ -1191,7 +1191,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 197,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/01/124",
     "page": 124,
@@ -2710,7 +2710,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 242,
+    "citations": 241,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2404.03000",
     "page": null,
@@ -2991,7 +2991,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 184,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": 62,
