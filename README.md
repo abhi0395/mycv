@@ -238,8 +238,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 24 / refereed: 14 / first author: 4 / citations: 1,951 / h-index:
-15 (Last updated: 2025-04-09), List attached below
+Total: 24 / refereed: 14 / first author: 4 / citations: 1,954 / h-index:
+15 (Last updated: 2025-04-10), List attached below
 
 ## First author
 
@@ -333,21 +333,21 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[34
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[9
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
 Prieto, C.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results I:
 Baryon Acoustic Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2503.14739)*, ArXiv
-([arXiv:2503.14739](http://arxiv.org/abs/2503.14739)) \[[15
+([arXiv:2503.14739](http://arxiv.org/abs/2503.14739)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314739D)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
