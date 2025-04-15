@@ -238,8 +238,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 24 / refereed: 14 / first author: 4 / citations: 1,981 / h-index:
-15 (Last updated: 2025-04-14), List attached below
+Total: 24 / refereed: 15 / first author: 4 / citations: 1,733 / h-index:
+15 (Last updated: 2025-04-15), List attached below
 
 ## First author
 
@@ -329,6 +329,12 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 <div class="list">
 
 
+Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
+*et al.* (incl. **A. Anand**), 2025, *[DESI 2024 III: baryon acoustic
+oscillations from galaxies and
+quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
+Cosmology and Astroparticle Physics, **2025**, 12
+
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
@@ -417,13 +423,6 @@ Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
 ([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[298
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 III: Baryon Acoustic
-Oscillations from Galaxies and
-Quasars](http://dx.doi.org/10.48550/arXiv.2404.03000)*, ArXiv
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[248
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[Validation of the Scientific
