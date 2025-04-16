@@ -239,7 +239,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 24 / refereed: 15 / first author: 4 / citations: 1,733 / h-index:
-15 (Last updated: 2025-04-15), List attached below
+15 (Last updated: 2025-04-16), List attached below
 
 ## First author
 
@@ -334,6 +334,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000))
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
