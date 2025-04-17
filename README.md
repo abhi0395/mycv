@@ -238,8 +238,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 24 / refereed: 15 / first author: 4 / citations: 1,733 / h-index:
-15 (Last updated: 2025-04-16), List attached below
+Total: 24 / refereed: 15 / first author: 4 / citations: 1,738 / h-index:
+15 (Last updated: 2025-04-17), List attached below
 
 ## First author
 
@@ -347,7 +347,7 @@ DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[10
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
@@ -400,7 +400,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VII: Cosmological
 Constraints from the Full-Shape Modeling of Clustering
 Measurements](http://dx.doi.org/10.48550/arXiv.2411.12022)*, ArXiv
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[74
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[76
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -414,7 +414,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 II: Sample Definitions,
 Characteristics, and Two-point Clustering
 Statistics](http://dx.doi.org/10.48550/arXiv.2411.12020)*, ArXiv
-([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[28
+([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
