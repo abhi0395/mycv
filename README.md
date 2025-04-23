@@ -239,7 +239,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 24 / refereed: 15 / first author: 4 / citations: 2,058 / h-index:
-15 (Last updated: 2025-04-22), List attached below
+15 (Last updated: 2025-04-23), List attached below
 
 ## First author
 
@@ -398,18 +398,18 @@ the Royal Astronomical Society, **535**, 2341
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2341S)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VII: Cosmological
-Constraints from the Full-Shape Modeling of Clustering
-Measurements](http://dx.doi.org/10.48550/arXiv.2411.12022)*, ArXiv
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[77
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 V: Full-Shape Galaxy
 Clustering from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv
 ([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VII: Cosmological
+Constraints from the Full-Shape Modeling of Clustering
+Measurements](http://dx.doi.org/10.48550/arXiv.2411.12022)*, ArXiv
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[77
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 II: Sample Definitions,
