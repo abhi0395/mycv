@@ -8,6 +8,17 @@ from operator import itemgetter
 import re
 import ads
 
+def fix_latex_typesetting(sorted_papers):
+    for papers in sorted_papers:
+        title = papers["title"]
+        title = (title
+                 .replace('{\\&}lt;', '<')
+                 .replace('{\\&}gt;', '>')
+                 .replace('{\\&}amp;', '&'))
+        papers["title"] = title
+    return sorted_papers
+
+
 def remove_arxiv_duplicates(sorted_papers):
     """
     This function removes duplicate dictionaries from a list based on the "title" key.
@@ -130,6 +141,7 @@ def get_papers(author):
             continue
     sorted_papers = sorted(dicts, key=itemgetter("pubdate"), reverse=True)
     sorted_papers = remove_arxiv_duplicates(sorted_papers) # in case any arxiv duplicates or inproceedings are found...
+    sorted_papers = fix_latex_typesetting(sorted_papers)
     return sorted_papers
 
 
