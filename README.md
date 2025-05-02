@@ -108,6 +108,9 @@ India, Dec 11, 2024 (*talk*)
 $^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
+$^c$ Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
+20 - Nov 22, 2024 (*talk*)
+
 $^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
 
