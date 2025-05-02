@@ -5,8 +5,8 @@ import re
 
 def fix_latex_inline(line):
     """
-    Replace inline LaTeX like $\sim 30\%$ → ∼30%,
-    but preserve $$...$$ blocks.
+    Replace inline LaTeX like $\sim 30\%$ → ∼30%
+    Preserve $$...$$ blocks.
     """
     def replacer(match):
         content = match.group(1)
@@ -15,12 +15,20 @@ def fix_latex_inline(line):
 
     return re.sub(r"\$(.*?)\$", lambda m: replacer(m), line)
 
-def replace_superscripts(line):
+def replace_superscripts(line, use_html=True):
     """
-    Replace $$^i$$, $$^c$$, $$^s$$ with Unicode superscripts.
+    Replace ^i, ^c, ^s with superscript forms (Unicode or HTML)
     """
-    sup_map = {'i': 'ⁱ', 'c': 'ᶜ', 's': 'ˢ'}
-    return re.sub(r"\$\$\^([ics])\$\$", lambda m: sup_map[m.group(1)], line)
+    if use_html:
+        sup_map = {'^i': '<sup><em>i</em></sup>',
+                   '^c': '<sup><em>c</em></sup>',
+                   '^s': '<sup><em>s</em></sup>'}
+    else:
+        sup_map = {'^i': 'ⁱ', '^c': 'ᶜ', '^s': 'ˢ'}
+
+    for key, val in sup_map.items():
+        line = line.replace(key, val)
+    return line
 
 if __name__ == "__main__":
     with open("README.md", "r") as f:
@@ -31,15 +39,13 @@ if __name__ == "__main__":
     for i, line in enumerate(lines):
         stripped = line.strip()
 
-        # Skip unwanted lines
         if stripped.startswith("=") or stripped.startswith("<span> ="):
             continue
 
-        # Fix LaTeX math and superscripts
         line = fix_latex_inline(line)
-        line = replace_superscripts(line)
+        line = replace_superscripts(line, use_html=True)  # Set to False for Unicode
 
-        # Remove blank lines between bullet/numbered list items
+        # Remove blank lines between bullet items
         if (
             stripped == "" and
             prev.strip().startswith(("-", "*", "1.")) and
@@ -51,7 +57,7 @@ if __name__ == "__main__":
         if stripped == "" and prev.strip() == "":
             continue
 
-        # Convert LaTeX-style section titles starting with **
+        # Fix section headers
         if line.startswith("**") and prev.strip() == "":
             parts = line.split("**")
             if len(parts) > 2 and not parts[1].startswith("Anand"):
