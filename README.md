@@ -37,7 +37,7 @@ Berkeley, CA, USA
 
 - *Support Scientist for DESI spectroscopic pipeline, Improved redshift
   estimation algorithms for DESI galaxies, reduced false positives and
-  catastrophic failures by ∼ 30%.*
+  catastrophic failures by ∼ 30%$.*
 
 - *Contributed to data analysis and scientific interpretation for
   several high-impact papers within the collaboration.*
@@ -92,43 +92,43 @@ Science, Bangalore, India.
 
 ## Selected visits, talks and conferences
 
-^i*Invited Talks*, ^c*Contributed Talks*, ^s*Schools & Workshops*
+$^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
-^i May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
+$^i$ May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
 USA, May 20, 2025 (*talk*)
 
-^i Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
+$^i$ Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
 India, Dec 11, 2024 (*talk*)
 
-^c Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
+$^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
-^c Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
+$^c$ Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
 20 - Nov 22, 2024 (*talk*)
 
-^i Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
+$^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
 
-^i Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
+$^i$ Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
 (*Talk*).
 
-^i Mar 2022: *[Computational Galaxy Formation and Evolution
+$^i$ Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
 University of Heidelberg, 14-16 Mar, 2022 (*Visitor*).
 
-^i Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
+$^i$ Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
 (*Virtual*).
 
-^i Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
+$^i$ Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
 (*Virtual*).
 
-^i Dec 2021: *[Galaxies & Cosmology
+$^i$ Dec 2021: *[Galaxies & Cosmology
 Seminar](https://pweb.cfa.harvard.edu/calendar/event/9298)*, CfA
 Harvard, 13 Dec, 2021 (*Virtual*).
 
-^i Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
+$^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 (*Virtual*).
 
 </div>
@@ -239,7 +239,7 @@ Total: 25 / refereed: 16 / first author: 5 / citations: 2,167 / h-index:
 
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
 A.; *et al.*, 2025, *[The Cosmic Evolution of CIV Absorbers at
-1.4<z<4.5: Insights from 100,000 Systems in DESI
+$1.4<z<4.5$: Insights from $100,000$ Systems in DESI
 Quasars](http://dx.doi.org/10.48550/arXiv.2504.20299)*, ArXiv
 ([arXiv:2504.20299](http://arxiv.org/abs/2504.20299))
 
@@ -356,7 +356,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314739D)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
 *et al.* (incl. **A. Anand**), 2025, *[Construction of the Damped
-Ly\alpha Absorber Catalog for DESI DR2 Ly\alpha
+Ly$\alpha$ Absorber Catalog for DESI DR2 Ly$\alpha$
 BAO](http://dx.doi.org/10.48550/arXiv.2503.14740)*, ArXiv
 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314740B)\]
