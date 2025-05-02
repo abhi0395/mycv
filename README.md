@@ -34,14 +34,14 @@ Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
 - *Investigating properties of metal absorbers in and around galaxies
-  the with DESI survey.*
+  with the DESI survey.*
 
 - *Support Scientist for DESI spectroscopic pipeline, Improved redshift
   estimation algorithms for DESI galaxies, reduced false positives and
   catastrophic failures by $\sim 30\%$.*
 
 - *Contributed to data analysis and scientific interpretation for
-  several high impact papers within the collaboration.*
+  several high-impact papers within the collaboration.*
 
 Sep 2018 - Jul 2022: PhD Fellow, Max Planck Institute for Astrophysics,
 Garching, Germany
@@ -159,6 +159,8 @@ $^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 India, 2017-2018 .
 
 </div>
+
+## Programming skills
 
 <div class="list">
 
