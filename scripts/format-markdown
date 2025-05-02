@@ -8,16 +8,40 @@ if __name__ == "__main__":
 
     results = []
     prev = ""
-    for line in lines:
-        if line.startswith("=") or line.startswith("<span> ="):
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+
+        # Fix LaTeX-like content
+        line = (line
+                .replace(r"$\sim", "∼")
+                .replace(r"\%", "%")
+                .replace(r"$", ""))
+
+        # Skip lines like "=" or "<span> ="
+        if stripped.startswith("=") or stripped.startswith("<span> ="):
             continue
-        if line.startswith("**") and prev == "":
+
+        # Remove blank line between bullet/numbered list items
+        if (
+            stripped == "" and
+            prev.strip().startswith(("-", "*", "1.")) and
+            i + 1 < len(lines) and lines[i + 1].strip().startswith(("-", "*", "1."))
+        ):
+            continue
+
+        # Collapse multiple blank lines elsewhere
+        if stripped == "" and prev.strip() == "":
+            continue
+
+        if line.startswith("**") and prev.strip() == "":
             parts = line.split("**")
             if not parts[1].startswith("Anand"):
                 results += ["## " + parts[1], ""] + parts[2:]
+                prev = line
                 continue
+
         results.append(line)
-        prev = line.strip()
+        prev = line
 
     with open("README.md", "w") as f:
         f.write("\n".join(results))
