@@ -16,11 +16,16 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 
 ## Research Interests
 
-Observational galaxy formation and evolution, circumgalactic and
-intergalactic medium, quasar absorption lines, spectral fitting methods
-for large surveys, data science methods, cosmology
+I am an astrophysicist and data scientist with expertise in scientific
+software development and large-scale spectroscopic data analysis. My
+research focuses on observational galaxy formation and evolution, the
+circumgalactic and intergalactic medium, quasar absorption lines, and
+cosmology. I develop scalable tools and pipelines to extract physical
+insights from large surveys like DESI and SDSS, with the goal of
+understanding gas flows around galaxies, the cosmic metal cycle, and
+feedback mechanisms across cosmic time.
 
-## Positions
+## Professional Experience
 
 <div class="list">
 
@@ -28,14 +33,18 @@ for large surveys, data science methods, cosmology
 Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
-- *Investigating evolution of metal absorbers in the universe and
-  studying the circumgalactic/intergalactic medium with SDSS and DESI.*
+- *Investigating properties of metal absorbers in and around galaxies
+  the with DESI survey.*
 
-- *Improved redshift estimation algorithms for DESI galaxies, support
-  scientist for DESI spectroscopic pipeline*
+- *Support Scientist for DESI spectroscopic pipeline, Improved redshift
+  estimation algorithms for DESI galaxies, reduced false positives and
+  catastrophic failures by $\sim 30\%$.*
 
-Sep 2018 - Jul 2022: IMPRS PhD Fellow, Max Planck Institute for
-Astrophysics, Garching, Germany
+- *Contributed to data analysis and scientific interpretation for
+  several high impact papers within the collaboration.*
+
+Sep 2018 - Jul 2022: PhD Fellow, Max Planck Institute for Astrophysics,
+Garching, Germany
 
 - *Conducted extensive studies on the gas distribution in the
   circumgalactic and intracluster medium using data from SDSS and DESI.*
@@ -44,9 +53,6 @@ Astrophysics, Garching, Germany
   [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool used for
   detecting and analyzing metal absorbers in quasar spectra.*
 
-Sep 2017 - Jul 2018: UGC - JRF[^1], National Institute of Advanced
-Studies, Bangalore, India
-
 </div>
 
 ## Education
@@ -54,8 +60,8 @@ Studies, Bangalore, India
 <div class="list">
 
 
-Sep 2018 - Jul 2022: PhD in Physics, Ludwig Maximilian University - Max
-Planck Institute for Astrophysics (MPA), Germany.
+Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
+Max Planck Institute for Astrophysics (MPA), Germany.
 
 - Thesis: [Probing cool and warm circumgalactic gas in galaxies and
   clusters with large spectroscopic and imaging
@@ -86,12 +92,15 @@ Science, Bangalore, India.
 
 </div>
 
-## Selected visits, talks and conferences (\>20 talks)
+## Selected visits, talks and conferences
 
 $^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
+
+$^i$ May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
+USA, May 20, 2025 (*talk*)
 
 $^i$ Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
 India, Dec 11, 2024 (*talk*)
@@ -99,20 +108,11 @@ India, Dec 11, 2024 (*talk*)
 $^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
-$^c$ Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi,
-India, Nov 20 - Nov 22, 2024 (*talk*)
-
-$^i$ Oct 2024: *DESI Absorber Topical Working Group Seminar*, Oct 10,
-2024 (*Virtual talk*)
-
 $^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
 
 $^i$ Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
 (*Talk*).
-
-$^i$ Oct 2023: *DESI Data Systems and Management Meeting*, Oct 31, 2023
-(*Virtual Talk*).
 
 $^i$ Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
@@ -138,40 +138,44 @@ $^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 <div class="list">
 
 
-– Joanne Tan (MPA Garching PhD) (CGM absorbers in TNG-100), 2024-present
+– Joanne Tan (MPA Garching PhD) (Metal absorbers in TNG-100),
+2024-present (paper in prep.)
 
 – Shivansh Tiwari (Delhi University UG) (QSO continuum modeling),
 2024-present
 
-– Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM),
-2023
-
-– Dylan Green (UC Irvine PhD) (as part of DESI mentorship program), 2023
-
 </div>
 
-## Computer skills
+## Honors & Awards
 
 <div class="list">
 
 
-Language/Packages —  
-– python, numpy, matplotlib, scipy, astropy, SQL
+– DESI Builder Status (2025), Early Career Travel Grant (USD 4000).
 
-OS/Tools —  
-– jupyter notebooks, slurm manager, git, Linux, Mac, LaTeX, bash
-scripting
+– IMPRS PhD Fellowship, 2018–2022.
 
-Member & contributor (github repo & software) —
+– University Grants Commission - Junior Research Fellowship of Govt. of
+India, 2017-2018 .
 
-- [qsoabsfind](https://github.com/abhi0395/qsoabsfind): quasar absorber
-  finder (*Developer*).
+</div>
 
-- [redrock](https://github.com/desihub/redrock): Redshift fitting for
-  spectroperfectionism (*Contributor*).
+<div class="list">
 
-- [desihub](https://github.com/desihub): Public code associated with
-  DESI (*Contributor*).
+
+Programming Language —  
+– python (numpy, matplotlib, scipy, astropy, scikit-learn), bash, SQL
+
+Tools & Workflows —  
+– Git, Jupyter, slurm (NERSC), LaTeX, Unix/Linux
+
+Open-source Contributions —  
+– [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
+absorber finder (*Developer*)  
+– [redrock](https://github.com/desihub/redrock): Redshift fitter for
+DESI (*Contributor*).  
+– [desispec](https://github.com/desihub/desispec): DESI spectroscopic
+pipeline(*Contributor*).
 
 </div>
 
@@ -188,11 +192,11 @@ Member & contributor (github repo & software) —
 
 – UGC - Junior Research Fellowship, 2017-2018 (INR 390,000).
 
-– DST[^2] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
+– DST[^1] - Higher Studies Scholarship, 2012-2017 (INR 400,000).
 
 </div>
 
-## Professional service & activities
+## Professional services & activities
 
 <div class="list">
 
@@ -201,15 +205,11 @@ Referee —
 – Astronomy & Astrophysics, Astrophysical Journal, Internal Reviewer for
 DESI papers
 
-Organizer & Member —  
-– Core committee member for the DESI Diversity, Equity, and Inclusivity
-(DEI) committee.  
+Member & Organizer—  
+– Core committee member of the DESI Professional Development Committee
+(previously DEI committee).  
 – [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
 LBNL, 2023-2024  
-
-Teaching Experience —  
-– Served as online physics tutor at E-acharya (more than 20
-students)[^3] from June 2017 - Aug 2018.  
 
 </div>
 
@@ -238,7 +238,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 16 / first author: 5 / citations: 2,137 / h-index:
+Total: 25 / refereed: 16 / first author: 5 / citations: 2,167 / h-index:
 16 (Last updated: 2025-05-02), List attached below
 
 ## First author
@@ -247,8 +247,9 @@ Total: 25 / refereed: 16 / first author: 5 / citations: 2,137 / h-index:
 
 
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
-A.; *et al.*, 2025, The Cosmic Evolution of CIV Absorbers at
-$1.4<z<4.5$: Insights from $100,000$ Systems in DESI Quasars, ArXiv
+A.; *et al.*, 2025, *[The Cosmic Evolution of CIV Absorbers at
+$1.4{\&}lt;z{\&}lt;4.5$: Insights from $100,000$ Systems in DESI
+Quasars](http://dx.doi.org/10.48550/arXiv.2504.20299)*, ArXiv
 ([arXiv:2504.20299](http://arxiv.org/abs/2504.20299))
 
 **Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
@@ -256,7 +257,7 @@ Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
 Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
 Journal, **168**, 124
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[14
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
 
 **Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
@@ -264,7 +265,7 @@ circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[23
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 
 **Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
@@ -272,7 +273,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[40
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 
 **Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
@@ -318,7 +319,7 @@ Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 II Absorption in DESI Survey Validation Quasar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
 Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[18
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
 Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
@@ -340,28 +341,28 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[265
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[266
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[78
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[81
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[18
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
 Prieto, C.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results I:
 Baryon Acoustic Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2503.14739)*, ArXiv
-([arXiv:2503.14739](http://arxiv.org/abs/2503.14739)) \[[32
+([arXiv:2503.14739](http://arxiv.org/abs/2503.14739)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314739D)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
@@ -376,7 +377,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 21
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[721
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[722
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -384,7 +385,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[209
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[210
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -407,21 +408,21 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 V: Full-Shape Galaxy
 Clustering from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[51
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VII: Cosmological
 Constraints from the Full-Shape Modeling of Clustering
 Measurements](http://dx.doi.org/10.48550/arXiv.2411.12022)*, ArXiv
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[80
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[84
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 II: Sample Definitions,
 Characteristics, and Two-point Clustering
 Statistics](http://dx.doi.org/10.48550/arXiv.2411.12020)*, ArXiv
-([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[31
+([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -429,7 +430,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[303
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[306
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -437,7 +438,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[186
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[188
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
@@ -449,10 +450,4 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-[^1]: University Grants Commission, Govt. of India - Junior Research
-    Fellowship
-
-[^2]: Department of Science & Technology, Govt. of India
-
-[^3]: an initiative to help poor students in suburban and rural areas of
-    Bihar, India.
+[^1]: Department of Science & Technology, Govt. of India
