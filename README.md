@@ -288,6 +288,45 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 <div class="list">
 
 
+Wu, Xuanyi; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**;
+*et al.*, 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
+Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
+Using DESI-Y1 Data](http://dx.doi.org/10.3847/1538-4357/adb28a)*, The
+Astrophysical Journal, **983**, 186
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[5
+citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...983..186W)\]
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
+**Anand, Abhijeet**; *et al.*, 2024, *[Probing the Impact of Radio-mode
+Feedback on the Properties of the Cool Circumgalactic
+Medium](http://dx.doi.org/10.3847/1538-4357/ad6c44)*, The Astrophysical
+Journal, **974**, 191
+([arXiv:2405.08314](http://arxiv.org/abs/2405.08314)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..191C)\]
+
+Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
+Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for new
+cataclysmic variables in the Chandra Source
+Catalog](http://dx.doi.org/10.1051/0004-6361/202450734)*, Astronomy and
+Astrophysics, **690**
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.374G)\]
+
+Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
+**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
+II Absorption in DESI Survey Validation Quasar
+Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
+Journal, **166**, 99
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[19
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
+
+Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
+White, Simon D. M., 2023, *[The physical origin of galactic conformity:
+from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
+Monthly Notices of the Royal Astronomical Society, **519**, 1913
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[19
+citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
+
 </div>
 
 ### Collaboration Papers
