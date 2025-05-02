@@ -5,6 +5,10 @@
 \usepackage{enumitem}
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
+\usepackage{geometry}
+% Set margins to 1 inch
+\geometry{margin=0.9in}
+
 
 % \usepackage[yyyymmdd]{datetime}
 % \renewcommand{\dateseparator}{-}
@@ -45,7 +49,7 @@
 {\normalfont\sffamily\bfseries}
 {}{0pt}{}
 
-\titlespacing{\subsection}{0pt}{2\parskip}{0pt}
+\titlespacing{\subsection}{0pt}{\parskip}{0pt}
 \titlespacing{\subsubsection}{0pt}{\parskip}{0pt}
 
 \newcommand{\cvheading}[1]{\addvspace{1ex}\pagebreak[2]\par\textbf{#1}\nopagebreak\vspace{-0.4em}}
@@ -54,7 +58,7 @@
 \newcounter{refpubnum}
 \newcommand{\cvlist}{%
     \rightmargin=0in
-    \leftmargin=0.15in
+    \leftmargin=0.1in
     \topsep=0ex
     \partopsep=0pt
     \itemsep=0.2ex
@@ -69,22 +73,22 @@
 \raggedright
 \setlength{\oddsidemargin}{0in}
 \setlength{\topmargin}{0in}
-\setlength{\headsep}{0.20in}
-\setlength{\headheight}{0.25in}
+\setlength{\headsep}{0.075in}
+\setlength{\headheight}{0.1in}
 \setlength{\textheight}{9.1in}
 \addtolength{\topmargin}{-\headsep}
 \addtolength{\topmargin}{-\headheight}
-\setlength{\textwidth}{6.50in}
+\setlength{\textwidth}{6.75in}
 \setlength{\parindent}{0in}
 \setlength{\parskip}{1ex}
 
 % Headings and footings.
 \renewcommand{\headrulewidth}{0pt}
-\pagestyle{fancy}
-\lhead{\deemph{Abhijeet Anand}}
-\chead{\deemph{Curriculum Vitae}}
-\rhead{\deemph{\thepage}}
-\cfoot{\deemph{Last updated: \today}}
+%\pagestyle{fancy}
+%\lhead{\deemph{Abhijeet Anand}}
+%\chead{\deemph{Curriculum Vitae}}
+%\rhead{\deemph{\thepage}}
+%\cfoot{\deemph{Last updated: \today}}
 
 % Journal names.
 \newcommand{\aj}{AJ}
