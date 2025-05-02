@@ -246,7 +246,7 @@ Total: 25 / refereed: 16 / first author: 5 / citations: 2,167 / h-index:
 
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
 A.; *et al.*, 2025, *[The Cosmic Evolution of CIV Absorbers at
-$1.4{\&}lt;z{\&}lt;4.5$: Insights from $100,000$ Systems in DESI
+$1.4<z<4.5$: Insights from $100,000$ Systems in DESI
 Quasars](http://dx.doi.org/10.48550/arXiv.2504.20299)*, ArXiv
 ([arXiv:2504.20299](http://arxiv.org/abs/2504.20299))
 
