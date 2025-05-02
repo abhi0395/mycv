@@ -14,8 +14,7 @@ if __name__ == "__main__":
         # Fix LaTeX-like content
         line = (line
                 .replace(r"$\sim", "∼")
-                .replace(r"\%", "%")
-                .replace(r"$", ""))
+                .replace(r"\%", "%"))
 
         # Skip lines like "=" or "<span> ="
         if stripped.startswith("=") or stripped.startswith("<span> ="):
