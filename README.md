@@ -92,43 +92,43 @@ Science, Bangalore, India.
 
 ## Selected visits, talks and conferences
 
-^i*Invited Talks*, ^c*Contributed Talks*, ^s*Schools & Workshops*
+<sup><em>i</em></sup>*Invited Talks*, <sup><em>c</em></sup>*Contributed Talks*, <sup><em>s</em></sup>*Schools & Workshops*
 
 <div class="list">
 
-^i May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
+<sup><em>i</em></sup> May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
 USA, May 20, 2025 (*talk*)
 
-^i Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
+<sup><em>i</em></sup> Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
 India, Dec 11, 2024 (*talk*)
 
-^c Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
+<sup><em>c</em></sup> Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
-^c Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
+<sup><em>c</em></sup> Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
 20 - Nov 22, 2024 (*talk*)
 
-^i Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
+<sup><em>i</em></sup> Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*Talk*).
 
-^i Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
+<sup><em>i</em></sup> Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
 (*Talk*).
 
-^i Mar 2022: *[Computational Galaxy Formation and Evolution
+<sup><em>i</em></sup> Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
 University of Heidelberg, 14-16 Mar, 2022 (*Visitor*).
 
-^i Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
+<sup><em>i</em></sup> Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
 (*Virtual*).
 
-^i Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
+<sup><em>i</em></sup> Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
 (*Virtual*).
 
-^i Dec 2021: *[Galaxies & Cosmology
+<sup><em>i</em></sup> Dec 2021: *[Galaxies & Cosmology
 Seminar](https://pweb.cfa.harvard.edu/calendar/event/9298)*, CfA
 Harvard, 13 Dec, 2021 (*Virtual*).
 
-^i Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
+<sup><em>i</em></sup> Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 (*Virtual*).
 
 </div>
