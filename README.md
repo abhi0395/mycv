@@ -141,7 +141,7 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 2024-present (paper in prep.)
 
 – Shivansh Tiwari (Delhi University UG) (QSO continuum modeling),
-2024-present
+2025-present
 
 </div>
 
@@ -175,18 +175,6 @@ absorber finder (*Developer*)
 DESI (*Contributor*).  
 – [desispec](https://github.com/desihub/desispec): DESI spectroscopic
 pipeline(*Contributor*).
-
-</div>
-
-## Honors & Awards
-
-<div class="list">
-
-– DESI Early Career Travel Grant (USD 4000).
-
-– DESI Postdoctoral Fellowship, 2022–2025.
-
-– IMPRS PhD Fellowship, 2018–2022.
 
 </div>
 
@@ -230,7 +218,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 16 / first author: 5 / citations: 2,177 / h-index:
+Total: 25 / refereed: 16 / first author: 5 / citations: 2,179 / h-index:
 16 (Last updated: 2025-05-04), List attached below
 
 ### First-author publications
@@ -316,7 +304,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[19
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
@@ -337,7 +325,7 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[85
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[86
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
