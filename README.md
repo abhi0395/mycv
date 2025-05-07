@@ -218,8 +218,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 16 / first author: 5 / citations: 2,179 / h-index:
-16 (Last updated: 2025-05-06), List attached below
+Total: 25 / refereed: 16 / first author: 5 / citations: 2,178 / h-index:
+16 (Last updated: 2025-05-07), List attached below
 
 ### First-author publications
 
@@ -304,7 +304,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[20
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
