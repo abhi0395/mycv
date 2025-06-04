@@ -156,6 +156,9 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 – University Grants Commission - Junior Research Fellowship of Govt. of
 India, 2017-2018.
 
+– Department of Science & Technology, Govt. of India - Higher Studies
+Scholarship, 2012-2017.
+
 </div>
 
 ## Programming skills
@@ -183,8 +186,8 @@ pipeline(*Contributor*).
 <div class="list">
 
 Referee —  
-– Astronomy & Astrophysics, Astrophysical Journal, Internal Reviewer for
-DESI papers
+– Astronomy & Astrophysics (2023-), Astrophysical Journal (2023-),
+Internal Reviewer for DESI papers (2022-)
 
 Member & Organizer—  
 – Core committee member of the DESI Professional Development
