@@ -96,6 +96,9 @@ Science, Bangalore, India.
 
 <div class="list">
 
+<sup><em>i</em></sup> June 2025: *Astronomy Webinar*, Raman Research Institute,
+Bangalore, India, June 23, 2025 (*Webinar*)
+
 <sup><em>i</em></sup> May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
 USA, May 20, 2025 (*talk*)
 
