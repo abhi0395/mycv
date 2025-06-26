@@ -224,8 +224,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 16 / first author: 5 / citations: 2,613 / h-index:
-17 (Last updated: 2025-06-25), List attached below
+Total: 25 / refereed: 16 / first author: 5 / citations: 2,612 / h-index:
+17 (Last updated: 2025-06-26), List attached below
 
 ### First-author publications
 
@@ -369,7 +369,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[233
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[232
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
