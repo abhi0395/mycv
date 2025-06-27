@@ -2,14 +2,7 @@
 
 [![Auto update](https://github.com/abhi0395/mycv/workflows/Auto%20update/badge.svg)](https://github.com/abhi0395/mycv/actions?query=workflow%3A%22Auto+update%22) [![CV PDF](https://img.shields.io/badge/cv-pdf-orange.svg)](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/cv_pubs.pdf) [![resume PDF](https://img.shields.io/badge/resume-pdf-orange.svg)](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/resume.pdf) 
 
-This CV is based on the template designed by [Daniel Foreman-Mackey](https://dfm.io/). You can find the original repository [here](https://github.com/dfm/cv).  
-It is licensed under [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
-
-I have made some modifications to include my one-page resume as well.
-
-- Download my [CV](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/cv_pubs.pdf)  
-- Download my [Resume](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/resume.pdf)
-
+This CV is based on template designed by [Daniel Foreman-Mackey](https://dfm.io/). Here is the original [repository](https://github.com/dfm/cv). Licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/). You can also find my [resume](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/resume.pdf) here.
 
 <hr>
 
@@ -231,7 +224,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 16 / first author: 5 / citations: 2,617 / h-index:
+Total: 25 / refereed: 16 / first author: 5 / citations: 2,619 / h-index:
 17 (Last updated: 2025-06-27), List attached below
 
 ### First-author publications
@@ -368,7 +361,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 21
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[839
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[841
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -396,18 +389,18 @@ the Royal Astronomical Society, **535**, 2341
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2341S)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
-*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 V: Full-Shape Galaxy
-Clustering from Galaxies and
-Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[69
-citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 VII: Cosmological
 Constraints from the Full-Shape Modeling of Clustering
 Measurements](http://dx.doi.org/10.48550/arXiv.2411.12022)*, ArXiv
 ([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[120
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D)\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
+*et al.* (incl. **A. Anand**), 2024, *[DESI 2024 V: Full-Shape Galaxy
+Clustering from Galaxies and
+Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[69
+citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 II: Sample Definitions,
