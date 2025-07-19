@@ -229,8 +229,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 18 / first author: 5 / citations: 2,826 / h-index:
-17 (Last updated: 2025-07-18), List attached below
+Total: 25 / refereed: 18 / first author: 5 / citations: 2,832 / h-index:
+17 (Last updated: 2025-07-19), List attached below
 
 ### First-author publications
 
@@ -238,7 +238,7 @@ Total: 25 / refereed: 18 / first author: 5 / citations: 2,826 / h-index:
 
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
 A.; *et al.*, 2025, *[The Cosmic Evolution of CIV Absorbers at
-1.4\<z\<4.5: Insights from 100,000 Systems in DESI
+1.4<z<4.5: Insights from 100,000 Systems in DESI
 Quasars](http://dx.doi.org/10.48550/arXiv.2504.20299)*, ArXiv
 ([arXiv:2504.20299](http://arxiv.org/abs/2504.20299))
 
@@ -345,14 +345,14 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[310
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[311
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[236
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[238
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
@@ -382,7 +382,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 21
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[898
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[900
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -390,7 +390,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[247
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[248
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
