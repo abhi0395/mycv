@@ -229,8 +229,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 18 / first author: 5 / citations: 2,915 / h-index:
-17 (Last updated: 2025-07-24), List attached below
+Total: 25 / refereed: 18 / first author: 5 / citations: 2,916 / h-index:
+17 (Last updated: 2025-07-25), List attached below
 
 ### First-author publications
 
@@ -421,7 +421,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[359
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[360
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
