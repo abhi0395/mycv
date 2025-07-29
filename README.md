@@ -207,6 +207,8 @@ Committee.
 LBNL, 2023-2024  
 
 Teaching Experience —  
+– Served as online physics tutor at E-acharya (\>20 students)[^2] from
+June 2017 to Aug 2018.  
 
 </div>
 
@@ -448,3 +450,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 [^1]: University Grants Commission, Govt. of India - Junior Research
     Fellowship
+
+[^2]: an initiative to help poor students in suburban and rural areas of
+    Bihar, India.
