@@ -178,6 +178,24 @@ Scholarship, 2012-2017.
 
 ## Programming skills
 
+<div class="list">
+
+Programming Language —  
+– python (numpy, matplotlib, scipy, astropy, scikit-learn), bash, SQL
+
+Tools & Workflows —  
+– Git, Jupyter, slurm (NERSC), LaTeX, Unix/Linux
+
+Open-source Contributions —  
+– [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
+absorber finder (*Developer*)  
+– [redrock](https://github.com/desihub/redrock): Redshift fitter for
+DESI (*Contributor*).  
+– [desispec](https://github.com/desihub/desispec): DESI spectroscopic
+pipeline(*Contributor*).
+
+</div>
+
 ## Professional services & activities
 
 <div class="list">
