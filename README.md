@@ -236,8 +236,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 25 / refereed: 18 / first author: 5 / citations: 2,920 / h-index:
-17 (Last updated: 2025-07-30), List attached below
+Total: 26 / refereed: 18 / first author: 5 / citations: 2,923 / h-index:
+17 (Last updated: 2025-07-31), List attached below
 
 ### First-author publications
 
@@ -347,12 +347,18 @@ of Cosmology and Astroparticle Physics, **2025**, 17
 ([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
 
+Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
+Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, The
+Lyman-{\ensuremath{\alpha}} Forest from LBGs: First 3D Correlation
+Measurement with DESI and Prospects for Cosmology, ArXiv
+([arXiv:2507.21852](http://arxiv.org/abs/2507.21852))
+
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 III: baryon acoustic
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[315
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[316
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -428,7 +434,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[360
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[361
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -436,7 +442,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[201
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[202
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
