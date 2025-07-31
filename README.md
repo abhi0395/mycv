@@ -104,8 +104,8 @@ Science, Bangalore, India.
 
 <div class="list">
 
-<sup><em>i</em></sup> June 2025: *Astronomy Webinar*, Raman Research Institute,
-Bangalore, India, June 23, 2025 (*Webinar*)
+<sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
+India, June 23, 2025 (*Virtual*)
 
 <sup><em>i</em></sup> May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
 USA, May 20, 2025 (*talk*)
@@ -120,10 +120,10 @@ Dec 2 - Dec 6, 2024 (*talk*)
 20 - Nov 22, 2024 (*talk*)
 
 <sup><em>i</em></sup> Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
-2024 (*Talk*).
+2024 (*talk*).
 
 <sup><em>i</em></sup> Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
-(*Talk*).
+(*talk*).
 
 <sup><em>i</em></sup> Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
@@ -160,9 +160,13 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 
 <div class="list">
 
-– DESI Builder Award (2025), DESI Early Career Travel Grant (USD 5000).
+– [DESI Builder Award
+(2025)](https://www.desi.lbl.gov/collaboration/desi-builders/), DESI
+Early Career Travel Grant (USD 5000).
 
-– IMPRS PhD Fellowship, 2018–2022.
+– [IMPRS PhD
+Fellowship](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
+2018–2022.
 
 – University Grants Commission - Junior Research Fellowship of Govt. of
 India, 2017-2018.
@@ -174,24 +178,6 @@ Scholarship, 2012-2017.
 
 ## Programming skills
 
-<div class="list">
-
-Programming Language —  
-– python (numpy, matplotlib, scipy, astropy, scikit-learn), bash, SQL
-
-Tools & Workflows —  
-– Git, Jupyter, slurm (NERSC), LaTeX, Unix/Linux
-
-Open-source Contributions —  
-– [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
-absorber finder (*Developer*)  
-– [redrock](https://github.com/desihub/redrock): Redshift fitter for
-DESI (*Contributor*).  
-– [desispec](https://github.com/desihub/desispec): DESI spectroscopic
-pipeline(*Contributor*).
-
-</div>
-
 ## Professional services & activities
 
 <div class="list">
@@ -201,8 +187,8 @@ Referee —
 Internal Reviewer for DESI papers (2022-)
 
 Member & Organizer—  
-– Core committee member of the DESI Professional Development
-Committee.  
+– Core committee member of the [DESI Professional Development
+Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee).  
 – [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
 LBNL, 2023-2024  
 
