@@ -241,7 +241,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 26 / refereed: 18 / first author: 5 / citations: 2,923 / h-index:
-17 (Last updated: 2025-08-01), List attached below
+17 (Last updated: 2025-08-02), List attached below
 
 ### First-author publications
 
@@ -352,9 +352,10 @@ of Cosmology and Astroparticle Physics, **2025**, 17
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
-Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, The
+Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
 Lyman-{\ensuremath{\alpha}} Forest from LBGs: First 3D Correlation
-Measurement with DESI and Prospects for Cosmology, ArXiv
+Measurement with DESI and Prospects for
+Cosmology](http://dx.doi.org/10.48550/arXiv.2507.21852)*, ArXiv
 ([arXiv:2507.21852](http://arxiv.org/abs/2507.21852))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
