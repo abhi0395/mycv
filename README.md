@@ -240,8 +240,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 26 / refereed: 18 / first author: 5 / citations: 2,924 / h-index:
-17 (Last updated: 2025-08-08), List attached below
+Total: 26 / refereed: 18 / first author: 5 / citations: 2,925 / h-index:
+17 (Last updated: 2025-08-09), List attached below
 
 ### First-author publications
 
@@ -400,7 +400,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 21
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[921
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[922
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
