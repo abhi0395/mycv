@@ -240,8 +240,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 26 / refereed: 18 / first author: 5 / citations: 2,936 / h-index:
-17 (Last updated: 2025-08-12), List attached below
+Total: 26 / refereed: 18 / first author: 5 / citations: 2,932 / h-index:
+17 (Last updated: 2025-08-13), List attached below
 
 ### First-author publications
 
@@ -363,7 +363,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[316
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[315
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -400,7 +400,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 21
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[923
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[920
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
