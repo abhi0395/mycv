@@ -240,8 +240,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 26 / refereed: 18 / first author: 5 / citations: 2,946 / h-index:
-17 (Last updated: 2025-08-16), List attached below
+Total: 26 / refereed: 18 / first author: 5 / citations: 2,947 / h-index:
+17 (Last updated: 2025-08-17), List attached below
 
 ### First-author publications
 
@@ -370,7 +370,7 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[271
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[272
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
