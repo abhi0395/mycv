@@ -21,14 +21,13 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 
 ## Research Interests
 
-I am an astrophysicist and data scientist with expertise in scientific
-software development and large-scale spectroscopic data analysis. My
-research focuses on observational galaxy formation and evolution, the
-circumgalactic and intergalactic medium, quasar absorption lines, and
-cosmology. I develop scalable tools and pipelines to extract physical
-insights from large surveys like DESI and SDSS, with the goal of
-understanding gas flows around galaxies, the cosmic metal cycle, and
-feedback mechanisms across cosmic time.
+Astrophysicist specializing in galaxy formation, the
+circumgalactic/intergalactic medium, and quasar absorption lines. My
+work combines large-scale surveys (DESI, SDSS) with computational
+pipelines I have developed to advance understanding of cosmic gas flows
+and the metal cycle across time. My long-term vision is to build an
+independent research program in the country at the intersection of large
+surveys, data-intensive pipelines, and galaxy–CGM/IGM connections.
 
 ## Professional Experience
 
@@ -37,15 +36,16 @@ feedback mechanisms across cosmic time.
 Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
-- *Investigating properties of metal absorbers in and around galaxies
-  with the DESI survey.*
+- *Leading/Led independent projects on metal absorbers in and around
+  galaxies using DESI, producing the largest metal absorber catalogs.*
 
-- *Support Scientist for DESI spectroscopic pipeline, Improved redshift
-  estimation algorithms for DESI galaxies, reduced false positives and
-  catastrophic failures by ∼ 30%.*
+- *Developer and support scientist for the DESI spectroscopic pipeline;
+  improved galaxy redshift estimation algorithms, reducing catastrophic
+  failures by ∼30%.*
 
-- *Contributed to data analysis and scientific interpretation for
-  several high-impact papers within the collaboration.*
+- *Contributed to high-impact DESI collaboration papers, while also
+  initiating independent science projects within and outside the
+  collaboration.*
 
 Sep 2018 - Jul 2022: PhD Fellow, Max Planck Institute for Astrophysics,
 Garching, Germany
@@ -148,11 +148,11 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 
 <div class="list">
 
-– Joanne Tan (MPA Garching PhD) (Metal absorbers in TNG-100),
-2024-present (paper in prep.)
+– Mentored Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
+simulations (manuscript in prep. for MNRAS).
 
-– Shivansh Tiwari (Delhi University UG) (QSO continuum modeling),
-2025-present
+– Supervised Shivansh Tiwari (UG, Delhi University): developed QSO
+continuum models for DESI data analysis, 2025-present.
 
 </div>
 
@@ -160,9 +160,16 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 
 <div class="list">
 
+– Core member of the DESI Data Team; the DESI Collaboration awarded the
+2026 [Berkeley
+Prize](https://aas.org/press/desi-collaboration-receive-2026-berkeley-prize)
+of American Astronomical Society.
+
 – [DESI Builder Award
-(2025)](https://www.desi.lbl.gov/collaboration/desi-builders/), DESI
-Early Career Travel Grant (USD 5000).
+(2025)](https://www.desi.lbl.gov/collaboration/desi-builders/) *for
+outstanding contributions to the data systems operations.*
+
+– DESI Early Career Travel Grant (USD 5000).
 
 – [IMPRS PhD
 Fellowship](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
@@ -181,7 +188,8 @@ Scholarship, 2012-2017.
 <div class="list">
 
 Programming Language —  
-– python (numpy, matplotlib, scipy, astropy, scikit-learn), bash, SQL
+– Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash, SQL —
+with focus on high-performance, large-scale survey pipelines.
 
 Tools & Workflows —  
 – Git, Jupyter, slurm (NERSC), LaTeX, Unix/Linux
@@ -205,10 +213,12 @@ Referee —
 Internal Reviewer for DESI papers (2022-)
 
 Member & Organizer—  
-– Core committee member of the [DESI Professional Development
-Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee).  
-– [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics Division,
-LBNL, 2023-2024  
+– Core committee member, [DESI Professional Development
+Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
+(2024–25), contributed to early-career support and mentoring
+initiatives.  
+–Organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
+Division, LBNL (2023-2024).  
 
 Teaching Experience —  
 – Served as online physics tutor at E-acharya (\>20 students)[^2] from
@@ -240,7 +250,7 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 26 / refereed: 18 / first author: 5 / citations: 3,163 / h-index:
+Total: 27 / refereed: 18 / first author: 5 / citations: 3,168 / h-index:
 17 (Last updated: 2025-08-28), List attached below
 
 ### First-author publications
@@ -335,12 +345,17 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 <div class="list">
 
+Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
+H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, The mass of
+the Milky Way from outer halo stars measured by DESI DR1, ArXiv
+([arXiv:2508.19351](http://arxiv.org/abs/2508.19351))
+
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 VII: cosmological
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 28
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[151
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[152
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -348,7 +363,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 characteristics, and two-point clustering
 statistics](http://dx.doi.org/10.1088/1475-7516/2025/07/017)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 17
-([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[61
+([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
@@ -363,21 +378,21 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[331
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[332
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[339
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[340
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[97
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[98
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
@@ -408,7 +423,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[260
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[261
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -431,7 +446,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2024, *[DESI 2024 V: Full-Shape Galaxy
 Clustering from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[92
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[93
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -439,7 +454,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[377
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[376
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -447,7 +462,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[205
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[204
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
