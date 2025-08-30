@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 27 / refereed: 18 / first author: 5 / citations: 3,168 / h-index:
-17 (Last updated: 2025-08-29), List attached below
+Total: 28 / refereed: 18 / first author: 5 / citations: 3,185 / h-index:
+17 (Last updated: 2025-08-30), List attached below
 
 ### First-author publications
 
@@ -300,6 +300,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 <div class="list">
 
+Rashkovetskyi, M.; Eisenstein, D. J.; Aguilar, J.; Ahlen, S.; **Anand,
+Abhijeet**; *et al.*, 2025, Clustering of DESI galaxies split by thermal
+Sunyaev-Zeldovich effect, ArXiv
+([arXiv:2508.20904](http://arxiv.org/abs/2508.20904))
+
 Wu, Xuanyi; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**;
 *et al.*, 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
 Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
@@ -346,8 +351,9 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 <div class="list">
 
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
-H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, The mass of
-the Milky Way from outer halo stars measured by DESI DR1, ArXiv
+H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
+the Milky Way from outer halo stars measured by DESI
+DR1](http://dx.doi.org/10.48550/arXiv.2508.19351)*, ArXiv
 ([arXiv:2508.19351](http://arxiv.org/abs/2508.19351))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -378,21 +384,21 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 12
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[332
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[335
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results II: Measurements
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv
-([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[340
+([arXiv:2503.14738](http://arxiv.org/abs/2503.14738)) \[[348
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[98
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[99
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
@@ -415,7 +421,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 21
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[977
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[981
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -454,7 +460,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[376
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[377
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
