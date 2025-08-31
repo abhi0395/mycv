@@ -300,12 +300,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 <div class="list">
 
-Rashkovetskyi, M.; Eisenstein, D. J.; Aguilar, J.; Ahlen, S.; **Anand,
-Abhijeet**; *et al.*, 2025, *[Clustering of DESI galaxies split by
-thermal Sunyaev-Zeldovich
-effect](http://dx.doi.org/10.48550/arXiv.2508.20904)*, ArXiv
-([arXiv:2508.20904](http://arxiv.org/abs/2508.20904))
-
 Wu, Xuanyi; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**;
 *et al.*, 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
 Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
@@ -356,6 +350,12 @@ H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
 the Milky Way from outer halo stars measured by DESI
 DR1](http://dx.doi.org/10.48550/arXiv.2508.19351)*, ArXiv
 ([arXiv:2508.19351](http://arxiv.org/abs/2508.19351))
+
+Rashkovetskyi, M.; Eisenstein, D. J.; Aguilar, J.; Ahlen, S.; **Anand,
+Abhijeet**; *et al.*, 2025, *[Clustering of DESI galaxies split by
+thermal Sunyaev-Zeldovich
+effect](http://dx.doi.org/10.48550/arXiv.2508.20904)*, ArXiv
+([arXiv:2508.20904](http://arxiv.org/abs/2508.20904))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 VII: cosmological
