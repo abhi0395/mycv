@@ -111,9 +111,9 @@ def get_papers(author):
             else:
                 aid.append(t)
         try:
-            page = int(paper.page[0])
+            page = paper.page[0]
         except (ValueError, TypeError):
-            page = str(paper.page[0])
+            page = None
             if paper.page is not None and paper.page[0].startswith("arXiv:"):
                 aid.append(":".join(paper.page[0].split(":")[1:]))
 
