@@ -11,9 +11,7 @@ I have made some modifications to include my one-page resume as well.
 
 <hr>
 
-## Abhijeet Anand, PhD
-
-  
+**Abhijeet Anand, PhD**  
 Postdoctoral Fellow, Lawrence Berkeley National Lab, CA, USA  
 <span class="sans-serif">AbhijeetAnand@lbl.gov,
 <https://abhi0395.github.io/>, [Google
@@ -33,6 +31,8 @@ data-intensive pipelines, and galaxy–CGM/IGM connections.
 
 <div class="list">
 
+=0ex =0.2ex
+
 Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
@@ -41,7 +41,7 @@ Berkeley, CA, USA
 
 - *Developer and support scientist for the DESI spectroscopic pipeline;
   improved galaxy redshift estimation algorithms, reducing catastrophic
-  failures by ∼30%.*
+  failures by $\sim30\%$.*
 
 - *Contributed to high-impact DESI collaboration papers, while also
   initiating independent science projects within and outside the
@@ -65,6 +65,8 @@ Studies, Bangalore, India
 ## Education
 
 <div class="list">
+
+=0ex =0.2ex
 
 Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
 Max Planck Institute for Astrophysics (MPA), Germany.
@@ -100,46 +102,48 @@ Science, Bangalore, India.
 
 ## Selected visits, talks and conferences
 
-<sup><em>i</em></sup>*Invited Talks*, <sup><em>c</em></sup>*Contributed Talks*, <sup><em>s</em></sup>*Schools & Workshops*
+$^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
-<sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
+=0ex =0.2ex
+
+$^i$ June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
 India, June 23, 2025 (*Virtual*)
 
-<sup><em>i</em></sup> May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
+$^i$ May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
 USA, May 20, 2025 (*talk*)
 
-<sup><em>i</em></sup> Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
+$^i$ Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
 India, Dec 11, 2024 (*talk*)
 
-<sup><em>c</em></sup> Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
+$^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
-<sup><em>c</em></sup> Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
+$^c$ Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
 20 - Nov 22, 2024 (*talk*)
 
-<sup><em>i</em></sup> Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
+$^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*talk*).
 
-<sup><em>i</em></sup> Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
+$^i$ Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
 (*talk*).
 
-<sup><em>i</em></sup> Mar 2022: *[Computational Galaxy Formation and Evolution
+$^i$ Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
 University of Heidelberg, 14-16 Mar 2022 (*Visitor*).
 
-<sup><em>i</em></sup> Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
+$^i$ Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
 (*Virtual*).
 
-<sup><em>i</em></sup> Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
+$^i$ Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
 (*Virtual*).
 
-<sup><em>i</em></sup> Dec 2021: *[Galaxies & Cosmology
+$^i$ Dec 2021: *[Galaxies & Cosmology
 Seminar](https://pweb.cfa.harvard.edu/calendar/event/9298)*, CfA
 Harvard, 13 Dec, 2021 (*Virtual*).
 
-<sup><em>i</em></sup> Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
+$^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 (*Virtual*).
 
 </div>
@@ -147,6 +151,8 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 ## Mentoring
 
 <div class="list">
+
+=0ex =0.2ex
 
 – Mentored Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
 simulations (manuscript in prep. for MNRAS).
@@ -159,6 +165,8 @@ continuum models for DESI data analysis, 2025-present.
 ## Honors & Awards
 
 <div class="list">
+
+=0ex =0.2ex
 
 – Core member of the DESI Data Team; the DESI Collaboration awarded the
 2026 [Berkeley
@@ -187,6 +195,8 @@ Scholarship, 2012-2017.
 
 <div class="list">
 
+=0ex =0.2ex
+
 Programming Language —  
 – Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash, SQL —
 with focus on high-performance, large-scale survey pipelines.
@@ -207,6 +217,8 @@ pipeline(*Contributor*).
 ## Professional services & activities
 
 <div class="list">
+
+=0ex =0.2ex
 
 Referee —  
 – Astronomy & Astrophysics (2023-), Astrophysical Journal (2023-),
@@ -229,6 +241,8 @@ June 2017 to Aug 2018.
 ## Outreach activities
 
 <div class="list">
+
+=0ex =0.2ex
 
 Press releases —  
 – My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
@@ -257,9 +271,11 @@ Total: 28 / refereed: 18 / first author: 5 / citations: 3,229 / h-index:
 
 <div class="list">
 
+=0ex =0.2ex
+
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
 A.; *et al.*, 2025, *[The Cosmic Evolution of CIV Absorbers at
-1.4<z<4.5: Insights from 100,000 Systems in DESI
+$1.4<z<4.5$: Insights from $100,000$ Systems in DESI
 Quasars](http://dx.doi.org/10.48550/arXiv.2504.20299)*, ArXiv
 ([arXiv:2504.20299](http://arxiv.org/abs/2504.20299))
 
@@ -299,6 +315,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 ### Significant contributions
 
 <div class="list">
+
+=0ex =0.2ex
 
 Wu, Xuanyi; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**;
 *et al.*, 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
@@ -345,6 +363,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 <div class="list">
 
+=0ex =0.2ex
+
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
 the Milky Way from outer halo stars measured by DESI
@@ -375,7 +395,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
-Lyman-{\ensuremath{\alpha}} Forest from LBGs: First 3D Correlation
+Lyman-${\ensuremath{\alpha}}$ Forest from LBGs: First 3D Correlation
 Measurement with DESI and Prospects for
 Cosmology](http://dx.doi.org/10.48550/arXiv.2507.21852)*, ArXiv
 ([arXiv:2507.21852](http://arxiv.org/abs/2507.21852))
@@ -411,8 +431,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314739D)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
 *et al.* (incl. **A. Anand**), 2025, *[Construction of the Damped
-Ly{\ensuremath{\alpha}} Absorber Catalog for DESI DR2
-Ly{\ensuremath{\alpha}}
+Ly${\ensuremath{\alpha}}$ Absorber Catalog for DESI DR2
+Ly${\ensuremath{\alpha}}$
 BAO](http://dx.doi.org/10.48550/arXiv.2503.14740)*, ArXiv
 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314740B)\]

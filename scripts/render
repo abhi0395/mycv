@@ -59,7 +59,7 @@ def format_pub(args):
         fmt += ", \\textbf{{{0}}}".format(pub["volume"])
 
     if pub["page"] is not None:
-        fmt += ", {0}".format(pub["page"])
+        fmt += f", {str(pub['page'])}"
 
     if pub["arxiv"] is not None:
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
