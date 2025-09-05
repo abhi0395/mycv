@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 28 / refereed: 18 / first author: 5 / citations: 3,219 / h-index:
-17 (Last updated: 2025-09-04), List attached below
+Total: 28 / refereed: 18 / first author: 5 / citations: 3,230 / h-index:
+17 (Last updated: 2025-09-05), List attached below
 
 ### First-author publications
 
@@ -305,7 +305,7 @@ Wu, Xuanyi; Cai, Z.; Lan, T. -W.; Zou, S.; **Anand, Abhijeet**;
 Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
 Using DESI-Y1 Data](http://dx.doi.org/10.3847/1538-4357/adb28a)*, The
 Astrophysical Journal, **983**, 186
-([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[5
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...983..186W)\]
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
@@ -336,7 +336,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[24
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
@@ -393,7 +393,7 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv,
 arXiv:2503.14738 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[357
+\[[361
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
@@ -401,7 +401,7 @@ J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv,
 arXiv:2503.14745 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
-\[[104
+\[[107
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
@@ -450,7 +450,7 @@ Zou, Hu; *et al.* (incl. **A. Anand**), 2024, *[The atomic gas sequence
 and mass-metallicity relation from dwarfs to massive
 galaxies](http://dx.doi.org/10.1093/mnras/stae2477)*, Monthly Notices of
 the Royal Astronomical Society, **535**, 2341
-([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[9
+([arXiv:2408.03996](http://arxiv.org/abs/2408.03996)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2341S)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -458,7 +458,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Clustering from Galaxies and
 Quasars](http://dx.doi.org/10.48550/arXiv.2411.12021)*, ArXiv,
 arXiv:2411.12021 ([arXiv:2411.12021](http://arxiv.org/abs/2411.12021))
-\[[94
+\[[95
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
