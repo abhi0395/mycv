@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 28 / refereed: 20 / first author: 5 / citations: 3,160 / h-index:
-16 (Last updated: 2025-09-09), List attached below
+Total: 28 / refereed: 20 / first author: 5 / citations: 3,255 / h-index:
+17 (Last updated: 2025-09-10), List attached below
 
 ### First-author publications
 
@@ -262,6 +262,7 @@ A.; *et al.*, 2025, *[The Cosmic Evolution of C IV Absorbers at 1.4 \< z
 \< 4.5: Insights from 100,000 Systems in DESI
 Quasars](http://dx.doi.org/10.3847/1538-4357/adef3c)*, The Astrophysical
 Journal, **990**, 151
+([arXiv:2504.20299](http://arxiv.org/abs/2504.20299))
 
 **Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
 Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
@@ -350,6 +351,8 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 clustering from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/09/008)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 008
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[95
+citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of

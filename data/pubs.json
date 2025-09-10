@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2411.12021",
     "authors": [
       "Adame, A. G.",
       "Aguilar, J.",
@@ -202,7 +202,7 @@
       "Zou, H.",
       "The DESI collaboration"
     ],
-    "citations": 0,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/09/008",
     "page": "008",
@@ -214,7 +214,7 @@
     "year": "2025"
   },
   {
-    "arxiv": null,
+    "arxiv": "2504.20299",
     "authors": [
       "Anand, Abhijeet",
       "Aguilar, J.",
