@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 28 / refereed: 20 / first author: 5 / citations: 3,311 / h-index:
-17 (Last updated: 2025-09-18), List attached below
+Total: 29 / refereed: 20 / first author: 5 / citations: 3,319 / h-index:
+17 (Last updated: 2025-09-19), List attached below
 
 ### First-author publications
 
@@ -354,6 +354,12 @@ Cosmology and Astroparticle Physics, **2025**, 008
 ([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[95
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
+Karaçaylı, N. G.; Ravoux, C.; Martini, P.; Le Goff, J. M.; Armengaud,
+E.; *et al.* (incl. **A. Anand**), 2025, DESI DR1
+Ly{\ensuremath{\alpha}} 1D power spectrum: Validation of estimators,
+ArXiv, arXiv:2509.13593
+([arXiv:2509.13593](http://arxiv.org/abs/2509.13593))
+
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
 the Milky Way from outer halo stars measured by DESI
@@ -371,7 +377,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[159
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[160
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -403,7 +409,7 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv,
 arXiv:2503.14738 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[389
+\[[394
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
@@ -436,7 +442,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1001
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1003
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
