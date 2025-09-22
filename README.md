@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 30 / refereed: 20 / first author: 5 / citations: 3,357 / h-index:
-17 (Last updated: 2025-09-21), List attached below
+Total: 30 / refereed: 20 / first author: 5 / citations: 3,363 / h-index:
+17 (Last updated: 2025-09-22), List attached below
 
 ### First-author publications
 
@@ -354,17 +354,17 @@ Cosmology and Astroparticle Physics, **2025**, 008
 ([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[95
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
-Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
-*et al.*, 2025, Probing the limits of cosmological information from the
-Lyman-{\ensuremath{\alpha}} forest 2-point correlation functions,
-ArXiv, arXiv:2509.14322
-([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
-
 Karaçaylı, N. G.; Ravoux, C.; Martini, P.; Le Goff, J. M.; Armengaud,
 E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
 Ly{\ensuremath{\alpha}} 1D power spectrum: Validation of
 estimators](http://dx.doi.org/10.48550/arXiv.2509.13593)*, ArXiv,
 arXiv:2509.13593 ([arXiv:2509.13593](http://arxiv.org/abs/2509.13593))
+
+Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
+*et al.*, 2025, *[Probing the limits of cosmological information from
+the Lyman-{\ensuremath{\alpha}} forest 2-point correlation
+functions](http://dx.doi.org/10.48550/arXiv.2509.14322)*, ArXiv,
+arXiv:2509.14322 ([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
 
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
@@ -415,7 +415,7 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv,
 arXiv:2503.14738 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[402
+\[[406
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
@@ -423,7 +423,7 @@ J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv,
 arXiv:2503.14745 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
-\[[120
+\[[121
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
@@ -431,7 +431,7 @@ Prieto, C.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Results I:
 Baryon Acoustic Oscillations from the Lyman Alpha
 Forest](http://dx.doi.org/10.48550/arXiv.2503.14739)*, ArXiv,
 arXiv:2503.14739 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[81
+\[[82
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314739D)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
@@ -448,7 +448,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1013
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1014
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -480,7 +480,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[388
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[387
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
