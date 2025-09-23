@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 30 / refereed: 20 / first author: 5 / citations: 3,363 / h-index:
-17 (Last updated: 2025-09-22), List attached below
+Total: 32 / refereed: 20 / first author: 5 / citations: 3,363 / h-index:
+17 (Last updated: 2025-09-23), List attached below
 
 ### First-author publications
 
@@ -365,6 +365,18 @@ Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
 the Lyman-{\ensuremath{\alpha}} forest 2-point correlation
 functions](http://dx.doi.org/10.48550/arXiv.2509.14322)*, ArXiv,
 arXiv:2509.14322 ([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
+
+Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
+Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, A New
+Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
+Search from DESI DR1, ArXiv, arXiv:2509.16033
+([arXiv:2509.16033](http://arxiv.org/abs/2509.16033))
+
+Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
+César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, DESI DR1
+Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
+cosmological constraints, ArXiv, arXiv:2509.15308
+([arXiv:2509.15308](http://arxiv.org/abs/2509.15308))
 
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
