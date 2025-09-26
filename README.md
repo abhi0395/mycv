@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 32 / refereed: 20 / first author: 5 / citations: 3,388 / h-index:
-17 (Last updated: 2025-09-25), List attached below
+Total: 32 / refereed: 20 / first author: 5 / citations: 3,392 / h-index:
+17 (Last updated: 2025-09-26), List attached below
 
 ### First-author publications
 
@@ -354,6 +354,13 @@ Cosmology and Astroparticle Physics, **2025**, 008
 ([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[97
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
+Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
+Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
+New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
+Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
+ArXiv, arXiv:2509.16033
+([arXiv:2509.16033](http://arxiv.org/abs/2509.16033))
+
 Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
 *et al.*, 2025, *[Probing the limits of cosmological information from
 the Lyman-{\ensuremath{\alpha}} forest 2-point correlation
@@ -365,13 +372,6 @@ E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
 Ly{\ensuremath{\alpha}} 1D power spectrum: Validation of
 estimators](http://dx.doi.org/10.48550/arXiv.2509.13593)*, ArXiv,
 arXiv:2509.13593 ([arXiv:2509.13593](http://arxiv.org/abs/2509.13593))
-
-Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
-Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
-New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
-Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
-ArXiv, arXiv:2509.16033
-([arXiv:2509.16033](http://arxiv.org/abs/2509.16033))
 
 Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
 César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
@@ -429,7 +429,7 @@ DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
 of Baryon Acoustic Oscillations and Cosmological
 Constraints](http://dx.doi.org/10.48550/arXiv.2503.14738)*, ArXiv,
 arXiv:2503.14738 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[411
+\[[414
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
@@ -494,7 +494,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[387
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[388
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
