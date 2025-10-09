@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 34 / refereed: 20 / first author: 5 / citations: 3,536 / h-index:
-17 (Last updated: 2025-10-08), List attached below
+Total: 34 / refereed: 20 / first author: 5 / citations: 3,544 / h-index:
+17 (Last updated: 2025-10-09), List attached below
 
 ### First-author publications
 
@@ -351,7 +351,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 clustering from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/09/008)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 008
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[101
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[102
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
 Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
@@ -361,18 +361,18 @@ cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
 ([arXiv:2509.15308](http://arxiv.org/abs/2509.15308))
 
+Treiber, Helena; Amon, Alexandra; Wechsler, Risa H.; Manwadkar, Viraj;
+Myles, Justin; *et al.* (incl. **A. Anand**), 2025, *[Dwarf galaxy halo
+masses from spectroscopic and photometric lensing in DESI and
+DES](http://dx.doi.org/10.48550/arXiv.2509.20434)*, ArXiv,
+arXiv:2509.20434 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434))
+
 Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
 Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
 New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
 Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
 ArXiv, arXiv:2509.16033
 ([arXiv:2509.16033](http://arxiv.org/abs/2509.16033))
-
-Treiber, Helena; Amon, Alexandra; Wechsler, Risa H.; Manwadkar, Viraj;
-Myles, Justin; *et al.* (incl. **A. Anand**), 2025, *[Dwarf galaxy halo
-masses from spectroscopic and photometric lensing in DESI and
-DES](http://dx.doi.org/10.48550/arXiv.2509.20434)*, ArXiv,
-arXiv:2509.20434 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434))
 
 Ebina, H.; White, M.; Raichoor, A.; Dey, Arjun; Schlegel, D.;
 *et al.* (incl. **A. Anand**), 2025, *[Clustering analysis of
@@ -409,7 +409,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[166
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[167
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -433,7 +433,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 012
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[354
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[355
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -449,7 +449,7 @@ J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv,
 arXiv:2503.14745 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
-\[[137
+\[[140
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 DESI Collaboration; Abdul-Karim, M.; Aguilar, J.; Ahlen, S.; Allende
@@ -474,7 +474,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1054
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1055
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -482,7 +482,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[272
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[273
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -490,7 +490,7 @@ Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.1088/1475-7516/2025/01/125)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 125
-([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[30
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..125R)\]
 
 Scholte, Dirk; Saintonge, Amélie; Moustakas, John; Catinella, Barbara;
@@ -506,7 +506,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[401
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[400
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
