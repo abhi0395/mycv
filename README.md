@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 34 / refereed: 23 / first author: 5 / citations: 3,798 / h-index:
-17 (Last updated: 2025-10-23), List attached below
+Total: 35 / refereed: 23 / first author: 5 / citations: 3,798 / h-index:
+17 (Last updated: 2025-10-24), List attached below
 
 ### First-author publications
 
@@ -369,6 +369,11 @@ absorber catalog for DESI DR2
 BAO](http://dx.doi.org/10.1103/wxyv-46kb)*, Physical Review D, **112**,
 083510 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3510B)\]
+
+Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
+*et al.* (incl. **A. Anand**), 2025, H{\_}0 Without the Sound Horizon
+(or Supernovae): A 2% Measurement in DESI DR1, ArXiv, arXiv:2510.19149
+([arXiv:2510.19149](http://arxiv.org/abs/2510.19149))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 V: Full-Shape galaxy
