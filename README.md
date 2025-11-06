@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 35 / refereed: 23 / first author: 5 / citations: 3,963 / h-index:
-17 (Last updated: 2025-11-05), List attached below
+Total: 37 / refereed: 23 / first author: 5 / citations: 3,963 / h-index:
+17 (Last updated: 2025-11-06), List attached below
 
 ### First-author publications
 
@@ -346,6 +346,16 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 ### Collaboration Papers
 
 <div class="list">
+
+Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
+Moustakas, John; *et al.* (incl. **A. Anand**), 2025, DESI DR2 Galaxy
+Luminosity Functions, ArXiv, arXiv:2511.01803
+([arXiv:2511.01803](http://arxiv.org/abs/2511.01803))
+
+McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
+Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, Quasars acting as
+Strong Lenses Found in DESI DR1, ArXiv, arXiv:2511.02009
+([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 results. II.
