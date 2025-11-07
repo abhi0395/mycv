@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 37 / refereed: 23 / first author: 5 / citations: 3,963 / h-index:
-17 (Last updated: 2025-11-06), List attached below
+Total: 38 / refereed: 23 / first author: 5 / citations: 3,963 / h-index:
+17 (Last updated: 2025-11-07), List attached below
 
 ### First-author publications
 
@@ -301,6 +301,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 ### Significant contributions
 
 <div class="list">
+
+Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
+Abhijeet**; *et al.*, 2025, The Multi-Phase Circumgalactic Medium of
+DESI Emission-Line Galaxies at z 1.5, ArXiv, arXiv:2511.03195
+([arXiv:2511.03195](http://arxiv.org/abs/2511.03195))
 
 Wu, Xuanyi; Cai, Z.; Lan, T.-W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
