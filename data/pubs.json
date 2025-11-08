@@ -61,7 +61,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2511.01803",
     "page": "arXiv:2511.01803",
     "pub": "arXiv e-prints",
     "pubdate": "2025-11-00",
@@ -118,7 +118,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2511.03195",
     "page": "arXiv:2511.03195",
     "pub": "arXiv e-prints",
     "pubdate": "2025-11-00",
@@ -188,7 +188,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2511.02009",
     "page": "arXiv:2511.02009",
     "pub": "arXiv e-prints",
     "pubdate": "2025-11-00",
@@ -387,7 +387,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 547,
+    "citations": 566,
     "doctype": "article",
     "doi": "10.1103/tr6y-kpc6",
     "page": "083515",
@@ -553,7 +553,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1103/2wwn-xjm5",
     "page": "083514",
@@ -958,7 +958,7 @@
       "Zou, H.",
       "The DESI collaboration"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/09/008",
     "page": "008",
@@ -1809,7 +1809,7 @@
       "Zou, H.",
       "The DESI collaboration"
     ],
-    "citations": 194,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/07/028",
     "page": "028",
@@ -2027,7 +2027,7 @@
       "Zou, H.",
       "The DESI collaboration"
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/07/017",
     "page": "017",
@@ -2307,7 +2307,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 383,
+    "citations": 385,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/04/012",
     "page": "012",
@@ -2653,7 +2653,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 184,
+    "citations": 189,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2503.14745",
     "page": "arXiv:2503.14745",
@@ -2870,7 +2870,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 1165,
+    "citations": 1171,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/02/021",
     "page": "021",
@@ -3084,7 +3084,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 292,
+    "citations": 293,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/01/124",
     "page": "124",
@@ -3247,7 +3247,7 @@
       "Tojeiro, R.",
       "Weaver, B. A."
     ],
-    "citations": 14,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/stae2477",
     "page": "2341",
@@ -3394,7 +3394,7 @@
       "Zhou, R.",
       "Zou, H."
     ],
-    "citations": 26,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad60c2",
     "page": "124",
@@ -3679,7 +3679,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 423,
+    "citations": 425,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3217",
     "page": "58",
@@ -3960,7 +3960,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 234,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": "62",
