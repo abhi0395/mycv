@@ -251,7 +251,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 39 / refereed: 23 / first author: 5 / citations: 4,195 / h-index:
-18 (Last updated: 2025-11-25), List attached below
+18 (Last updated: 2025-11-26), List attached below
 
 ### First-author publications
 
@@ -367,10 +367,10 @@ ArXiv, arXiv:2511.01803
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251101803M)\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
-P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, Effect
+P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
 of local environment on Ly{\ensuremath{\alpha}} line profile in
-DESI/ODIN LAEs, ArXiv, arXiv:2511.17498
-([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
+DESI/ODIN LAEs](http://dx.doi.org/10.48550/arXiv.2511.17498)*, ArXiv,
+arXiv:2511.17498 ([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 results. II.
