@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 39 / refereed: 23 / first author: 5 / citations: 4,271 / h-index:
-18 (Last updated: 2025-12-01), List attached below
+Total: 40 / refereed: 23 / first author: 5 / citations: 4,279 / h-index:
+18 (Last updated: 2025-12-02), List attached below
 
 ### First-author publications
 
@@ -371,6 +371,12 @@ P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
 of local environment on Ly{\ensuremath{\alpha}} line profile in
 DESI/ODIN LAEs](http://dx.doi.org/10.48550/arXiv.2511.17498)*, ArXiv,
 arXiv:2511.17498 ([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
+
+Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
+Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2025, Baryon fraction from
+the BAO amplitude: a consistent approach to parameterizing perturbation
+growth, ArXiv, arXiv:2511.23459
+([arXiv:2511.23459](http://arxiv.org/abs/2511.23459))
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 results. II.
@@ -541,7 +547,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[438
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[443
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -549,7 +555,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[249
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[252
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
