@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 41 / refereed: 23 / first author: 5 / citations: 4,278 / h-index:
-18 (Last updated: 2025-12-04), List attached below
+Total: 42 / refereed: 23 / first author: 5 / citations: 4,278 / h-index:
+18 (Last updated: 2025-12-05), List attached below
 
 ### First-author publications
 
@@ -357,6 +357,12 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 ### Collaboration Papers
 
 <div class="list">
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data, ArXiv, arXiv:2512.03845
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
 Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Galaxy
