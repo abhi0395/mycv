@@ -251,7 +251,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 42 / refereed: 23 / first author: 5 / citations: 4,333 / h-index:
-18 (Last updated: 2025-12-08), List attached below
+18 (Last updated: 2025-12-09), List attached below
 
 ### First-author publications
 
@@ -366,18 +366,18 @@ with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
 ArXiv, arXiv:2512.03845
 ([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
+McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
+Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
+Strong Lenses Found in DESI
+DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
+arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
+
 Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Galaxy
 Luminosity Functions](http://dx.doi.org/10.48550/arXiv.2511.01803)*,
 ArXiv, arXiv:2511.01803
 ([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251101803M)\]
-
-McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
-Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
-Strong Lenses Found in DESI
-DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
-arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
@@ -437,13 +437,6 @@ masses from spectroscopic and photometric lensing in DESI and
 DES](http://dx.doi.org/10.48550/arXiv.2509.20434)*, ArXiv,
 arXiv:2509.20434 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434))
 
-Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
-Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
-New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
-Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
-ArXiv, arXiv:2509.16033
-([arXiv:2509.16033](http://arxiv.org/abs/2509.16033))
-
 Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
 César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
 Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
@@ -451,6 +444,13 @@ cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
 ([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
+
+Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
+Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
+New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
+Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
+ArXiv, arXiv:2509.16033
+([arXiv:2509.16033](http://arxiv.org/abs/2509.16033))
 
 Ebina, H.; White, M.; Raichoor, A.; Dey, Arjun; Schlegel, D.;
 *et al.* (incl. **A. Anand**), 2025, *[Clustering analysis of
@@ -486,20 +486,20 @@ effect](http://dx.doi.org/10.48550/arXiv.2508.20904)*, ArXiv,
 arXiv:2508.20904 ([arXiv:2508.20904](http://arxiv.org/abs/2508.20904))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
-*et al.* (incl. **A. Anand**), 2025, *[DESI 2024 II: sample definitions,
-characteristics, and two-point clustering
-statistics](http://dx.doi.org/10.1088/1475-7516/2025/07/017)*, Journal
-of Cosmology and Astroparticle Physics, **2025**, 017
-([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[83
-citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
-
-Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 VII: cosmological
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
 ([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[211
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
+
+Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
+*et al.* (incl. **A. Anand**), 2025, *[DESI 2024 II: sample definitions,
+characteristics, and two-point clustering
+statistics](http://dx.doi.org/10.1088/1475-7516/2025/07/017)*, Journal
+of Cosmology and Astroparticle Physics, **2025**, 017
+([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[83
+citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
