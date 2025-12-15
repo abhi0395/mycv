@@ -15,7 +15,8 @@ def fix_latex_typesetting(sorted_papers):
                  .replace('{\\&}lt;', '<')
                  .replace('{\\&}gt;', '>')
                  .replace('{\\&}amp;', '&')
-                 .replace('<inline-formula><mml:math><mml:mrow><mml:mi>Ly</mml:mi><mml:mi>{\\ensuremath{\\alpha}}</mml:mi></mml:mrow></mml:math></inline-formula>', 'Ly${\\ensuremath{\\alpha}}$'))
+                 .replace('<inline-formula><mml:math><mml:mrow><mml:mi>Ly</mml:mi><mml:mi>{\\ensuremath{\\alpha}}</mml:mi></mml:mrow></mml:math></inline-formula>', 'Ly${\\ensuremath{\\alpha}}$')
+                 .replace('<inline-formula><mml:math><mml:mrow><mml:mrow><mml:mrow><mml:mi>Ly</mml:mi><mml:mi>{\\ensuremath{\\alpha}}</mml:mi></mml:mrow></mml:mrow></mml:mrow></mml:math></inline-formula>', 'Ly${\\ensuremath{\\alpha}}$'))
         papers["title"] = title
     return sorted_papers
 
