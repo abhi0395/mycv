@@ -411,8 +411,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
 *et al.* (incl. **A. Anand**), 2025, *[Construction of the damped
-\<inline-formula\>\<mml:math\>\<mml:mrow\>\<mml:mi\>Ly\</mml:mi\>\<mml:mi\>\alpha\</mml:mi\>\</mml:mrow\>\</mml:math\>\</inline-formula\>
-absorber catalog for DESI DR2
+Ly{\ensuremath{\alpha}} absorber catalog for DESI DR2
 \<inline-formula\>\<mml:math\>\<mml:mrow\>\<mml:mrow\>\<mml:mrow\>\<mml:mi\>Ly\</mml:mi\>\<mml:mi\>\alpha\</mml:mi\>\</mml:mrow\>\</mml:mrow\>\</mml:mrow\>\</mml:math\>\</inline-formula\>
 BAO](http://dx.doi.org/10.1103/wxyv-46kb)*, Physical Review D, **112**,
 083510 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[16
