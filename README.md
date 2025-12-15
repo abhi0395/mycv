@@ -250,8 +250,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 42 / refereed: 23 / first author: 5 / citations: 4,410 / h-index:
-18 (Last updated: 2025-12-14), List attached below
+Total: 42 / refereed: 24 / first author: 5 / citations: 4,471 / h-index:
+18 (Last updated: 2025-12-15), List attached below
 
 ### First-author publications
 
@@ -399,7 +399,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[689
+\[[693
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -425,12 +425,18 @@ DR1](http://dx.doi.org/10.48550/arXiv.2510.19149)*, ArXiv,
 arXiv:2510.19149 ([arXiv:2510.19149](http://arxiv.org/abs/2510.19149))
 \[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251019149Z)\]
 
+Rashkovetskyi, Michael; Eisenstein, Daniel J.; Aguilar, Jessica Nicole;
+Ahlen, Steven; **Anand, Abhijeet**; *et al.*, 2025, *[Clustering of DESI
+galaxies split by thermal Sunyaev-Zeldovich
+effect](http://dx.doi.org/10.33232/001c.146033)*, The Open Journal of
+Astrophysics, **8**, 46033
+
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 V: Full-Shape galaxy
 clustering from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/09/008)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 008
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[78
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[131
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
 Treiber, Helena; Amon, Alexandra; Wechsler, Risa H.; Manwadkar, Viraj;
@@ -444,7 +450,7 @@ César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
 Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
 cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
-([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[2
+([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
 
 Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
@@ -481,12 +487,6 @@ the Milky Way from outer halo stars measured by DESI
 DR1](http://dx.doi.org/10.48550/arXiv.2508.19351)*, ArXiv,
 arXiv:2508.19351 ([arXiv:2508.19351](http://arxiv.org/abs/2508.19351))
 \[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M)\]
-
-Rashkovetskyi, M.; Eisenstein, D. J.; Aguilar, J.; Ahlen, S.; **Anand,
-Abhijeet**; *et al.*, 2025, *[Clustering of DESI galaxies split by
-thermal Sunyaev-Zeldovich
-effect](http://dx.doi.org/10.48550/arXiv.2508.20904)*, ArXiv,
-arXiv:2508.20904 ([arXiv:2508.20904](http://arxiv.org/abs/2508.20904))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 VII: cosmological
@@ -533,7 +533,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1250
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1253
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
