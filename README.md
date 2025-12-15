@@ -14,8 +14,8 @@ I have made some modifications to include my one-page resume as well.
 ## Abhijeet Anand, PhD
 
   
-Postdoctoral Fellow, Lawrence Berkeley National Lab, CA, USA  
-<span class="sans-serif">AbhijeetAnand@lbl.gov,
+Institute Postdoctoral Fellow, IUCAA, Pune, India  
+<span class="sans-serif">abhijeet.anand@iucaa.in,
 <https://abhi0395.github.io/>, [Google
 Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>  
 
@@ -33,8 +33,15 @@ data-intensive pipelines, and galaxy–CGM/IGM connections.
 
 <div class="list">
 
-Sep 2022 - present: Postdoctoral Fellow, Lawrence Berkeley National Lab,
-Berkeley, CA, USA  
+Dec 2025 - present: Institute Postdoctoral Fellow, IUCAA, Pune, India  
+
+- *Leading/Led independent projects on physical properties of quasar
+  absorbers in and around galaxies using MUSE, SDSS and DESI.*
+
+- *Builder and support scientist for the DESI spectroscopic pipeline.*
+
+Sep 2022 - Oct 2025: Postdoctoral Fellow, Lawrence Berkeley National
+Lab, Berkeley, CA, USA  
 
 - *Leading/Led independent projects on metal absorbers in and around
   galaxies using DESI, producing the largest metal absorber catalogs.*
