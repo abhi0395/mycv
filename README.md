@@ -258,7 +258,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 42 / refereed: 24 / first author: 5 / citations: 4,474 / h-index:
-18 (Last updated: 2025-12-16), List attached below
+18 (Last updated: 2025-12-17), List attached below
 
 ### First-author publications
 
@@ -374,19 +374,19 @@ with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
 ArXiv, arXiv:2512.03845
 ([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
-McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
-Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
-Strong Lenses Found in DESI
-DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
-arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
-\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251102009M)\]
-
 Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Galaxy
 Luminosity Functions](http://dx.doi.org/10.48550/arXiv.2511.01803)*,
 ArXiv, arXiv:2511.01803
 ([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251101803M)\]
+
+McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
+Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
+Strong Lenses Found in DESI
+DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
+arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
+\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251102009M)\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
@@ -436,6 +436,7 @@ Ahlen, Steven; **Anand, Abhijeet**; *et al.*, 2025, *[Clustering of DESI
 galaxies split by thermal Sunyaev-Zeldovich
 effect](http://dx.doi.org/10.33232/001c.146033)*, The Open Journal of
 Astrophysics, **8**, 46033
+([arXiv:2508.20904](http://arxiv.org/abs/2508.20904))
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 V: Full-Shape galaxy
