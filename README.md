@@ -260,7 +260,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 44 / refereed: 25 / first author: 5 / citations: 4,635 / h-index:
-18 (Last updated: 2026-01-02), List attached below
+18 (Last updated: 2026-01-03), List attached below
 
 ### First-author publications
 
@@ -376,13 +376,6 @@ with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
 ArXiv, arXiv:2512.03845
 ([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
-Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
-Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
-*[Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy
-Lensing with DESI DR1](http://dx.doi.org/10.48550/arXiv.2512.15962)*,
-ArXiv, arXiv:2512.15962
-([arXiv:2512.15962](http://arxiv.org/abs/2512.15962))
-
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
 Lyman-\alpha forest from LBGs: First 3D correlation measurement with
@@ -391,6 +384,13 @@ cosmology](http://dx.doi.org/10.1088/1475-7516/2025/12/053)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 053
 ([arXiv:2507.21852](http://arxiv.org/abs/2507.21852)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...12..053H)\]
+
+Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
+Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
+*[Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy
+Lensing with DESI DR1](http://dx.doi.org/10.48550/arXiv.2512.15962)*,
+ArXiv, arXiv:2512.15962
+([arXiv:2512.15962](http://arxiv.org/abs/2512.15962))
 
 Blanco, Diana; Leauthaud, Alexie; Ulf Lange, Johannes; Wright, Angus H.;
 Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2025, *[The Power
