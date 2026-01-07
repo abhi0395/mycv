@@ -260,7 +260,7 @@ Indian college students plan their careers.
 ## Publications
 
 Total: 44 / refereed: 25 / first author: 5 / citations: 4,661 / h-index:
-18 (Last updated: 2026-01-06), List attached below
+18 (Last updated: 2026-01-07), List attached below
 
 ### First-author publications
 
@@ -477,14 +477,6 @@ DES](http://dx.doi.org/10.48550/arXiv.2509.20434)*, ArXiv,
 arXiv:2509.20434 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434))
 \[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250920434T)\]
 
-Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
-Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
-New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
-Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
-ArXiv, arXiv:2509.16033
-([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250916033H)\]
-
 Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
 César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
 Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
@@ -492,6 +484,14 @@ cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
 ([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
+
+Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
+Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
+New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
+Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
+ArXiv, arXiv:2509.16033
+([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250916033H)\]
 
 Ebina, H.; White, M.; Raichoor, A.; Dey, Arjun; Schlegel, D.;
 *et al.* (incl. **A. Anand**), 2025, *[Clustering analysis of
