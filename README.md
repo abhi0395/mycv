@@ -14,20 +14,23 @@ I have made some modifications to include my one-page resume as well.
 ## Abhijeet Anand, PhD
 
   
-Independent Postdoctoral Fellow, IUCAA, Pune, India  
-<span class="sans-serif">abhijeet.anand@iucaa.in,
-<https://abhi0395.github.io/>, [Google
+Independent Postdoctoral Fellow  
+Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune,
+India  
+<span class="sans-serif">*email:* <u>abhijeet.anand@iucaa.in</u>,
+*website:* <https://abhi0395.github.io/>, [Google
 Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>  
 
 ## Research Interests
 
-Astrophysicist specializing in galaxy formation, the
-circumgalactic/intergalactic medium, and quasar absorption lines. My
-work combines large-scale surveys (DESI, SDSS) with data science and
-computational methods to understand cosmic gas flows and the metal cycle
-in the Universe at different epochs. My long-term vision is to build an
-independent research program at the intersection of large surveys,
-data-intensive pipelines, and galaxy–CGM/IGM connections.
+Astrophysicist specializing in galaxy formation and evolution, the
+circumgalactic and intergalactic medium, quasar absorption-line systems,
+and cosmology. My research combines large ground-based photometric and
+spectroscopic surveys (e.g., DESI, SDSS) with data-intensive and
+computational methods to study cosmic gas flows and the metal cycle in
+the Universe. My long-term goal is to build an independent research
+program at the intersection of large surveys, scalable data intensive
+pipelines, and the physics of galaxy formation and evolution.
 
 ## Professional Experience
 
@@ -36,35 +39,40 @@ data-intensive pipelines, and galaxy–CGM/IGM connections.
 Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune,
 India  
 
-- *Leading/Led independent projects on physical properties of gas in and
-  around galaxies using MHD simulations and observations from MUSE, SDSS
-  and DESI.*
+- *Leading independent projects on characterizing the global statistical
+  properties of metals and their evolution in the Universe.*
 
-- *Builder and support scientist for the DESI spectroscopic pipeline.*
+- *Exploring physical properties of gas in and around galaxies using MHD
+  simulations and observations from MUSE, SDSS and DESI.*
+
+- *Builder and support scientist for the DESI’s redshift fitter
+  pipeline.*
 
 Sep 2022 - Oct 2025: Postdoctoral Fellow, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
-- *Leading/Led independent projects on metal absorbers in and around
-  galaxies using DESI, producing the largest metal absorber catalogs.*
+- *Led independent projects on metal absorbers in and around galaxies
+  using DESI, producing the largest metal absorber catalogs.*
 
-- *Developer and support scientist for the DESI spectroscopic pipeline;
-  improved galaxy redshift estimation algorithms, reducing catastrophic
-  failures by ∼30%.*
+- *Developer and support scientist for the DESI’s redshift fitter
+  pipeline; improved redshift estimation algorithms, reducing
+  catastrophic failures by ∼30%.*
 
 - *Contributed to high-impact DESI collaboration papers, while also
-  initiating independent science projects within and outside the
-  collaboration.*
+  initiating and reviewing independent science projects within and
+  outside the collaboration.*
 
 Sep 2018 - Jul 2022: PhD Fellow, Max Planck Institute for Astrophysics,
 Garching, Germany
 
 - *Conducted extensive studies on the gas distribution in the
-  circumgalactic and intracluster medium using data from SDSS and DESI.*
+  circumgalactic and intracluster medium using data from SDSS and the
+  legacy imaging survey.*
 
 - *Developed the quasar absorber finder,
   [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool used for
-  detecting and analyzing metal absorbers in quasar spectra.*
+  detecting and analyzing metal absorbers in low-resolution quasar
+  spectra.*
 
 Sep 2017 - Jul 2018: UGC - JRF[^1], National Institute of Advanced
 Studies, Bangalore, India
@@ -158,10 +166,13 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 <div class="list">
 
 – Mentored Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
-simulations (manuscript in prep. for MNRAS).
+simulations (manuscript in prep.), (2025 - present).
 
-– Supervised Shivansh Tiwari (UG, Delhi University): developed QSO
-continuum models for DESI data analysis, 2025-present.
+– Supervised Shivansh Tiwari (UG, Delhi University): developed quasar
+continuum models for DESI quasars using NMF technique (2025).
+
+– Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM),
+2023
 
 </div>
 
@@ -169,16 +180,16 @@ continuum models for DESI data analysis, 2025-present.
 
 <div class="list">
 
+– [DESI Builder Award
+(2025)](https://www.desi.lbl.gov/collaboration/desi-builders/) *for
+outstanding contributions to the data systems operations.*
+
 – Core member of the DESI Data Team; the DESI Collaboration awarded the
 2026 [Berkeley
 Prize](https://aas.org/press/desi-collaboration-receive-2026-berkeley-prize)
 of American Astronomical Society.
 
-– [DESI Builder Award
-(2025)](https://www.desi.lbl.gov/collaboration/desi-builders/) *for
-outstanding contributions to the data systems operations.*
-
-– DESI Early Career Travel Grant (USD 5000).
+– DESI Early Career Travel Grant to attend conferences in 2024-2025.
 
 – [IMPRS PhD
 Fellowship](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
@@ -205,9 +216,9 @@ Tools & Workflows —
 
 Open-source Contributions —  
 – [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
-absorber finder (*Developer*)  
+absorber finder (*sole Developer*)  
 – [redrock](https://github.com/desihub/redrock): Redshift fitter for
-DESI (*Contributor*).  
+DESI (*Main Contributor*).  
 – [desispec](https://github.com/desihub/desispec): DESI spectroscopic
 pipeline(*Contributor*).
 
@@ -219,7 +230,7 @@ pipeline(*Contributor*).
 
 Referee —  
 – Astronomy & Astrophysics (2023-), Astrophysical Journal (2023-),
-Internal Reviewer for DESI papers (2022-)
+Internal Reviewer for DESI papers (2023-)
 
 Member & Organizer—  
 – Core committee member, [DESI Professional Development
