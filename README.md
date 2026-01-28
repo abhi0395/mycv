@@ -270,8 +270,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 45 / refereed: 26 / first author: 5 / citations: 4,797 / h-index:
-18 (Last updated: 2026-01-27), List attached below
+Total: 44 / refereed: 26 / first author: 5 / citations: 4,797 / h-index:
+18 (Last updated: 2026-01-28), List attached below
 
 ### First-author publications
 
@@ -384,7 +384,8 @@ Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
 Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2026, *[A
 New Way to Discover Strong Gravitational Lenses: Pairwise Spectroscopic
 Search from DESI DR1](http://dx.doi.org/10.3847/1538-4365/ae27ce)*, The
-Astrophysical Journal Supplement Series, **282**, 41
+Astrophysical Journal Supplement Series, **282**, 41 \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...41H)\]
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
 Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
@@ -502,14 +503,6 @@ cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
 ([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
-
-Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
-Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2025, *[A
-New Way to Discover Strong Gravitational Lenses: Pair-wise Spectroscopic
-Search from DESI DR1](http://dx.doi.org/10.48550/arXiv.2509.16033)*,
-ArXiv, arXiv:2509.16033
-([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250916033H)\]
 
 Ebina, H.; White, M.; Raichoor, A.; Dey, Arjun; Schlegel, D.;
 *et al.* (incl. **A. Anand**), 2025, *[Clustering analysis of
