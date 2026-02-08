@@ -270,8 +270,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 44 / refereed: 26 / first author: 5 / citations: 4,954 / h-index:
-19 (Last updated: 2026-02-07), List attached below
+Total: 44 / refereed: 26 / first author: 5 / citations: 4,960 / h-index:
+19 (Last updated: 2026-02-08), List attached below
 
 ### First-author publications
 
@@ -371,7 +371,7 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[28
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
@@ -450,7 +450,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[826
+\[[828
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -538,7 +538,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[241
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[242
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -570,7 +570,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1368
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1370
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
