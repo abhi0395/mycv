@@ -39,6 +39,9 @@ pipelines, and the physics of galaxy formation and evolution.
 Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune,
 India  
 
+Feb 2026 - present: Affiliate Scientist, Lawrence Berkeley National Lab,
+Berkeley, CA, USA  
+
 - *Leading independent projects on characterizing the global statistical
   properties of metals and their evolution in the Universe.*
 
