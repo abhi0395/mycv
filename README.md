@@ -25,12 +25,16 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 
 Astrophysicist specializing in galaxy formation and evolution, the
 circumgalactic and intergalactic medium, quasar absorption-line systems,
-and cosmology. My research combines large ground-based photometric and
-spectroscopic surveys (e.g., DESI, SDSS) with data-intensive and
-computational methods to study cosmic gas flows and the metal cycle in
-the Universe. My long-term goal is to build an independent research
-program at the intersection of large surveys, scalable data intensive
-pipelines, and the physics of galaxy formation and evolution.
+and cosmology. My research combines large photometric and spectroscopic
+surveys (e.g., DESI, SDSS, 4MOST, WEAVE) with data-intensive
+computational methods to study cosmic gas flows, the baryon cycle, and
+metal enrichment in the Universe. I am also interested in connecting
+observations with state-of-the-art cosmological simulations (e.g., TNG,
+EAGLE) by comparing observed quantities with theoretical predictions and
+testing simulation-based predictions directly against survey data. My
+long-term vision is to build an independent research program at the
+intersection of next-generation surveys, advanced computational methods,
+and the physics of galaxy evolution.
 
 ## Professional Experience
 
@@ -57,7 +61,7 @@ Lab, Berkeley, CA, USA
 - *Led independent projects on metal absorbers in and around galaxies
   using DESI, producing the largest metal absorber catalogs.*
 
-- *Developer and support scientist for the DESI’s redshift fitter
+- *Developer and support scientist for the DESI’s spectral reduction
   pipeline; improved redshift estimation algorithms, reducing
   catastrophic failures by ∼30%.*
 
@@ -168,11 +172,14 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 
 <div class="list">
 
-– Mentored Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
+– Paryag Sharma (CUHP PhD): project on exploring CGM of quasars and AGNs
+using SDSS and DESI (manuscript in prep.), (2026 - present).
+
+– Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
 simulations (manuscript in prep.), (2025 - present).
 
-– Supervised Shivansh Tiwari (UG, Delhi University): developed quasar
-continuum models for DESI quasars using NMF technique (2025).
+– Shivansh Tiwari (UG, Delhi University): Reading and hands-on project
+on Nonnegative matrix factorization (2024-2025).
 
 – Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM),
 2023
