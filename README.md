@@ -280,8 +280,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 45 / refereed: 26 / first author: 5 / citations: 5,041 / h-index:
-19 (Last updated: 2026-02-20), List attached below
+Total: 45 / refereed: 26 / first author: 5 / citations: 5,047 / h-index:
+19 (Last updated: 2026-02-21), List attached below
 
 ### First-author publications
 
@@ -374,7 +374,7 @@ Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
 II Absorption in DESI Survey Validation Quasar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
 Journal, **166**, 99
-([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[26
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
 
 Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
@@ -400,10 +400,10 @@ citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...41H)\]
 
 Kamalinejad, Farshad; Slepian, Zachary; Krolewski, Alex; Greco,
 Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
-2026, First Detection of the Baryon Acoustic Oscillation (BAO) Feature
-in the 3-Point Correlation Function of DESI DR1 Luminous Red Galaxies,
-ArXiv, arXiv:2602.16134
-([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
+2026, *[First Detection of the Baryon Acoustic Oscillation (BAO) Feature
+in the 3-Point Correlation Function of DESI DR1 Luminous Red
+Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
+arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
 Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
@@ -579,7 +579,7 @@ J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv,
 arXiv:2503.14745 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
-\[[309
+\[[310
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -587,7 +587,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1385
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1387
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -619,7 +619,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[476
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[477
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -627,7 +627,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[270
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[271
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
