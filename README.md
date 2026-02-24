@@ -280,8 +280,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 45 / refereed: 26 / first author: 5 / citations: 5,073 / h-index:
-19 (Last updated: 2026-02-23), List attached below
+Total: 45 / refereed: 26 / first author: 5 / citations: 5,082 / h-index:
+19 (Last updated: 2026-02-24), List attached below
 
 ### First-author publications
 
@@ -619,7 +619,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[478
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[484
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -627,7 +627,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[271
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[274
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
