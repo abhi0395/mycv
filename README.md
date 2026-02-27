@@ -280,8 +280,8 @@ Indian college students plan their careers.
 
 ## Publications
 
-Total: 45 / refereed: 26 / first author: 5 / citations: 5,089 / h-index:
-19 (Last updated: 2026-02-26), List attached below
+Total: 46 / refereed: 26 / first author: 5 / citations: 5,089 / h-index:
+19 (Last updated: 2026-02-27), List attached below
 
 ### First-author publications
 
@@ -404,6 +404,11 @@ Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
 in the 3-Point Correlation Function of DESI DR1 Luminous Red
 Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
 arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
+
+Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
+Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, A Path to an
+All-Sky Survey with Roman, ArXiv, arXiv:2602.21280
+([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
 
 Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
 Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
@@ -588,7 +593,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1395
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1394
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -620,7 +625,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[478
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[479
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
