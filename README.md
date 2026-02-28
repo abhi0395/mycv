@@ -240,6 +240,7 @@ Referee —
 Internal Reviewer for DESI papers (2023-)
 
 Member & Organizer—  
+– Core committee member, IUCAA Computing Facilities, (2026–27)  
 – Core committee member, [DESI Professional Development
 Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
 (2024–25), contributed to early-career support and mentoring
@@ -272,6 +273,10 @@ astronomers.
 [interview](https://theinterviewportal.com/2020/03/13/astrophysicist-interview-8/)
 to [The Interview Portal](https://theinterviewportal.com/) to help
 Indian college students plan their careers.
+
+Public Presentations —  
+– Presented pedagogical and scientific posters for general public on
+National Science Day 2026, IUCAA, Pune, India.
 
 </div>
 
