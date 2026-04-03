@@ -23,18 +23,18 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 
 ## Research Interests
 
-Astrophysicist specializing in galaxy formation and evolution, the
+Astrophysicist studying galaxy formation and evolution through the
 circumgalactic and intergalactic medium, quasar absorption-line systems,
 and cosmology. My research combines large photometric and spectroscopic
-surveys (e.g., DESI, SDSS, 4MOST, WEAVE) with data-intensive
-computational methods to study cosmic gas flows, the baryon cycle, and
-metal enrichment in the Universe. I am also interested in connecting
-observations with state-of-the-art cosmological simulations (e.g., TNG,
-EAGLE) by comparing observed quantities with theoretical predictions and
-testing simulation-based predictions directly against survey data. My
-long-term vision is to build an independent research program at the
-intersection of next-generation surveys, advanced computational methods,
-and the physics of galaxy evolution.
+surveys, including DESI, SDSS, 4MOST, and WEAVE, with data-intensive
+computational methods to investigate gas flows, the baryon cycle, and
+the evolution of metals in the Universe. I am also interested in using
+cosmological simulations such as IllustrisTNG and EAGLE to interpret
+survey results and test theoretical predictions against observations. In
+parallel, I develop community software tools for current and future
+spectroscopic surveys. My long-term goal is to lead an independent
+research program at the intersection of next-generation surveys,
+scalable computation, and galaxy evolution physics.
 
 ## Professional Experience
 
@@ -46,14 +46,15 @@ India
 Feb 2026 - present: Affiliate Scientist, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
-- *Leading independent projects on characterizing the global statistical
-  properties of metals and their evolution in the Universe.*
+- *Leading independent projects on the global statistical properties of
+  metals in the Universe and on the physical properties of gas in and
+  around galaxies, using observations from MUSE, SDSS, and DESI.*
 
-- *Exploring physical properties of gas in and around galaxies using MHD
-  simulations and observations from MUSE, SDSS and DESI.*
+- *Developing community software for scalable analysis of large volumes
+  of astronomical spectra from modern spectroscopic surveys.*
 
-- *Builder and support scientist for the DESI’s redshift fitter
-  pipeline.*
+- *Builder in DESI collaboration and core contributor to the DESI
+  redshift-fitting pipeline.*
 
 Sep 2022 - Oct 2025: Postdoctoral Fellow, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
@@ -128,6 +129,12 @@ Science, Bangalore, India.
 
 <div class="list">
 
+<sup><em>c</em></sup> May 2026: *ASI Annual Meeting*, Indian Institute of Technology,
+Guwahati, India, May 15 - May 19, 2026 (*Talk*)
+
+<sup><em>i</em></sup> Apr 2026: *Visitor*, Indian Institute of Astrophysics, Bangalore,
+India, Apr 2 - Apr 6, 2026 (*Talk*)
+
 <sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
 India, June 23, 2025 (*Virtual*)
 
@@ -172,8 +179,11 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 
 <div class="list">
 
-– Paryag Sharma (CUHP PhD): project on exploring CGM of quasars and AGNs
-using SDSS and DESI (manuscript in prep.), (2026 - present).
+– Paryag Sharma (CUHP PhD): Studying CGM of quasars and AGNs using SDSS
+and DESI (manuscript in prep.), (2026 - present).
+
+– Sumukha Bharadwaj (IIST PhD): Exploring CGM of low redshift galaxies
+using SDSS, DESI and HST (manuscript in prep.), (2026 - present).
 
 – Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
 simulations (manuscript in prep.), (2025 - present).
@@ -224,6 +234,8 @@ Tools & Workflows —
 Open-source Contributions —  
 – [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
 absorber finder (*sole Developer*)  
+– [nmfqsofit](https://github.com/abhi0395/nmfqsofit): Quasar continuum
+fitt (*sole Developer*)  
 – [redrock](https://github.com/desihub/redrock): Redshift fitter for
 DESI (*Main Contributor*).  
 – [desispec](https://github.com/desihub/desispec): DESI spectroscopic
@@ -240,10 +252,10 @@ Referee —
 Internal Reviewer for DESI papers (2023-)
 
 Member & Organizer—  
-– Core committee member, IUCAA Computing Facilities, (2026–27)  
+– Core committee member, IUCAA Computing Facilities, (2026–-27)  
 – Core committee member, [DESI Professional Development
 Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
-(2024–25), contributed to early-career support and mentoring
+(2024–-25), contributed to early-career support and mentoring
 initiatives.  
 –Organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL (2023-2024).  
