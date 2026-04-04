@@ -129,11 +129,11 @@ Science, Bangalore, India.
 
 <div class="list">
 
-<sup><em>c</em></sup> May 2026: *ASI Annual Meeting*, Indian Institute of Technology,
-Guwahati, India, May 15 - May 19, 2026 (*Talk*)
+<sup><em>c</em></sup> May 2026: *ASI Annual Meeting*, IIT Guwahati, India, May 15 - May
+19, 2026 (*Talk*)
 
 <sup><em>i</em></sup> Apr 2026: *Visitor*, Indian Institute of Astrophysics, Bangalore,
-India, Apr 2 - Apr 6, 2026 (*Talk*)
+India, Apr 2 - Apr 6, 2026
 
 <sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
 India, June 23, 2025 (*Virtual*)
@@ -199,7 +199,7 @@ simulations (manuscript in prep.), (2025 - present).
 
 – [DESI Builder Award
 (2025)](https://www.desi.lbl.gov/collaboration/desi-builders/) *for
-outstanding contributions to the data systems operations.*
+outstanding contributions to the data systems and survey operations.*
 
 – Core member of the DESI Data Team; the DESI Collaboration awarded the
 2026 [Berkeley
@@ -210,7 +210,7 @@ of American Astronomical Society.
 
 – [IMPRS PhD
 Fellowship](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
-2018–2022.
+2018-2022.
 
 – University Grants Commission - Junior Research Fellowship of Govt. of
 India, 2017-2018.
@@ -235,7 +235,7 @@ Open-source Contributions —
 – [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
 absorber finder (*sole Developer*)  
 – [nmfqsofit](https://github.com/abhi0395/nmfqsofit): Quasar continuum
-fitt (*sole Developer*)  
+fitter (*sole Developer*)  
 – [redrock](https://github.com/desihub/redrock): Redshift fitter for
 DESI (*Main Contributor*).  
 – [desispec](https://github.com/desihub/desispec): DESI spectroscopic
@@ -248,14 +248,14 @@ pipeline(*Contributor*).
 <div class="list">
 
 Referee —  
-– Astronomy & Astrophysics (2023-), Astrophysical Journal (2023-),
-Internal Reviewer for DESI papers (2023-)
+– Nature Astronomy (2026-)Astronomy & Astrophysics (2023-),
+Astrophysical Journal (2023-), Internal Reviewer for DESI papers (2023-)
 
 Member & Organizer—  
-– Core committee member, IUCAA Computing Facilities, (2026–-27)  
+– Core committee member, IUCAA Computing Facilities, (2026-27)  
 – Core committee member, [DESI Professional Development
 Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
-(2024–-25), contributed to early-career support and mentoring
+(2024-25), contributed to early-career support and mentoring
 initiatives.  
 –Organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
 Division, LBNL (2023-2024).  
