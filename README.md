@@ -197,6 +197,8 @@ simulations (manuscript in prep.), (2025 - present).
 
 <div class="list">
 
+– IUCAA Independent Postdoctoral Fellowship (2025-2027).
+
 – [DESI Builder Award
 (2025)](https://www.desi.lbl.gov/collaboration/desi-builders/) *for
 outstanding contributions to the data systems and survey operations.*
@@ -225,11 +227,12 @@ Scholarship, 2012-2017.
 <div class="list">
 
 Programming Language —  
-– Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash, SQL —
-with focus on high-performance, large-scale survey pipelines.
+– Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash - with
+focus on high-performance computing and large-scale survey pipelines.
 
 Tools & Workflows —  
-– Git, Jupyter, slurm (NERSC), LaTeX, Unix/Linux
+– Git, Jupyter, slurm ([NERSC](https://www.nersc.gov/)), LaTeX,
+Unix/Linux, CI/CD pipelines.
 
 Open-source Contributions —  
 – [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
@@ -248,7 +251,7 @@ pipeline(*Contributor*).
 <div class="list">
 
 Referee —  
-– Nature Astronomy (2026-)Astronomy & Astrophysics (2023-),
+– Nature Astronomy (2026-), Astronomy & Astrophysics (2023-),
 Astrophysical Journal (2023-), Internal Reviewer for DESI papers (2023-)
 
 Member & Organizer—  
