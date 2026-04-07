@@ -297,8 +297,8 @@ National Science Day 2026, IUCAA, Pune, India.
 
 ## Publications
 
-Total: 46 / refereed: 27 / first author: 5 / citations: 5,480 / h-index:
-19 (Last updated: 2026-04-06), List attached below
+Total: 45 / refereed: 27 / first author: 5 / citations: 5,476 / h-index:
+19 (Last updated: 2026-04-07), List attached below
 
 ### First-author publications
 
@@ -517,13 +517,6 @@ Ly{\ensuremath{\alpha}} BAO](http://dx.doi.org/10.1103/wxyv-46kb)*,
 Physical Review D, **112**, 083510
 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3510B)\]
-
-Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
-*et al.* (incl. **A. Anand**), 2025, *[H{\_}0 Without the Sound
-Horizon (or Supernovae): A 2% Measurement in DESI
-DR1](http://dx.doi.org/10.48550/arXiv.2510.19149)*, ArXiv,
-arXiv:2510.19149 ([arXiv:2510.19149](http://arxiv.org/abs/2510.19149))
-\[[4 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251019149Z)\]
 
 Rashkovetskyi, Michael; Eisenstein, Daniel J.; Aguilar, Jessica Nicole;
 Ahlen, Steven; **Anand, Abhijeet**; *et al.*, 2025, *[Clustering of DESI
