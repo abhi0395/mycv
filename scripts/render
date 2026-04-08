@@ -114,6 +114,16 @@ if __name__ == "__main__":
 
     assert ntotal==len(first) + len(significant) + len(collaboration)
 
+    # Per-subsection citation totals (computed before format_pub transforms the lists)
+    first_cites = sum(p["citations"] for p in first)
+    significant_cites = sum(p["citations"] for p in significant)
+    collaboration_cites = sum(p["citations"] for p in collaboration)
+
+    with open("tex/pub_cites.tex", "w") as f:
+        f.write("\\def\\firstcites{{{0}}}\n".format(first_cites))
+        f.write("\\def\\sigcites{{{0}}}\n".format(significant_cites))
+        f.write("\\def\\collabcites{{{0}}}\n".format(collaboration_cites))
+
     nfirst = sum(1 for p in pubs if "Anand, A" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
