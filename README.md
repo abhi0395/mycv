@@ -317,7 +317,7 @@ National Science Day 2026, IUCAA, Pune, India.
 Total: 46 / refereed: 28 / first author: 5 / citations: 5,486 / h-index:
 19 (Last updated: 2026-04-08), List attached below
 
-### First-author publications
+### First-author publications (citations: 129)
 
 <div class="list">
 
@@ -362,7 +362,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Significant contributions
+### Significant contributions (citations: 80)
 
 <div class="list">
 
@@ -420,7 +420,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration Papers
+### Collaboration Papers (citations: 5277)
 
 <div class="list">
 
