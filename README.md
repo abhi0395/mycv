@@ -57,7 +57,8 @@ Berkeley, CA, USA
   (fast, robust quasar continuum fitting).*
 
 - *[DESI Builder](https://www.desi.lbl.gov/collaboration/desi-builders/)
-  and core contributor to the DESI redshift-fitting pipeline.*
+  and core contributor to the DESI redshift-fitting pipeline
+  [redrock](https://github.com/desihub/redrock).*
 
 Sep 2022 - Oct 2025: Postdoctoral Fellow, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
@@ -78,23 +79,25 @@ Lab, Berkeley, CA, USA
 - *Contributed to DESI collaboration papers and initiated and reviewed
   independent science projects within and beyond the collaboration.*
 
-Sep 2018 - Jul 2022: PhD Fellow, Max Planck Institute for Astrophysics,
-Garching, Germany
+Sep 2018 - Jul 2022: [IMPRS[^1] PhD
+Fellow](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
+Max Planck Institute for Astrophysics, Garching, Germany
 
-- *Used SDSS spectroscopy and Dark Energy Survey Legacy Imaging data to
-  study the nature and origin of cool metal-enriched gas in low-redshift
-  galaxy clusters, and how it differs from gas around field galaxies.*
+- *Studied the nature and origin of cool metal-enriched gas in
+  low-redshift galaxy clusters, and how it differs from gas around field
+  galaxies using SDSS spectroscopy and Dark Energy Survey Legacy Imaging
+  data.*
 
-- *Used SDSS quasar absorption-line systems and galaxy samples,
-  including LRGs and ELGs, to study the abundance and properties of
-  circumgalactic gas around star-forming and passive galaxies.*
+- *Characterized the abundance and nature of circumgalactic gas around
+  star-forming and passive galaxies using SDSS quasar absorption-line
+  systems and galaxy samples.*
 
 - *Developed the first version of
   [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool for
   detecting and analyzing metal absorbers in low-resolution quasar
   spectra.*
 
-Sep 2017 - Jul 2018: UGC - JRF[^1], National Institute of Advanced
+Sep 2017 - Jul 2018: UGC - JRF[^2], National Institute of Advanced
 Studies, Bangalore, India
 
 </div>
@@ -267,6 +270,7 @@ Referee —
 Astrophysical Journal (2023-), Internal Reviewer for DESI papers (2023-)
 
 Member & Organizer—  
+– Continuing Participant, DESI Collaboration, (2026-present)  
 – Core committee member, IUCAA Computing Facilities, (2026-27)  
 – Core committee member, [DESI Professional Development
 Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
@@ -276,7 +280,7 @@ initiatives.
 Division, LBNL (2023-2024).  
 
 Teaching Experience —  
-– Served as online physics tutor at E-acharya (\>20 students)[^2] from
+– Served as online physics tutor at E-acharya (\>20 students)[^3] from
 June 2017 to Aug 2018.  
 
 </div>
@@ -678,8 +682,10 @@ arXiv:2306.11784 ([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
 
 </div>
 
-[^1]: University Grants Commission, Govt. of India - Junior Research
+[^1]: International Max Planck Research School on Astrophysics
+
+[^2]: University Grants Commission, Govt. of India - Junior Research
     Fellowship
 
-[^2]: an initiative to help poor students in suburban and rural areas of
+[^3]: an initiative to help poor students in suburban and rural areas of
     Bihar, India.
