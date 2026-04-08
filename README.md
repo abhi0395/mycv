@@ -106,8 +106,8 @@ Studies, Bangalore, India
 
 <div class="list">
 
-Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University -
-Max Planck Institute for Astrophysics (MPA), Germany.
+Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University –
+Max Planck Institute for Astrophysics (MPA), Germany (*magna cum laude*)
 
 - Thesis: [Probing cool and warm circumgalactic gas in galaxies and
   clusters with large spectroscopic and imaging
@@ -118,7 +118,7 @@ Max Planck Institute for Astrophysics (MPA), Germany.
   Dylan Nelson](https://www.ita.uni-heidelberg.de/~dnelson/)
 
 Jul 2016 - Jul 2017: MS, Physics, Indian Institute of Science (IISc),
-Bangalore, India.
+Bangalore, India (*Grade: 7.0/8*).
 
 - Thesis: [A sensitive search for HI 21 cm emission from super disks in
   radio
@@ -128,7 +128,7 @@ Bangalore, India.
   Roy](http://www.physics.iisc.ernet.in/%7Enroy/)
 
 Aug 2012 - June 2016: BSc (Research), Physics, Indian Institute of
-Science, Bangalore, India.
+Science, Bangalore, India (*Grade: 6.6/8*).
 
 - Thesis: [Sources of Continuum Opacity in Hydrogen deficient
   stars](https://raw.githubusercontent.com/abhi0395/mycv/main/files/BS_thesis.pdf)
@@ -272,6 +272,7 @@ Astrophysical Journal (2023-), Internal Reviewer for DESI papers (2023-)
 Member & Organizer—  
 – Continuing Participant, DESI Collaboration, (2026-present)  
 – Core committee member, IUCAA Computing Facilities, (2026-27)  
+– Co-Investigator, NANCY[^3] Survey on Roman Telescope, (2024-present)  
 – Core committee member, [DESI Professional Development
 Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
 (2024-25), contributed to early-career support and mentoring
@@ -280,7 +281,7 @@ initiatives.
 Division, LBNL (2023-2024).  
 
 Teaching Experience —  
-– Served as online physics tutor at E-acharya (\>20 students)[^3] from
+– Served as online physics tutor at E-acharya (\>20 students)[^4] from
 June 2017 to Aug 2018.  
 
 </div>
@@ -687,5 +688,7 @@ arXiv:2306.11784 ([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
 [^2]: University Grants Commission, Govt. of India - Junior Research
     Fellowship
 
-[^3]: an initiative to help poor students in suburban and rural areas of
+[^3]: Next-generation All-sky Near-infrared Community surveY
+
+[^4]: an initiative to help poor students in suburban and rural areas of
     Bihar, India.
