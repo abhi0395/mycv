@@ -46,39 +46,51 @@ India
 Feb 2026 - present: Affiliate Scientist, Lawrence Berkeley National Lab,
 Berkeley, CA, USA  
 
-- *Leading independent projects on the global statistical properties of
-  metals in the Universe and on the physical properties of gas in and
-  around galaxies, using observations from MUSE, SDSS, and DESI.*
+- *Leading independent projects on the statistical properties of metals
+  in the Universe and the physical state of gas in and around galaxies,
+  using observations from MUSE, SDSS, and DESI.*
 
-- *Developing community software for scalable analysis of large volumes
-  of astronomical spectra from modern spectroscopic surveys.*
+- *Developing community software for scalable analysis of current and
+  future large spectroscopic survey data, including
+  [qsoabsfind](https://github.com/abhi0395/qsoabsfind) (metal absorber
+  detection) and [nmfqsofit](https://github.com/abhi0395/nmfqsofit)
+  (fast, robust quasar continuum fitting).*
 
-- *Builder in DESI collaboration and core contributor to the DESI
-  redshift-fitting pipeline.*
+- *[DESI Builder](https://www.desi.lbl.gov/collaboration/desi-builders/)
+  and core contributor to the DESI redshift-fitting pipeline.*
 
 Sep 2022 - Oct 2025: Postdoctoral Fellow, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
 - *Led independent projects on metal absorbers in and around galaxies
-  using DESI, producing the largest metal absorber catalogs.*
+  using DESI, constructing one of the largest metal [absorber
+  catalogs](https://abhi0395.github.io/sdssmgii/) and deriving some of
+  the tightest constraints to date on the cosmic mass density of carbon
+  absorbers and its evolution with redshift.*
 
-- *Developer and support scientist for the DESI’s spectral reduction
-  pipeline; improved redshift estimation algorithms, reducing
-  catastrophic failures by ∼30%.*
+- *Developer and support scientist for the DESI spectral reduction
+  pipeline ([desispec](https://github.com/desihub/desispec)); developed
+  a new hybrid archetype+PCA method in
+  [redrock](https://github.com/desihub/redrock) for fitting galaxy
+  spectra with synthetic templates, leading to more robust redshift
+  measurements and a ∼30% reduction in catastrophic failures.*
 
-- *Contributed to high-impact DESI collaboration papers, while also
-  initiating and reviewing independent science projects within and
-  outside the collaboration.*
+- *Contributed to DESI collaboration papers and initiated and reviewed
+  independent science projects within and beyond the collaboration.*
 
 Sep 2018 - Jul 2022: PhD Fellow, Max Planck Institute for Astrophysics,
 Garching, Germany
 
-- *Conducted extensive studies on the gas distribution in the
-  circumgalactic and intracluster medium using data from SDSS and the
-  legacy imaging survey.*
+- *Used SDSS spectroscopy and Dark Energy Survey Legacy Imaging data to
+  study the nature and origin of cool metal-enriched gas in low-redshift
+  galaxy clusters, and how it differs from gas around field galaxies.*
 
-- *Developed the quasar absorber finder,
-  [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool used for
+- *Used SDSS quasar absorption-line systems and galaxy samples,
+  including LRGs and ELGs, to study the abundance and properties of
+  circumgalactic gas around star-forming and passive galaxies.*
+
+- *Developed the first version of
+  [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool for
   detecting and analyzing metal absorbers in low-resolution quasar
   spectra.*
 
