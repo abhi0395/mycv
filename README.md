@@ -147,11 +147,11 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 <sup><em>c</em></sup> May 2026: *ASI Annual Meeting*, IIT Guwahati, India, May 15 - May
 19, 2026 (*Talk*)
 
-<sup><em>i</em></sup> Apr 2026: *Visitor*, Indian Institute of Astrophysics, Bangalore,
-India, Apr 2 - Apr 6, 2026
+<sup><em>i</em></sup> Apr 2026: *Galaxy Formation and Evolution Group*, Indian Institute
+of Astrophysics, Bangalore, India, Apr 2 - Apr 6, 2026 (*Visitor*)
 
-<sup><em>i</em></sup> Apr 2026: *Participant*, Bi-Annual PMCAP Meeting, NCRA Pune, India,
-Mar 27 - Mar 28, 2026
+<sup><em>i</em></sup> Apr 2026: *Bi-Annual PMCAP Meeting*, NCRA Pune, India, Mar 27 - Mar
+28, 2026 (*Participant*)
 
 <sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
 India, June 23, 2025 (*Virtual*)
