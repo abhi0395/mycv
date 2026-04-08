@@ -150,6 +150,9 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 <sup><em>i</em></sup> Apr 2026: *Visitor*, Indian Institute of Astrophysics, Bangalore,
 India, Apr 2 - Apr 6, 2026
 
+<sup><em>i</em></sup> Apr 2026: *Participant*, Bi-Annual PMCAP Meeting, NCRA Pune, India,
+Mar 27 - Mar 28, 2026
+
 <sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
 India, June 23, 2025 (*Virtual*)
 
@@ -314,7 +317,7 @@ National Science Day 2026, IUCAA, Pune, India.
 
 ## Publications
 
-Total: 46 / refereed: 28 / first author: 5 / citations: 5,486 / h-index:
+Total: 47 / refereed: 28 / first author: 5 / citations: 5,486 / h-index:
 19 (Last updated: 2026-04-08), List attached below
 
 ### First-author publications (citations: 129)
@@ -431,6 +434,11 @@ DR1](http://dx.doi.org/10.1088/1475-7516/2026/04/004)*, Journal of
 Cosmology and Astroparticle Physics, **2026**, 004
 ([arXiv:2510.19149](http://arxiv.org/abs/2510.19149)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...04..004Z)\]
+
+Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
+S.; *et al.*, 2026, Deep Spectroscopy with DESI for Photometric Redshift
+Training and Calibration, ArXiv, arXiv:2604.06143
+([arXiv:2604.06143](http://arxiv.org/abs/2604.06143))
 
 Ebina, H.; White, M.; Raichoor, A.; Dey, Arjun; Schlegel, D.;
 *et al.* (incl. **A. Anand**), 2026, *[Clustering analysis of
