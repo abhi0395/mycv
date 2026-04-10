@@ -317,8 +317,8 @@ National Science Day 2026, IUCAA, Pune, India.
 
 ## Publications
 
-Total: 47 / refereed: 28 / first author: 5 / citations: 5,486 / h-index:
-19 (Last updated: 2026-04-09), List attached below
+Total: 47 / refereed: 28 / first author: 5 / citations: 5,488 / h-index:
+19 (Last updated: 2026-04-10), List attached below
 
 ### First-author publications (citations: 129)
 
@@ -423,7 +423,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration Papers (citations: 5277)
+### Collaboration Papers (citations: 5279)
 
 <div class="list">
 
@@ -671,7 +671,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[497
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[498
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -679,7 +679,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[276
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[277
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
