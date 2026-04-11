@@ -35,7 +35,7 @@ def format_pub(args):
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:5])
         fmt += "; \\etal"
-        if nauth >= 6:
+        if nauth >= 5:
             fmt += "\\ (incl.\\ \\textbf{A. Anand})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])

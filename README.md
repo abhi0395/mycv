@@ -11,9 +11,7 @@ I have made some modifications to include my one-page resume as well.
 
 <hr>
 
-## Abhijeet Anand, PhD
-
-  
+**Abhijeet Anand, PhD**  
 Independent Postdoctoral Fellow  
 Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune,
 India  
@@ -39,6 +37,8 @@ scalable computation, and galaxy evolution physics.
 ## Professional Experience
 
 <div class="list">
+
+=0ex =0.2ex
 
 Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune,
 India  
@@ -74,7 +74,7 @@ Lab, Berkeley, CA, USA
   a new hybrid archetype+PCA method in
   [redrock](https://github.com/desihub/redrock) for fitting galaxy
   spectra with synthetic templates, leading to more robust redshift
-  measurements and a ∼30% reduction in catastrophic failures.*
+  measurements and a $\sim30\%$ reduction in catastrophic failures.*
 
 - *Contributed to DESI collaboration papers and initiated and reviewed
   independent science projects within and beyond the collaboration.*
@@ -105,6 +105,8 @@ Studies, Bangalore, India
 ## Education
 
 <div class="list">
+
+=0ex =0.2ex
 
 Sep 2018 - Jul 2022: PhD in Astrophysics, Ludwig Maximilian University –
 Max Planck Institute for Astrophysics (MPA), Germany (*magna cum laude*)
@@ -140,55 +142,57 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 
 ## Selected visits, talks and conferences
 
-<sup><em>i</em></sup>*Invited Talks*, <sup><em>c</em></sup>*Contributed Talks*, <sup><em>s</em></sup>*Schools & Workshops*
+$^i$*Invited Talks*, $^c$*Contributed Talks*, $^s$*Schools & Workshops*
 
 <div class="list">
 
-<sup><em>c</em></sup> May 2026: *ASI Annual Meeting*, IIT Guwahati, India, May 15 - May
+=0ex =0.2ex
+
+$^c$ May 2026: *ASI Annual Meeting*, IIT Guwahati, India, May 15 - May
 19, 2026 (*Talk*)
 
-<sup><em>i</em></sup> Apr 2026: *Galaxy Formation and Evolution Group*, Indian Institute
+$^i$ Apr 2026: *Galaxy Formation and Evolution Group*, Indian Institute
 of Astrophysics, Bangalore, India, Apr 2 - Apr 6, 2026 (*Visitor*)
 
-<sup><em>i</em></sup> Apr 2026: *Bi-Annual PMCAP Meeting*, NCRA Pune, India, Mar 27 - Mar
+$^i$ Apr 2026: *Bi-Annual PMCAP Meeting*, NCRA Pune, India, Mar 27 - Mar
 28, 2026 (*Participant*)
 
-<sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
+$^i$ June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
 India, June 23, 2025 (*Virtual*)
 
-<sup><em>i</em></sup> May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
+$^i$ May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
 USA, May 20, 2025 (*talk*)
 
-<sup><em>i</em></sup> Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
+$^i$ Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
 India, Dec 11, 2024 (*talk*)
 
-<sup><em>c</em></sup> Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
+$^c$ Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
 Dec 2 - Dec 6, 2024 (*talk*)
 
-<sup><em>c</em></sup> Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
+$^c$ Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
 20 - Nov 22, 2024 (*talk*)
 
-<sup><em>i</em></sup> Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
+$^i$ Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
 2024 (*talk*).
 
-<sup><em>i</em></sup> Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
+$^i$ Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
 (*talk*).
 
-<sup><em>i</em></sup> Mar 2022: *[Computational Galaxy Formation and Evolution
+$^i$ Mar 2022: *[Computational Galaxy Formation and Evolution
 Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
 University of Heidelberg, 14-16 Mar 2022 (*Visitor*).
 
-<sup><em>i</em></sup> Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
+$^i$ Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
 (*Virtual*).
 
-<sup><em>i</em></sup> Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
+$^i$ Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
 (*Virtual*).
 
-<sup><em>i</em></sup> Dec 2021: *[Galaxies & Cosmology
+$^i$ Dec 2021: *[Galaxies & Cosmology
 Seminar](https://pweb.cfa.harvard.edu/calendar/event/9298)*, CfA
 Harvard, 13 Dec, 2021 (*Virtual*).
 
-<sup><em>i</em></sup> Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
+$^i$ Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
 (*Virtual*).
 
 </div>
@@ -196,6 +200,8 @@ Harvard, 13 Dec, 2021 (*Virtual*).
 ## Mentoring
 
 <div class="list">
+
+=0ex =0.2ex
 
 – Paryag Sharma (CUHP PhD): Studying CGM of quasars and AGNs using SDSS
 and DESI (manuscript in prep.), (2026 - present).
@@ -214,6 +220,8 @@ simulations (manuscript in prep.), (2025 - present).
 ## Honors & Awards
 
 <div class="list">
+
+=0ex =0.2ex
 
 – IUCAA Independent Postdoctoral Fellowship (2025-2027).
 
@@ -244,6 +252,8 @@ Scholarship, 2012-2017.
 
 <div class="list">
 
+=0ex =0.2ex
+
 Programming Language —  
 – Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash - with
 focus on high-performance computing and large-scale survey pipelines.
@@ -267,6 +277,8 @@ pipeline(*Contributor*).
 ## Professional services & activities
 
 <div class="list">
+
+=0ex =0.2ex
 
 Referee —  
 – Nature Astronomy (2026-), Astronomy & Astrophysics (2023-),
@@ -292,6 +304,8 @@ June 2017 to Aug 2018.
 ## Outreach activities
 
 <div class="list">
+
+=0ex =0.2ex
 
 Press releases —  
 – My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
@@ -323,6 +337,8 @@ Total: 47 / refereed: 28 / first author: 5 / citations: 5,533 / h-index:
 ### First-author publications (citations: 129)
 
 <div class="list">
+
+=0ex =0.2ex
 
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
 A.; *et al.*, 2025, *[The Cosmic Evolution of C IV Absorbers at 1.4 \< z
@@ -368,6 +384,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 ### Significant contributions (citations: 80)
 
 <div class="list">
+
+=0ex =0.2ex
 
 Napolitano, Lucas; Myers, Adam D.; Tedeschi, Adam; **Anand, Abhijeet**;
 Herrera-Alcantar, Hiram K.; *et al.*, 2025, *[The Composite Spectrum of
@@ -426,6 +444,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 ### Collaboration Papers (citations: 5324)
 
 <div class="list">
+
+=0ex =0.2ex
 
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
 *et al.* (incl. **A. Anand**), 2026, *[H \<SUB\>0\</SUB\> without the
@@ -487,7 +507,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215962L)\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
-Lyman-\alpha forest from LBGs: First 3D correlation measurement with
+Lyman-$\alpha$ forest from LBGs: First 3D correlation measurement with
 DESI and prospects for
 cosmology](http://dx.doi.org/10.1088/1475-7516/2025/12/053)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 053
@@ -517,7 +537,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251101803M)\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
-of local environment on Ly{\ensuremath{\alpha}} line profile in
+of local environment on Ly${\ensuremath{\alpha}}$ line profile in
 DESI/ODIN LAEs](http://dx.doi.org/10.48550/arXiv.2511.17498)*, ArXiv,
 arXiv:2511.17498 ([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
 \[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U)\]
@@ -546,8 +566,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
 *et al.* (incl. **A. Anand**), 2025, *[Construction of the damped
-Ly{\ensuremath{\alpha}} absorber catalog for DESI DR2
-Ly{\ensuremath{\alpha}} BAO](http://dx.doi.org/10.1103/wxyv-46kb)*,
+Ly${\ensuremath{\alpha}}$ absorber catalog for DESI DR2
+Ly${\ensuremath{\alpha}}$ BAO](http://dx.doi.org/10.1103/wxyv-46kb)*,
 Physical Review D, **112**, 083510
 ([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3510B)\]
@@ -576,7 +596,7 @@ arXiv:2509.20434 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434))
 
 Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
 César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
-Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
+Ly${\ensuremath{\alpha}}$ forest: 3D full-shape analysis and
 cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
 ([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[14
@@ -584,14 +604,14 @@ citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
 
 Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
 *et al.*, 2025, *[Probing the limits of cosmological information from
-the Lyman-{\ensuremath{\alpha}} forest 2-point correlation
+the Lyman-${\ensuremath{\alpha}}$ forest 2-point correlation
 functions](http://dx.doi.org/10.48550/arXiv.2509.14322)*, ArXiv,
 arXiv:2509.14322 ([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
 \[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250914322T)\]
 
 Karaçaylı, N. G.; Ravoux, C.; Martini, P.; Le Goff, J. M.; Armengaud,
 E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
-Ly{\ensuremath{\alpha}} 1D power spectrum: Validation of
+Ly${\ensuremath{\alpha}}$ 1D power spectrum: Validation of
 estimators](http://dx.doi.org/10.48550/arXiv.2509.13593)*, ArXiv,
 arXiv:2509.13593 ([arXiv:2509.13593](http://arxiv.org/abs/2509.13593))
 \[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250913593K)\]
