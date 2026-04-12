@@ -48,6 +48,7 @@ jobs:
       - name: Install tectonic
         uses: wtfjoke/setup-tectonic@v4
         with:
+          tectonic-version: 0.16.8
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Compile
         run: |
