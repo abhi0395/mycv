@@ -26,7 +26,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 I study galaxy formation and evolution through the circumgalactic and
 intergalactic medium, with particular emphasis on quasar absorption-line
 systems and the cosmic metal cycle. My research combines large
-spectroscopic surveys such as DESI, SDSS and 4MOST with scalable
+spectroscopic surveys such as DESI, SDSS, 4MOST and WEAVE with scalable
 computational methods to investigate galactic gas flows, cosmic baryon
 cycle, and the evolution of metals across cosmic time. I also use
 cosmological simulations, including IllustrisTNG and EAGLE, to connect
@@ -201,7 +201,7 @@ IUCAA Independent Postdoctoral Fellowship (2025–2027).
 Award](https://www.desi.lbl.gov/collaboration/desi-builders/) (2025) for
 outstanding contributions to DESI data systems and survey operations.
 
-Member of the DESI Collaboration, recognized as part of the DESI
+Member of the DESI Data Systems Team, recognized as part of the DESI
 Collaboration with the 2026 [Berkeley
 Prize](https://aas.org/press/desi-collaboration-receive-2026-berkeley-prize)
 of the American Astronomical Society.
@@ -289,7 +289,8 @@ initiatives
 Physics Division, Lawrence Berkeley National Laboratory (2023–2024)
 
 Collaboration and Community Activities —  
-– Continuing participant, DESI Collaboration (2026–present)  
+– Continuing participant, DESI Collaboration (2026–present, membership
+category recognizing substantial prior contributions)  
 – Co-Investigator, NANCY[^3] Survey on the Roman Space Telescope
 (2024–present)
 
