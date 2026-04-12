@@ -21,81 +21,78 @@ India
 *website:* <https://abhi0395.github.io/>, [Google
 Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>  
 
-## Research Interests
+## Research Summary
 
-Astrophysicist studying galaxy formation and evolution through the
-circumgalactic and intergalactic medium, quasar absorption-line systems,
-and cosmology. My research combines large photometric and spectroscopic
-surveys, including DESI, SDSS, 4MOST, and WEAVE, with data-intensive
-computational methods to investigate gas flows, the baryon cycle, and
-the evolution of metals in the Universe. I am also interested in using
-cosmological simulations such as IllustrisTNG and EAGLE to interpret
-survey results and test theoretical predictions against observations. In
-parallel, I develop community software tools for current and future
-spectroscopic surveys. My long-term goal is to lead an independent
-research program at the intersection of next-generation surveys,
-scalable computation, and galaxy evolution physics.
+I study galaxy formation and evolution through the circumgalactic and
+intergalactic medium, with particular emphasis on quasar absorption-line
+systems and the cosmic metal cycle. My research combines large
+spectroscopic surveys such as DESI, SDSS and 4MOST with scalable
+computational methods to investigate galactic gas flows, cosmic baryon
+cycle, and the evolution of metals across cosmic time. I also use
+cosmological simulations, including IllustrisTNG and EAGLE, to connect
+observations with the underlying physical processes that regulate galaxy
+growth. In parallel, I develop community software for robust analysis of
+current and future spectroscopic survey data.
 
 ## Professional Experience
 
 <div class="list">
 
-Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune,
-India  
+Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune, India;
+*Affiliate Scientist*, Lawrence Berkeley National Lab, Berkeley, CA, USA
+(from Feb 2026)  
 
-Feb 2026 - present: Affiliate Scientist, Lawrence Berkeley National Lab,
-Berkeley, CA, USA  
+- Leading an independent research program on the statistical properties
+  of metals in the Universe and the physical state of gas in and around
+  galaxies, using observations from SDSS and DESI.
 
-- *Leading independent projects on the statistical properties of metals
-  in the Universe and the physical state of gas in and around galaxies,
-  using observations from MUSE, SDSS, and DESI.*
+- Developing community software for scalable analysis of large
+  spectroscopic survey data, including
+  [qsoabsfind](https://github.com/abhi0395/qsoabsfind) for metal
+  absorber detection and
+  [nmfqsofit](https://github.com/abhi0395/nmfqsofit) for fast, robust
+  quasar continuum fitting.
 
-- *Developing community software for scalable analysis of current and
-  future large spectroscopic survey data, including
-  [qsoabsfind](https://github.com/abhi0395/qsoabsfind) (metal absorber
-  detection) and [nmfqsofit](https://github.com/abhi0395/nmfqsofit)
-  (fast, robust quasar continuum fitting).*
-
-- *[DESI Builder](https://www.desi.lbl.gov/collaboration/desi-builders/)
+- [DESI Builder](https://www.desi.lbl.gov/collaboration/desi-builders/)
   and core contributor to the DESI redshift-fitting pipeline
-  [redrock](https://github.com/desihub/redrock).*
+  [redrock](https://github.com/desihub/redrock).
 
 Sep 2022 - Oct 2025: Postdoctoral Fellow, Lawrence Berkeley National
 Lab, Berkeley, CA, USA  
 
-- *Led independent projects on metal absorbers in and around galaxies
-  using DESI, constructing one of the largest metal [absorber
-  catalogs](https://abhi0395.github.io/sdssmgii/) and deriving some of
-  the tightest constraints to date on the cosmic mass density of carbon
-  absorbers and its evolution with redshift.*
+- Led independent projects on metal absorbers in and around galaxies
+  using DESI, constructing one of the largest absorber catalogs from
+  quasar spectra and deriving some of the tightest constraints to date
+  on the cosmic mass density of C IV absorbers and its evolution with
+  redshift.
 
-- *Developer and support scientist for the DESI spectral reduction
+- Developer and support scientist for the DESI spectral reduction
   pipeline ([desispec](https://github.com/desihub/desispec)); developed
-  a new hybrid archetype+PCA method in
+  a hybrid archetype+PCA method in
   [redrock](https://github.com/desihub/redrock) for fitting galaxy
-  spectra with synthetic templates, leading to more robust redshift
-  measurements and a ∼30% reduction in catastrophic failures.*
+  spectra with synthetic templates, improving redshift measurements and
+  reducing catastrophic failures by ∼ 30%.
 
-- *Contributed to DESI collaboration papers and initiated and reviewed
-  independent science projects within and beyond the collaboration.*
+- Contributed to DESI collaboration papers and initiated and reviewed
+  independent science projects within and beyond the collaboration.
 
 Sep 2018 - Jul 2022: [IMPRS[^1] PhD
 Fellow](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
 Max Planck Institute for Astrophysics, Garching, Germany
 
-- *Studied the nature and origin of cool metal-enriched gas in
-  low-redshift galaxy clusters, and how it differs from gas around field
-  galaxies using SDSS spectroscopy and Dark Energy Survey Legacy Imaging
-  data.*
+- Studied the origin and distribution of cool metal-enriched gas in
+  low-redshift galaxy clusters, and compared its properties with gas
+  around field galaxies using SDSS spectroscopy and Dark Energy Survey
+  Legacy Imaging data.
 
-- *Characterized the abundance and nature of circumgalactic gas around
-  star-forming and passive galaxies using SDSS quasar absorption-line
-  systems and galaxy samples.*
+- Characterized the abundance, distribution, and nature of
+  circumgalactic gas around star-forming and passive galaxies using SDSS
+  quasar absorption-line systems and galaxy samples.
 
-- *Developed the first version of
+- Developed the first version of
   [qsoabsfind](https://github.com/abhi0395/qsoabsfind), a tool for
   detecting and analyzing metal absorbers in low-resolution quasar
-  spectra.*
+  spectra.
 
 Sep 2017 - Jul 2018: UGC - JRF[^2], National Institute of Advanced
 Studies, Bangalore, India
@@ -138,187 +135,205 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 
 </div>
 
-## Selected visits, talks and conferences
-
-<sup><em>i</em></sup>*Invited Talks*, <sup><em>c</em></sup>*Contributed Talks*, <sup><em>s</em></sup>*Schools & Workshops*
+## Selected Invited Talks and Research Visits
 
 <div class="list">
 
-<sup><em>c</em></sup> May 2026: *ASI Annual Meeting*, IIT Guwahati, India, May 15 - May
-19, 2026 (*Talk*)
+May 2026: *Department of Physics Seminar*, Presidency University,
+Kolkata, India — invited seminar
 
-<sup><em>i</em></sup> Apr 2026: *Galaxy Formation and Evolution Group*, Indian Institute
-of Astrophysics, Bangalore, India, Apr 2 - Apr 6, 2026 (*Visitor*)
+Apr 2026: *Galaxy Formation and Evolution Group*, Indian Institute of
+Astrophysics, Bangalore, India — research visit
 
-<sup><em>i</em></sup> Apr 2026: *Bi-Annual PMCAP Meeting*, NCRA Pune, India, Mar 27 - Mar
-28, 2026 (*Participant*)
+June 2025: *Astro Webinar*, Raman Research Institute, Bangalore, India —
+invited virtual seminar
 
-<sup><em>i</em></sup> June 2025: *Astro Webinar*, Raman Research Institute, Bangalore,
-India, June 23, 2025 (*Virtual*)
+May 2025: *Astro Lunch Seminar*, University of Washington, Seattle, USA
+— invited seminar
 
-<sup><em>i</em></sup> May 2025: *Astro Lunch seminar*, University of Washington, Seattle,
-USA, May 20, 2025 (*talk*)
+Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore, India —
+invited seminar
 
-<sup><em>i</em></sup> Dec 2024: *Joint Astronomy Program Seminar*, IISc, Bangalore,
-India, Dec 11, 2024 (*talk*)
+Feb 2024: *Extragalactic Seminar*, Max Planck Institute for
+Astrophysics, Garching, Germany — invited seminar
 
-<sup><em>c</em></sup> Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA Pune, India,
-Dec 2 - Dec 6, 2024 (*talk*)
+Feb 2024: *Cosmology Seminar*, Max Planck Institute for Astrophysics,
+Garching, Germany — invited seminar
 
-<sup><em>c</em></sup> Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, Nov
-20 - Nov 22, 2024 (*talk*)
+Mar 2022: *Computational Galaxy Formation and Evolution Group*, ZAH/ITA,
+University of Heidelberg, Heidelberg, Germany — research visit
 
-<sup><em>i</em></sup> Feb 2024: *Extragalactic Seminar*, MPA Garching, Germany, Feb 29,
-2024 (*talk*).
+Feb 2022: *High Energy Group Seminar*, Max Planck Institute for
+Extraterrestrial Physics, Garching, Germany — invited virtual seminar
 
-<sup><em>i</em></sup> Feb 2024: *Cosmology Seminar*, MPA Garching, Germany, Feb 27, 2024
-(*talk*).
+Feb 2022: *DESI Group Seminar*, Lawrence Berkeley National Laboratory,
+Berkeley, USA — invited virtual seminar
 
-<sup><em>i</em></sup> Mar 2022: *[Computational Galaxy Formation and Evolution
-Group](https://zah.uni-heidelberg.de/research-groups#c2659)*, ZAH/ITA,
-University of Heidelberg, 14-16 Mar 2022 (*Visitor*).
+Dec 2021: *Galaxies & Cosmology Seminar*, CfA Harvard, Cambridge, USA —
+invited virtual seminar
 
-<sup><em>i</em></sup> Feb 2022: *High Energy Group Seminar*, MPE Garching, 15 Feb, 2022
-(*Virtual*).
-
-<sup><em>i</em></sup> Feb 2022: *DESI Group Seminar*, Berkeley Lab, 1 Feb, 2022
-(*Virtual*).
-
-<sup><em>i</em></sup> Dec 2021: *[Galaxies & Cosmology
-Seminar](https://pweb.cfa.harvard.edu/calendar/event/9298)*, CfA
-Harvard, 13 Dec, 2021 (*Virtual*).
-
-<sup><em>i</em></sup> Sep 2021: *STARs lab*, Arizona State University, 24 Sep, 2021
-(*Virtual*).
+Sep 2021: *STARs Lab*, Arizona State University, USA — invited virtual
+seminar
 
 </div>
 
-## Mentoring
+## Selected Contributed Talks and Conferences
 
 <div class="list">
 
-– Paryag Sharma (CUHP PhD): Studying CGM of quasars and AGNs using SDSS
-and DESI (manuscript in prep.), (2026 - present).
+May 2026: *ASI Annual Meeting*, IIT Guwahati, India — contributed talk
 
-– Sumukha Bharadwaj (IIST PhD): Exploring CGM of low redshift galaxies
-using SDSS, DESI and HST (manuscript in prep.), (2026 - present).
+Dec 2024: *Baryons Beyond Galactic Boundaries*, IUCAA, Pune, India —
+contributed talk
 
-– Joanne Tan (MPA PhD): project on metal absorbers in TNG-100
-simulations (manuscript in prep.), (2025 - present).
-
-– Corey Dodeson (UC Berkeley UG) (short-term reading project on CGM),
-2023
+Nov 2024: *ISSAC Conference*, St. Stephen’s College, New Delhi, India —
+contributed talk
 
 </div>
 
-## Honors & Awards
+## Honors and Awards
 
 <div class="list">
 
-– IUCAA Independent Postdoctoral Fellowship (2025-2027).
+IUCAA Independent Postdoctoral Fellowship (2025–2027).
 
-– [DESI Builder Award
-(2025)](https://www.desi.lbl.gov/collaboration/desi-builders/) *for
-outstanding contributions to the data systems and survey operations.*
+[DESI Builder
+Award](https://www.desi.lbl.gov/collaboration/desi-builders/) (2025) for
+outstanding contributions to DESI data systems and survey operations.
 
-– Core member of the DESI Data Team; the DESI Collaboration awarded the
-2026 [Berkeley
+Member of the DESI Collaboration, recognized as part of the DESI
+Collaboration with the 2026 [Berkeley
 Prize](https://aas.org/press/desi-collaboration-receive-2026-berkeley-prize)
-of American Astronomical Society.
+of the American Astronomical Society.
 
-– DESI Early Career Travel Grant to attend conferences in 2024-2025.
+DESI Early Career Travel Grant (2024–2025).
 
-– [IMPRS PhD
-Fellowship](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html),
-2018-2022.
+[IMPRS PhD
+Fellowship](https://www.imprs-astro.mpg.de/content/student-class-2018-2021.html)
+(2018–2022).
 
-– University Grants Commission - Junior Research Fellowship of Govt. of
-India, 2017-2018.
+University Grants Commission Junior Research Fellowship, Government of
+India (2017–2018).
 
-– Department of Science & Technology, Govt. of India - Higher Studies
-Scholarship, 2012-2017.
-
-</div>
-
-## Programming skills
-
-<div class="list">
-
-Programming Language —  
-– Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash - with
-focus on high-performance computing and large-scale survey pipelines.
-
-Tools & Workflows —  
-– Git, Jupyter, slurm ([NERSC](https://www.nersc.gov/)), LaTeX,
-Unix/Linux, CI/CD pipelines.
-
-Open-source Contributions —  
-– [qsoabsfind](https://github.com/abhi0395/qsoabsfind): QSO metal
-absorber finder (*sole Developer*)  
-– [nmfqsofit](https://github.com/abhi0395/nmfqsofit): Quasar continuum
-fitter (*sole Developer*)  
-– [redrock](https://github.com/desihub/redrock): Redshift fitter for
-DESI (*Main Contributor*).  
-– [desispec](https://github.com/desihub/desispec): DESI spectroscopic
-pipeline(*Contributor*).
+Department of Science & Technology Higher Studies Scholarship,
+Government of India (2012–2017).
 
 </div>
 
-## Professional services & activities
+## Mentoring and Supervision
 
 <div class="list">
 
-Referee —  
-– Nature Astronomy (2026-), Astronomy & Astrophysics (2023-),
-Astrophysical Journal (2023-), Internal Reviewer for DESI papers (2023-)
+Paryag Sharma (PhD, Central University of Himachal Pradesh):
+Co-mentoring a project on the circumgalactic medium of quasars using
+SDSS and DESI data; manuscript in preparation (2026–present).
 
-Member & Organizer—  
-– Continuing Participant, DESI Collaboration, (2026-present)  
-– Core committee member, IUCAA Computing Facilities, (2026-27)  
-– Co-Investigator, NANCY[^3] Survey on Roman Telescope, (2024-present)  
+Sumukha Bharadwaj (PhD, Indian Institute of Space Science and
+Technology): Co-mentoring a project on the circumgalactic medium of
+low-redshift galaxies using SDSS, DESI, and HST data; manuscript in
+preparation (2026–present).
+
+Joanne Tan (PhD, Max Planck Institute for Astrophysics): Co-mentoring a
+project on metal absorbers in TNG100 simulations; manuscript in
+preparation (2025–present).
+
+Corey Dodeson (Undergraduate, UC Berkeley): Supervised a short-term
+reading project on the circumgalactic medium (2023).
+
+</div>
+
+## Software, Computation, and Survey Infrastructure
+
+<div class="list">
+
+Scientific Software Leadership —  
+– [qsoabsfind](https://github.com/abhi0395/qsoabsfind): metal absorber
+detection framework for low-resolution quasar spectra (*sole
+developer*)  
+– [nmfqsofit](https://github.com/abhi0395/nmfqsofit): fast, robust
+quasar continuum-fitting framework for large spectroscopic surveys
+(*sole developer*)
+
+Survey Pipeline Contributions —  
+– [redrock](https://github.com/desihub/redrock): major contributor to
+the DESI redshift-fitting pipeline  
+– [desispec](https://github.com/desihub/desispec): contributor to the
+DESI spectroscopic reduction pipeline
+
+Computational Tools and Workflows —  
+– Python (numpy, scipy, astropy, scikit-learn, matplotlib), bash;
+scalable analysis of large spectroscopic datasets and high-performance
+computing workflows  
+– Git, Jupyter, Slurm ([NERSC](https://www.nersc.gov/)), LaTeX,
+Unix/Linux, CI/CD workflows
+
+</div>
+
+## Professional Service and Academic Activities
+
+<div class="list">
+
+Refereeing —  
+– Nature Astronomy (2026–present)  
+– Astronomy & Astrophysics (2023–present)  
+– Astrophysical Journal (2023–present)  
+– Internal reviewer for DESI collaboration papers (2023–present)
+
+Leadership and Committee Service —  
+– Core committee member, IUCAA Computing Facilities (2026–2027)  
 – Core committee member, [DESI Professional Development
-Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee),
-(2024-25), contributed to early-career support and mentoring
-initiatives.  
-–Organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/), Physics
-Division, LBNL (2023-2024).  
+Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee)
+(2024–2025); contributed to early-career support and mentoring
+initiatives  
+– Organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/),
+Physics Division, Lawrence Berkeley National Laboratory (2023–2024)
 
-Teaching Experience —  
-– Served as online physics tutor at E-acharya (\>20 students)[^4] from
-June 2017 to Aug 2018.  
+Collaboration and Community Activities —  
+– Continuing participant, DESI Collaboration (2026–present)  
+– Co-Investigator, NANCY[^3] Survey on the Roman Space Telescope
+(2024–present)
 
 </div>
 
-## Outreach activities
+## Teaching Experience
 
 <div class="list">
 
-Press releases —  
-– My papers ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
-[II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) featured
-in the monthly research highlight of MPA and appeared on
-[astrobites](https://astrobites.org/2021/05/06/cool-metal-gas-search-thanks-it-was-automated/).
+Online physics tutor, E-acharya[^4]; taught more than 20 students from
+June 2017 to Aug 2018.
 
-Interviews & podcast —  
-– Interviewed by [Vidpeds
-podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) to discuss my
-astronomy journey and how people from small cities can become successful
-astronomers.  
-– Gave
+</div>
+
+## Outreach and Public Engagement
+
+<div class="list">
+
+Press and Research Highlights —  
+– Research featured in monthly highlights of the Max Planck Institute
+for Astrophysics ([I](https://www.mpa-garching.mpg.de/964620/hl202107),
+[II](https://www.mpa-garching.mpg.de/1066558/hl202211?c=27981)) and on
+[Astrobites](https://astrobites.org/2021/05/06/cool-metal-gas-search-thanks-it-was-automated/)
+
+Interviews and Public Communication —  
+– Interviewed on the [Vidpeds
+podcast](https://www.youtube.com/watch?v=WmA_PnYLeCg) about my journey
+in astronomy and pathways for students from small towns in India  
+– Featured in an
 [interview](https://theinterviewportal.com/2020/03/13/astrophysicist-interview-8/)
-to [The Interview Portal](https://theinterviewportal.com/) to help
-Indian college students plan their careers.
+with [The Interview Portal](https://theinterviewportal.com/) on careers
+in science and astronomy
 
 Public Presentations —  
-– Presented pedagogical and scientific posters for general public on
-National Science Day 2026, IUCAA, Pune, India.
+– Presented pedagogical and scientific posters for the general public on
+National Science Day 2026, IUCAA, Pune, India
 
 </div>
 
 ## Publications
 
-Total: 47 / refereed: 28 / first author: 5 / citations: 5,526 / h-index:
-19 (Last updated: 2026-04-12), List attached below
+Total publications: 47 / refereed: 28 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 35 / total
+citations: 5,550 / h-index: 19 (Last updated: 2026-04-12)
 
 ### First-author publications (citations: 129)
 
@@ -365,7 +380,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Significant contributions (citations: 80)
+### Selected significant contributions (citations: 80)
 
 <div class="list">
 
@@ -423,7 +438,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration Papers (citations: 5317)
+### Collaboration papers (citations: 5341)
 
 <div class="list">
 
@@ -534,7 +549,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[986
+\[[993
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -542,7 +557,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[188
+\[[191
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
@@ -565,7 +580,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 clustering from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/09/008)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 008
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[154
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[155
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 
 Treiber, Helena; Amon, Alexandra; Wechsler, Risa H.; Manwadkar, Viraj;
@@ -610,7 +625,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[279
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[281
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -626,7 +641,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 012
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[469
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[471
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 DESI Collaboration; Karim, M. Abdul; Adame, A. G.; Aguado, D.; Aguilar,
@@ -634,7 +649,7 @@ J.; *et al.* (incl. **A. Anand**), 2025, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.48550/arXiv.2503.14745)*, ArXiv,
 arXiv:2503.14745 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745))
-\[[373
+\[[374
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -642,7 +657,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1490
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1497
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -650,7 +665,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[344
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[345
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
@@ -701,5 +716,5 @@ arXiv:2306.11784 ([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
 
 [^3]: Next-generation All-sky Near-infrared Community surveY
 
-[^4]: an initiative to help poor students in suburban and rural areas of
+[^4]: An initiative to help students in suburban and rural areas of
     Bihar, India.
