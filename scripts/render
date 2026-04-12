@@ -130,8 +130,19 @@ if __name__ == "__main__":
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "Total: {1} / refereed: {2} / first author: {3} / citations: {4:,} / " "h-index: {5} (Last updated: {0}), List attached below"
-    ).format(date.today(), ntotal, nrefpapers, nfirst, ncitations, hindex)
+    "Total publications: {1} / refereed: {2} / first-author: {3} / "
+    "selected significant contributions: {4} / collaboration papers: {5} / "
+    "total citations: {6:,} / h-index: {7} (Last updated: {0})"
+    ).format(
+        date.today(),
+        ntotal,
+        nrefpapers,
+        nfirst,
+        len(significant),
+        len(collaboration),
+        ncitations,
+        hindex,
+    )
     with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
