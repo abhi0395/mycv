@@ -40,7 +40,7 @@ def remove_arxiv_duplicates(sorted_papers):
     for item in sorted_papers:
         title = item.get("title", "")
         normalized_title = normalize_title(title)
-        doi = item.get("doi", "")
+        doi = item.get("doi") or ""
 
         if normalized_title in title_dict:
             # If "arXiv" is in the current item's doi, add it to removed duplicates
