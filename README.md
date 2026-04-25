@@ -334,7 +334,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 30 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,628 / h-index: 19 (Last updated: 2026-04-24)
+citations: 5,634 / h-index: 19 (Last updated: 2026-04-25)
 
 ### First-author publications (citations: 133)
 
@@ -439,7 +439,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5412)
+### Collaboration papers (citations: 5418)
 
 <div class="list">
 
@@ -448,7 +448,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[386
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[387
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
@@ -566,7 +566,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1017
+\[[1021
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -635,7 +635,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[289
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[290
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
