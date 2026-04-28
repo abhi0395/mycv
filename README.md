@@ -334,7 +334,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 30 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,694 / h-index: 19 (Last updated: 2026-04-27)
+citations: 5,694 / h-index: 19 (Last updated: 2026-04-28)
 
 ### First-author publications (citations: 134)
 
@@ -451,12 +451,6 @@ Astronomical Journal, **171**, 285
 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[395
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 
-Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
-S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
-for Photometric Redshift Training and
-Calibration](http://dx.doi.org/10.48550/arXiv.2604.06143)*, ArXiv,
-arXiv:2604.06143 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143))
-
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
 *et al.* (incl. **A. Anand**), 2026, *[H \<SUB\>0\</SUB\> without the
 sound horizon (or supernovae): A 2% measurement in DESI
@@ -464,6 +458,12 @@ DR1](http://dx.doi.org/10.1088/1475-7516/2026/04/004)*, Journal of
 Cosmology and Astroparticle Physics, **2026**, 004
 ([arXiv:2510.19149](http://arxiv.org/abs/2510.19149)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...04..004Z)\]
+
+Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
+S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
+for Photometric Redshift Training and
+Calibration](http://dx.doi.org/10.48550/arXiv.2604.06143)*, ArXiv,
+arXiv:2604.06143 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143))
 
 Karaçaylı, Naim Göksel; Ravoux, Corentin; Martini, Paul; Goff, Jean-Marc
 Le; Armengaud, Eric; *et al.* (incl. **A. Anand**), 2026, *[DESI DR1
