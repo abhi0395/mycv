@@ -6,7 +6,7 @@ This CV is based on the template designed by [Daniel Foreman-Mackey](https://dfm
 
 I have made some modifications to include my one-page resume as well.
 
-- Download my [CV](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/cv_pubs.pdf)  
+- Download my [CV](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/cv_full.pdf)  
 - Download my [Resume](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/resume.pdf)
 
 <hr>
