@@ -12,10 +12,10 @@ ALL_FILES = cv.pdf pubs.pdf cv_pubs.pdf cv_refs.pdf biosketch.pdf
 
 all: ${ALL_FILES}
 
-%.pdf: %.tex cvstyle.tex pubs_ref.tex pubs_unref.tex ../data/pubs.json 
+%.pdf: %.tex cvstyle.tex pubs_ref.tex pubs_unref.tex ../data/pubs.json
 	${LATEX} $<
 	${LATEX} $<
-cv_pubs.pdf: cv.tex pubs_*.tex cvstyle.tex ../data/pubs.json 
+cv_pubs.pdf: cv.tex pubs_*.tex cvstyle.tex ../data/pubs.json
 	${LATEX} -jobname=cv_pubs "\def\withpubs{}\input{cv}"
 	${LATEX} -jobname=cv_pubs "\def\withpubs{}\input{cv}"
 cv_refs.pdf: cv.tex references.tex cvstyle.tex
