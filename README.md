@@ -711,6 +711,49 @@ arXiv:2306.11784 ([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
 
 </div>
 
+## References
+
+<div class="list">
+
+## Prof. Dr. Guinevere Kauffmann
+
+  
+Scientific Director  
+Max Planck Institute for Astrophysics  
+Karl-Schwarzschild-Str. 1  
+85748 Garching, Germany  
+**email:** `gamk@mpa-garching.mpg.de`  
+Ph: +49 89-30000-2013
+
+## Dr. David Schlegel
+
+  
+Senior Scientist  
+Lawrence Berkeley National Lab  
+1 Cyclotron Road, Berkeley 95035  
+**email:** `DJSchlegel@lbl.gov`  
+Ph: +1 510-495-2595
+
+## Dr. Julien Guy
+
+  
+Physicist Staff Scientist  
+Lawrence Berkeley National Lab  
+1 Cyclotron Road, Berkeley 95035  
+**email:** `jguy@lbl.gov`  
+Ph: +1 510-827-7873
+
+## Dr. Dylan Nelson
+
+  
+Emmy Noether Research Group Leader  
+Institute for Theoretical Astrophysics  
+University of Heidelberg, Germany  
+**email:** `dnelson@uni-heidelberg.de`  
+Ph: +49 6221 54 8967
+
+</div>
+
 [^1]: International Max Planck Research School on Astrophysics
 
 [^2]: University Grants Commission, Govt. of India - Junior Research
