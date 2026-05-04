@@ -211,12 +211,24 @@ I study galaxy formation and evolution through the circumgalactic and intergalac
 
 \subsubsection{Selected significant contributions (citations: \sigcites)}
 \begin{list}{}{\cvlist}
-  \input{significant_author}
+  \ifdefined\withfull
+    \input{significant_author_full}
+  \else
+    \input{significant_author}
+  \fi
 \end{list}
 
 \subsubsection{Collaboration papers (citations: \collabcites)}
 \begin{list}{}{\cvlist}
   \input{collaboration_author}
+\end{list}
+\fi
+
+\ifdefined\withrefs
+\vspace{-1.5mm}
+\subsection{References}
+\begin{list}{}{\cvlist}
+  \input{references}
 \end{list}
 \fi
 \end{document}

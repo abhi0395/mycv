@@ -1,0 +1,77 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+merge-sig-roles: Merges significant_author.tex (auto-generated from ADS)
+with significant_roles.tex (manually maintained role descriptions) to produce
+significant_author_full.tex, used only by cv_full.tex.
+
+Run from the repo root or from the tex/ directory:
+    python scripts/merge-sig-roles
+    cd tex && make significant_author_full.tex
+"""
+
+import os
+import re
+import sys
+
+here = os.path.dirname(os.path.abspath(__file__))
+tex_dir = os.path.join(here, "..", "tex")
+
+
+def load_papers(path):
+    with open(path) as f:
+        content = f.read()
+    # Split on lines that begin a new \item[{ entry (each paper starts with \item[{)
+    parts = re.split(r"(?m)^(?=\\item\[{)", content.strip())
+    return [p.strip() for p in parts if p.strip()]
+
+
+def load_roles(path):
+    with open(path) as f:
+        raw = f.read()
+    # Strip comment lines (lines starting with %)
+    lines = [l for l in raw.split("\n") if not l.strip().startswith("%")]
+    cleaned = "\n".join(lines)
+    # Split on blank lines
+    roles = [r.strip() for r in re.split(r"\n\s*\n", cleaned) if r.strip()]
+    return roles
+
+
+def main():
+    papers_path = os.path.join(tex_dir, "significant_author.tex")
+    roles_path = os.path.join(tex_dir, "significant_roles.tex")
+    output_path = os.path.join(tex_dir, "significant_author_full.tex")
+
+    papers = load_papers(papers_path)
+    roles = load_roles(roles_path)
+
+    if len(papers) != len(roles):
+        print(
+            f"ERROR: {len(papers)} papers in significant_author.tex "
+            f"but {len(roles)} roles in significant_roles.tex.\n"
+            f"Please update significant_roles.tex to match "
+            f"(add/remove entries at the top for newest/removed papers).",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    blocks = []
+    for paper, role in zip(papers, roles):
+        blocks.append(paper)
+        blocks.append("")
+        blocks.append("\\vspace{1mm}")
+        blocks.append("\\item\\textit{\\underline{My role:} " + role + "}")
+        blocks.append("\\vspace{1mm}")
+        blocks.append("")
+
+    with open(output_path, "w") as f:
+        f.write("\n".join(blocks))
+
+    print(
+        f"Written {os.path.basename(output_path)} "
+        f"({len(papers)} papers with roles)"
+    )
+
+
+if __name__ == "__main__":
+    main()
