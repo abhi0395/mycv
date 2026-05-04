@@ -6,3 +6,5 @@ tectonic tex/pubs.tex
 tectonic tex/cv_pubs.tex
 tectonic tex/biosketch.tex
 tectonic tex/resume.tex
+python scripts/merge-sig-roles
+tectonic tex/cv_full.tex
