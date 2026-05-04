@@ -1,4 +1,10 @@
 \def\withpubs{}
-\def\withrefs{}
 \def\withfull{}
+\AtEndDocument{%
+  \vspace{-1.5mm}
+  \subsection{References}
+  \begin{list}{}{\cvlist}
+    \input{references}
+  \end{list}
+}
 \input{cv}
