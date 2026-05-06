@@ -195,6 +195,10 @@ contributed talk
 
 <div class="list">
 
+Max Planck-India Mobility Grant, Max Planck Society (2026–2029; EUR 5000
+p.a.): awarded to support annual research visits to the Max Planck
+Institute for Astrophysics.
+
 IUCAA Independent Postdoctoral Fellowship (2025–2027).
 
 [DESI Builder
