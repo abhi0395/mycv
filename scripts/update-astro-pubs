@@ -72,28 +72,36 @@ utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
 def get_papers(author):
-    papers = list(
-        ads.SearchQuery(
-            author=author,
-            q='galaxy',
-            fl=[
-                "id",
-                "title",
-                "author",
-                "doi",
-                "year",
-                "pubdate",
-                "pub",
-                "volume",
-                "page",
-                "identifier",
-                "doctype",
-                "citation_count",
-                "bibcode",
-            ],
-            max_pages=100,
-        )
+    query = ads.SearchQuery(
+        author=author,
+        q='galaxy',
+        fl=[
+            "id",
+            "title",
+            "author",
+            "doi",
+            "year",
+            "pubdate",
+            "pub",
+            "volume",
+            "page",
+            "identifier",
+            "doctype",
+            "citation_count",
+            "bibcode",
+        ],
+        max_pages=100,
     )
+    papers = []
+    while True:
+        try:
+            papers.append(next(query))
+        except StopIteration:
+            break
+        except IndexError:
+            # ads library bug: IndexError raised instead of StopIteration
+            # when results are exhausted
+            break
     dicts = []
     for paper in papers:
         if paper.identifier is None:
