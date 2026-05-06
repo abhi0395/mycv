@@ -16,7 +16,11 @@
 
 \subsubsection{Selected significant contributions (citations: \sigcites)}
 \begin{list}{}{\cvlist}
-\input{significant_author_full}
+  \ifdefined\withfull
+    \input{significant_author_full}
+  \else
+    \input{significant_author}
+  \fi
 \end{list}
 
 \subsubsection{Collaboration papers (citations: \collabcites)}
