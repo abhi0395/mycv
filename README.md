@@ -336,9 +336,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 47 / refereed: 30 / first-author: 5 / selected
-significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,808 / h-index: 19 (Last updated: 2026-05-11)
+Total publications: 48 / refereed: 31 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 36 / total
+citations: 5,808 / h-index: 19 (Last updated: 2026-05-12)
 
 ### First-author publications (citations: 136)
 
@@ -454,6 +454,14 @@ Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[412
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
+
+Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
+*et al.* (incl. **A. Anand**), 2026, *[Probing the limits of
+cosmological information from the Lyman-\alpha forest 2-point
+correlation
+functions](http://dx.doi.org/10.1088/1475-7516/2026/05/010)*, Journal of
+Cosmology and Astroparticle Physics, **2026**, 010
+([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
 
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
 *et al.* (incl. **A. Anand**), 2026, *[H \<SUB\>0\</SUB\> without the
