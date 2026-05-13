@@ -336,9 +336,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 48 / refereed: 31 / first-author: 5 / selected
-significant contributions: 7 / collaboration papers: 36 / total
-citations: 5,808 / h-index: 19 (Last updated: 2026-05-12)
+Total publications: 47 / refereed: 31 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 35 / total
+citations: 5,812 / h-index: 19 (Last updated: 2026-05-13)
 
 ### First-author publications (citations: 136)
 
@@ -443,7 +443,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5588)
+### Collaboration papers (citations: 5592)
 
 <div class="list">
 
@@ -452,7 +452,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[412
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[413
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 
 Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
@@ -461,7 +461,8 @@ cosmological information from the Lyman-\alpha forest 2-point
 correlation
 functions](http://dx.doi.org/10.1088/1475-7516/2026/05/010)*, Journal of
 Cosmology and Astroparticle Physics, **2026**, 010
-([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
+([arXiv:2509.14322](http://arxiv.org/abs/2509.14322)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...05..010T)\]
 
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
 *et al.* (incl. **A. Anand**), 2026, *[H \<SUB\>0\</SUB\> without the
@@ -578,7 +579,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1065
+\[[1066
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -626,14 +627,6 @@ cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
 ([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
-
-Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
-*et al.* (incl. **A. Anand**), 2025, *[Probing the limits of
-cosmological information from the Lyman-{\ensuremath{\alpha}} forest
-2-point correlation
-functions](http://dx.doi.org/10.48550/arXiv.2509.14322)*, ArXiv,
-arXiv:2509.14322 ([arXiv:2509.14322](http://arxiv.org/abs/2509.14322))
-\[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250914322T)\]
 
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
@@ -703,7 +696,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[513
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[514
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
@@ -711,7 +704,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[286
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[287
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 
 Han, Jiwon Jesse; Dey, Arjun; Price-Whelan, Adrian M.; Najita, Joan;
