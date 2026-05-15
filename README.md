@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 31 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,822 / h-index: 19 (Last updated: 2026-05-14)
+citations: 5,823 / h-index: 19 (Last updated: 2026-05-15)
 
 ### First-author publications (citations: 136)
 
@@ -443,7 +443,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5601)
+### Collaboration papers (citations: 5602)
 
 <div class="list">
 
@@ -696,7 +696,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[514
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[515
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
