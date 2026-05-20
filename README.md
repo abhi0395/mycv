@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 32 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,831 / h-index: 19 (Last updated: 2026-05-19)
+citations: 5,831 / h-index: 19 (Last updated: 2026-05-20)
 
 ### First-author publications (citations: 136)
 
@@ -469,12 +469,6 @@ Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
 Luminosity Functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
 Notices of the Royal Astronomical Society
 
-Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
-S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
-for Photometric Redshift Training and
-Calibration](http://dx.doi.org/10.48550/arXiv.2604.06143)*, ArXiv,
-arXiv:2604.06143 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143))
-
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
 *et al.* (incl. **A. Anand**), 2026, *[H \<SUB\>0\</SUB\> without the
 sound horizon (or supernovae): A 2% measurement in DESI
@@ -482,6 +476,12 @@ DR1](http://dx.doi.org/10.1088/1475-7516/2026/04/004)*, Journal of
 Cosmology and Astroparticle Physics, **2026**, 004
 ([arXiv:2510.19149](http://arxiv.org/abs/2510.19149)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...04..004Z)\]
+
+Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
+S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
+for Photometric Redshift Training and
+Calibration](http://dx.doi.org/10.48550/arXiv.2604.06143)*, ArXiv,
+arXiv:2604.06143 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143))
 
 Karaçaylı, Naim Göksel; Ravoux, Corentin; Martini, Paul; Goff, Jean-Marc
 Le; Armengaud, Eric; *et al.* (incl. **A. Anand**), 2026, *[DESI DR1
@@ -520,6 +520,13 @@ in the 3-Point Correlation Function of DESI DR1 Luminous Red
 Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
 arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
 
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
+ArXiv, arXiv:2512.03845
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
+
 Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
 Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
 *[Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy
@@ -544,12 +551,12 @@ KiDS-1000](http://dx.doi.org/10.48550/arXiv.2512.15964)*, ArXiv,
 arXiv:2512.15964 ([arXiv:2512.15964](http://arxiv.org/abs/2512.15964))
 \[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215964B)\]
 
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
-ArXiv, arXiv:2512.03845
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
+McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
+Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
+Strong Lenses Found in DESI
+DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
+arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
+\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251102009M)\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
@@ -557,13 +564,6 @@ of local environment on Ly{\ensuremath{\alpha}} line profile in
 DESI/ODIN LAEs](http://dx.doi.org/10.48550/arXiv.2511.17498)*, ArXiv,
 arXiv:2511.17498 ([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
 \[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U)\]
-
-McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
-Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
-Strong Lenses Found in DESI
-DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
-arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
-\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251102009M)\]
 
 Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
 Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2025, *[Baryon fraction
