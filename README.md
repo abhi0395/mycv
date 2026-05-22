@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 31 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,861 / h-index: 19 (Last updated: 2026-05-21)
+citations: 5,877 / h-index: 19 (Last updated: 2026-05-22)
 
 ### First-author publications (citations: 136)
 
@@ -443,7 +443,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5640)
+### Collaboration papers (citations: 5656)
 
 <div class="list">
 
@@ -452,7 +452,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[419
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[420
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 
 Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
@@ -579,7 +579,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1076
+\[[1082
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -587,7 +587,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[209
+\[[211
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
@@ -656,7 +656,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 012
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[485
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[486
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -664,7 +664,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1564
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1569
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -672,7 +672,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[352
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[353
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 
 Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
