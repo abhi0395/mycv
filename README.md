@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 31 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,877 / h-index: 19 (Last updated: 2026-05-23)
+citations: 5,875 / h-index: 19 (Last updated: 2026-05-24)
 
 ### First-author publications (citations: 136)
 
@@ -443,7 +443,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5656)
+### Collaboration papers (citations: 5654)
 
 <div class="list">
 
@@ -664,7 +664,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1569
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1567
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
