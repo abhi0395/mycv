@@ -25,14 +25,14 @@ Scholar](https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ)</span>
 
 I study galaxy formation and evolution through the circumgalactic and
 intergalactic medium, with particular emphasis on quasar absorption-line
-systems and the cosmic metal cycle. My research combines large
-spectroscopic surveys such as DESI, SDSS, 4MOST and WEAVE with scalable
-computational methods to investigate galactic gas flows, cosmic baryon
-cycle, and the evolution of metals across cosmic time. I also use
-cosmological simulations, including IllustrisTNG and EAGLE, to connect
-observations with the underlying physical processes that regulate galaxy
-growth. In parallel, I develop community software for robust analysis of
-current and future spectroscopic survey data.
+systems and the cosmic baryon (and metal) cycle. My research combines
+large spectroscopic surveys such as DESI, SDSS, 4MOST and WEAVE with
+scalable computational methods to investigate galactic gas flows, cosmic
+baryon cycle, and the evolution of metals across cosmic time. I also use
+cosmological simulations, including Illustris, TNG-100, TNG-50 and
+others, to connect observations with the underlying physical processes
+that regulate galaxy growth. In parallel, I develop community software
+for robust analysis of current and future spectroscopic survey data.
 
 ## Professional Experience
 
@@ -44,7 +44,7 @@ Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune, India;
 
 - Leading an independent research program on the statistical properties
   of metals in the Universe and the physical state of gas in and around
-  galaxies, using observations from SDSS and DESI.
+  galaxies, using observations from SDSS, DESI and HST.
 
 - Developing community software for scalable analysis of large
   spectroscopic survey data, including
@@ -143,7 +143,7 @@ May 2026: *Department of Physics Seminar*, Presidency University,
 Kolkata, India — invited seminar
 
 Apr 2026: *Galaxy Formation and Evolution Group*, Indian Institute of
-Astrophysics, Bangalore, India — research visit
+Astrophysics, Bangalore, India — invited research visit
 
 June 2025: *Astro Webinar*, Raman Research Institute, Bangalore, India —
 invited virtual seminar
