@@ -336,9 +336,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 47 / refereed: 31 / first-author: 5 / selected
+Total publications: 47 / refereed: 32 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,876 / h-index: 19 (Last updated: 2026-05-25)
+citations: 5,870 / h-index: 19 (Last updated: 2026-05-26)
 
 ### First-author publications (citations: 136)
 
@@ -443,7 +443,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5655)
+### Collaboration papers (citations: 5649)
 
 <div class="list">
 
@@ -463,6 +463,12 @@ functions](http://dx.doi.org/10.1088/1475-7516/2026/05/010)*, Journal of
 Cosmology and Astroparticle Physics, **2026**, 010
 ([arXiv:2509.14322](http://arxiv.org/abs/2509.14322)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...05..010T)\]
+
+Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
+Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
+Luminosity Functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
+Notices of the Royal Astronomical Society
+([arXiv:2511.01803](http://arxiv.org/abs/2511.01803))
 
 Zaborowski, E. A.; Taylor, P.; Honscheid, K.; Cuceu, A.; de Mattia, A.;
 *et al.* (incl. **A. Anand**), 2026, *[H \<SUB\>0\</SUB\> without the
@@ -545,13 +551,6 @@ of DESI for Photometric Redshift Calibration: A Case Study with
 KiDS-1000](http://dx.doi.org/10.48550/arXiv.2512.15964)*, ArXiv,
 arXiv:2512.15964 ([arXiv:2512.15964](http://arxiv.org/abs/2512.15964))
 \[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215964B)\]
-
-Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
-Moustakas, John; *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 Galaxy
-Luminosity Functions](http://dx.doi.org/10.48550/arXiv.2511.01803)*,
-ArXiv, arXiv:2511.01803
-([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[6
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251101803M)\]
 
 McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
 Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
