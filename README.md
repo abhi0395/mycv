@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 47 / refereed: 32 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,956 / h-index: 19 (Last updated: 2026-06-01)
+citations: 5,950 / h-index: 19 (Last updated: 2026-06-02)
 
 ### First-author publications (citations: 137)
 
@@ -443,9 +443,15 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5734)
+### Collaboration papers (citations: 5728)
 
 <div class="list">
+
+Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
+Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
+luminosity functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
+Notices of the Royal Astronomical Society, **549**, stag866
+([arXiv:2511.01803](http://arxiv.org/abs/2511.01803))
 
 DESI Collaboration; Abdul Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
@@ -454,13 +460,6 @@ Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
 ([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[428
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
-
-Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
-Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
-Luminosity Functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
-Notices of the Royal Astronomical Society
-([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[6
-citations](https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..819M)\]
 
 Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
 *et al.* (incl. **A. Anand**), 2026, *[Probing the limits of
