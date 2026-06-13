@@ -72,6 +72,32 @@
     "year": "2026"
   },
   {
+    "arxiv": "2606.12541",
+    "authors": [
+      "Negi, Vibhore",
+      "Joshi, Ravi",
+      "Vishnupriya, B.",
+      "Wu, Xue-Bing",
+      "Yesuf, Hassen M.",
+      "Ho, Luis C.",
+      "Acharyya, Ayan",
+      "Sethuram, Ramya",
+      "Anand, Abhijeet",
+      "Fumagalli, Michele",
+      "Peroux, Celine"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": "arXiv:2606.12541",
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-06-00",
+    "title": "DESI as sparse Integral Field Spectrograph I: Spatially resolved chemical enrichment in star-forming galaxies at $z\\leq0.1$",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260612541N",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2503.14745",
     "authors": [
       "DESI Collaboration",
@@ -1501,7 +1527,7 @@
       "Zhou, Rongpu",
       "Zou, Hu"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2512.02992",
     "page": "arXiv:2512.02992",
@@ -2049,7 +2075,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 1110,
+    "citations": 1111,
     "doctype": "article",
     "doi": "10.1103/tr6y-kpc6",
     "page": "083515",
@@ -2215,7 +2241,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 217,
+    "citations": 218,
     "doctype": "article",
     "doi": "10.1103/2wwn-xjm5",
     "page": "083514",

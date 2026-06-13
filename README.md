@@ -336,9 +336,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 47 / refereed: 32 / first-author: 5 / selected
-significant contributions: 7 / collaboration papers: 35 / total
-citations: 5,992 / h-index: 19 (Last updated: 2026-06-12)
+Total publications: 48 / refereed: 32 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 36 / total
+citations: 5,995 / h-index: 19 (Last updated: 2026-06-13)
 
 ### First-author publications (citations: 138)
 
@@ -385,7 +385,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Selected significant contributions (citations: 86)
+### Selected significant contributions (citations: 87)
 
 <div class="list">
 
@@ -394,7 +394,7 @@ Herrera-Alcantar, Hiram K.; *et al.*, 2025, *[The Composite Spectrum of
 QSO Absorption Line Systems in DESI
 DR2](http://dx.doi.org/10.48550/arXiv.2512.02992)*, ArXiv,
 arXiv:2512.02992 ([arXiv:2512.02992](http://arxiv.org/abs/2512.02992))
-\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251202992N)\]
+\[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251202992N)\]
 
 Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
 Abhijeet**; *et al.*, 2025, *[The Multi-Phase Circumgalactic Medium of
@@ -444,7 +444,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5768)
+### Collaboration papers (citations: 5770)
 
 <div class="list">
 
@@ -454,6 +454,12 @@ luminosity functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
 Notices of the Royal Astronomical Society, **549**, stag866
 ([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag866M)\]
+
+Negi, Vibhore; Joshi, Ravi; Vishnupriya, B.; Wu, Xue-Bing; Yesuf, Hassen
+M.; *et al.* (incl. **A. Anand**), 2026, DESI as sparse Integral Field
+Spectrograph I: Spatially resolved chemical enrichment in star-forming
+galaxies at z\leq0.1, ArXiv, arXiv:2606.12541
+([arXiv:2606.12541](http://arxiv.org/abs/2606.12541))
 
 DESI Collaboration; Abdul Karim, M.; Adame, A. G.; Aguado, D.; Aguilar,
 J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
@@ -580,7 +586,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1110
+\[[1111
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -588,7 +594,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[217
+\[[218
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
