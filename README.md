@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 48 / refereed: 32 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 5,995 / h-index: 19 (Last updated: 2026-06-13)
+citations: 5,996 / h-index: 19 (Last updated: 2026-06-14)
 
 ### First-author publications (citations: 138)
 
@@ -444,7 +444,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5770)
+### Collaboration papers (citations: 5771)
 
 <div class="list">
 
@@ -640,7 +640,7 @@ H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
 the Milky Way from outer halo stars measured by DESI
 DR1](http://dx.doi.org/10.48550/arXiv.2508.19351)*, ArXiv,
 arXiv:2508.19351 ([arXiv:2508.19351](http://arxiv.org/abs/2508.19351))
-\[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M)\]
+\[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI 2024 VII: cosmological
