@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 48 / refereed: 32 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 6,027 / h-index: 19 (Last updated: 2026-06-19)
+citations: 6,034 / h-index: 19 (Last updated: 2026-06-20)
 
 ### First-author publications (citations: 139)
 
@@ -444,7 +444,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 5801)
+### Collaboration papers (citations: 5808)
 
 <div class="list">
 
@@ -530,13 +530,6 @@ in the 3-Point Correlation Function of DESI DR1 Luminous Red
 Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
 arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
 
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
-ArXiv, arXiv:2512.03845
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
-
 Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
 Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
 *[Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy
@@ -544,6 +537,13 @@ Lensing with DESI DR1](http://dx.doi.org/10.48550/arXiv.2512.15962)*,
 ArXiv, arXiv:2512.15962
 ([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215962L)\]
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
+ArXiv, arXiv:2512.03845
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
@@ -587,7 +587,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1121
+\[[1125
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -648,7 +648,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[304
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[306
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -672,7 +672,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1602
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1603
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
