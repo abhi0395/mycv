@@ -388,10 +388,6 @@ Tan, Joanne; **Anand, Abhijeet**; Naab, Thorsten; *et al.*, 2026, Metal
 absorption lines and their evolution since z = 5 in the IllustrisTNG
 simulations
 
-**Anand, Abhijeet**; *et al.*, 2026, Nonnegative Matrix
-Factorization–Based Continuum Fitting Framework for Quasar Spectra:
-Applications to Large Spectroscopic Surveys
-
 **Anand, Abhijeet**; *et al.*, 2026, Tracing the Cosmic Metal Cycle with
 DESI: A Uniform Multi-Ion Survey of Intergalactic and Circumgalactic
 Absorbers
