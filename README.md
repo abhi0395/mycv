@@ -381,7 +381,20 @@ I emission from superdisk candidates associated with radio
 galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
 Astronomy and Astrophysics, **19**, 083
 ([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
+citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]  
+**Manuscripts in preparation.**  
+
+Tan, Joanne; **Anand, Abhijeet**; Naab, Thorsten; *et al.*, 2026, Metal
+absorption lines and their evolution since z = 5 in the IllustrisTNG
+simulations
+
+**Anand, Abhijeet**; *et al.*, 2026, Nonnegative Matrix
+Factorization–Based Continuum Fitting Framework for Quasar Spectra:
+Applications to Large Spectroscopic Surveys
+
+**Anand, Abhijeet**; *et al.*, 2026, Tracing the Cosmic Metal Cycle with
+DESI: A Uniform Multi-Ion Survey of Intergalactic and Circumgalactic
+Absorbers
 
 </div>
 
