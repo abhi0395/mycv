@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 48 / refereed: 32 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 6,086 / h-index: 19 (Last updated: 2026-06-30)
+citations: 6,086 / h-index: 19 (Last updated: 2026-07-01)
 
 ### First-author publications (citations: 140)
 
@@ -518,6 +518,12 @@ Cosmology and Astroparticle Physics, **2026**, 019
 ([arXiv:2509.26467](http://arxiv.org/abs/2509.26467)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...03..019E)\]
 
+Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
+Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
+All-Sky Survey with
+Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
+arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
+
 Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
 Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2026, *[A
 New Way to Discover Strong Gravitational Lenses: Pairwise Spectroscopic
@@ -526,18 +532,19 @@ Astrophysical Journal Supplement Series, **282**, 41
 ([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...41H)\]
 
-Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
-Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
-All-Sky Survey with
-Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
-arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
-
 Kamalinejad, Farshad; Slepian, Zachary; Krolewski, Alex; Greco,
 Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
 2026, *[First Detection of the Baryon Acoustic Oscillation (BAO) Feature
 in the 3-Point Correlation Function of DESI DR1 Luminous Red
 Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
 arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
+ArXiv, arXiv:2512.03845
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
 Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
 Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
@@ -546,13 +553,6 @@ Lensing with DESI DR1](http://dx.doi.org/10.48550/arXiv.2512.15962)*,
 ArXiv, arXiv:2512.15962
 ([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215962L)\]
-
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
-ArXiv, arXiv:2512.03845
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
