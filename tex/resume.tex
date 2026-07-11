@@ -1,155 +1,162 @@
 \documentclass[a4paper,10pt]{article}
 \usepackage{amssymb}
 \usepackage[left=0.775in, right=0.775in, top=0.75in, bottom=0.8in]{geometry}
-\usepackage{enumitem, hyperref, titlesec, amsmath,color, titlesec, changepage}
+\usepackage{enumitem, hyperref, titlesec, amsmath, color, changepage}
 \hypersetup{
     colorlinks=true,
     urlcolor=blue,
     linkcolor=blue
 }
 \usepackage[scaled]{helvet}
+\usepackage[T1]{fontenc}
 
-\definecolor{sectionblue}{RGB}
-{2,2,100} % Deep navy
+\definecolor{sectionblue}{RGB}{2,2,100}
 
 \titleformat{\section}
   {\color{sectionblue}\normalfont\Large\bfseries}
   {}{0em}{}[\titlerule]
 
 \renewcommand{\familydefault}{\sfdefault}
-\usepackage[T1]{fontenc}
-
 \pagenumbering{gobble}
 \setlength{\parindent}{0pt}
 \setlist[itemize]{itemsep=2pt, topsep=4pt}
 
-% Formatting Section Titles
-%\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
-
 \begin{document}
+
 \begin{center}
     {\huge \textbf{Abhijeet Anand, PhD}} \\
-    {\normalsize \vspace{1.5mm}
-    \textbf{Independent Fellow, Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune}}
+    {\normalsize \vspace{2mm}
+    \textbf{Independent Fellow, Inter-University Centre for Astronomy and Astrophysics (IUCAA)}}
     \vspace{-1mm}
     \begin{center}
     \normalfont
-\href{mailto:abhijeetanand2011@gmail.com}{abhijeetanand2011@gmail.com} \quad |
-\quad
-    +91 88615 59447 \quad | \quad Pune, India \quad |
-\quad
+    \href{mailto:abhijeetanand2011@gmail.com}{abhijeetanand2011@gmail.com} \quad | \quad
+    +91 88615 59447 \quad | \quad Pune, India \quad | \quad
     \href{https://www.linkedin.com/in/abhijeet-anand-iisc}{LinkedIn} \quad | \quad
-    \href{https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ}{Scholar} \quad |
-\quad
+    \href{https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ}{Scholar} \quad | \quad
     \href{https://github.com/abhi0395}{GitHub}
     \end{center}
 \end{center}
-\begin{center}
-\vspace*{-1.25mm}
-\textit{Astrophysicist and Data Scientist with a PhD in Astrophysics and 6+ years of experience building scalable machine learning models, analytics workflows, and data pipelines for large, complex datasets, including 60M+ records and 5+ TB of data per day. Skilled in Python, SQL, statistical modeling, and predictive analytics, with a strong track record of improving model accuracy, reducing false positives, and delivering production-quality pipelines. Experienced in cross-functional collaboration, open-source software development, and communicating scientific results effectively to diverse audiences.}
 
+
+\vspace*{-1.5mm}
+\begin{center}
+\textit{Computational Physicist and Data Scientist with 7+ years of experience developing, maintaining, and improving open-source scientific software and large-scale analysis pipelines for astronomy. Strong background in scientific Python ecosystem, including statistical validation, workflow automation, collaborative Git/GitHub based software development, automated testing and CI/CD workflows, documentation, versioned software releases. Experience in communicating technical results across multidisciplinary teams.}
 \end{center}
+
 \vspace*{-2mm}
+
 \section*{Work Experience}
+
 \textcolor{sectionblue}{\textbf{Independent Postdoctoral Fellow}} \hfill
 \textcolor{sectionblue}{\textit{IUCAA, Pune}} \hfill
-\textcolor{sectionblue}{\textit{Dec 2025 -– Present}}\\
-\vspace{1mm}
+\textcolor{sectionblue}{\textit{Dec 2025 -- Present}}\\
 \textcolor{sectionblue}{\textbf{Affiliate Scientist}} \hfill
-\textcolor{sectionblue}{\textit{Lawrence Berkeley National Lab, USA}} \hfill
-\textcolor{sectionblue}{\textit{Feb 2026 -– Present}}
+\textcolor{sectionblue}{\textit{Lawrence Berkeley National Laboratory, USA}} \hfill
+\textcolor{sectionblue}{\textit{Feb 2026 -- Present}}
+
 \vspace{1.5mm}
 \begin{adjustwidth}{1em}{0pt}
-\begin{itemize}
-\item Working as an independent postdoctoral fellow, developing ML and data science methods for large scientific datasets and drafting scientific goals for upcoming national and international astronomical facilities.
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Lead end-to-end data analysis projects, from preparing noisy datasets and building detection models to validating results and delivering community data products.
+    \item Develop and maintain Python pipelines for one-dimensional sequential data, including transformation, signal processing, classification, and uncertainty analysis.
+    \item Apply supervised and unsupervised methods, including regression, classification, PCA, NMF, resampling, and matched-filter techniques.
+    \item Mentor students, coordinate project timelines, and promote reproducible and maintainable coding practices.
 \end{itemize}
 \end{adjustwidth}
+
 \vspace{1.5mm}
+
 \textcolor{sectionblue}{\textbf{Postdoctoral Fellow}} \hfill
-\textcolor{sectionblue}{\textit{Lawrence Berkeley National Lab, USA}} \hfill
-\textcolor{sectionblue}{\textit{Sep 2022 –- Present}}
+\textcolor{sectionblue}{\textit{Lawrence Berkeley National Laboratory, USA}} \hfill
+\textcolor{sectionblue}{\textit{Sep 2022 -- Oct 2025}}
+
 \vspace{1.5mm}
 \begin{adjustwidth}{1em}{0pt}
 
-\textcolor{sectionblue}{\textbf{\underline{Data Engineering, ML and Big Data}}}
+\textcolor{sectionblue}{\textbf{\underline{Data Science and Software Development}}}
 \begin{itemize}[leftmargin=*, itemsep=2pt]
-    \item Built and deployed scalable \textbf{large-scale predictive modeling pipeline} (\href{https://github.com/desihub/redrock}{\textit{redrock}}, multi-class classification; PCA feature engineering) on ~60M+ records, improving accuracy by 30\% and cutting false positives by 30\%.
-    \item Designed controlled experiments to compare modeling approaches, analogous to A/B testing to guide data driven method selection. Also performed model evaluation metrics (ROC-AUC, precision-recall, etc).
-
-    \item Designed \textbf{distributed real-time I/O pipelines (FITS, HDF5) to process 5+ TB/day, $\approx$100k rows/min} of structured and unstructured data, optimized for analytics in Python/pandas and SQL. Architecture is transferable to cloud-based systems (e.g., GCP, AWS).
-    \item Developed and maintained \textbf{internal/external analysis libraries (open source)}, leading features, code reviews, and model improvements, and reporting workflows. Improved software quality via automated tests (unittest), documentation, and supporting reproducible analytics at scale.
+    \item Developed and validated analytical models for large scientific datasets, including a hybrid PCA-based method that reduced major classification failures by approximately \textbf{30\%}.
+    % \item Built scalable Python workflows for data cleaning, transformation, feature extraction, model evaluation, and quality control.
+    \item Defined and tracked analysis-quality metrics, including failure rates, detection reliability, completeness, and validation statistics, to guide model and pipeline improvements.
+    \item Contributed to open-source software through feature development, debugging, code review, automated testing, documentation, and versioned releases.
+    \item Managed collaborative development through GitHub, including issue tracking, pull requests, CI/CD workflows, and tagged releases.
 \end{itemize}
-\vspace{-0.5pt}
-\textcolor{sectionblue}{\textbf{\underline{Project Leadership and Scientific Impact}}}
+
+\vspace{0.5mm}
+\textcolor{sectionblue}{\textbf{\underline{Large-Scale Computing and Project Leadership}}}
 \begin{itemize}[leftmargin=*, itemsep=2pt]
-    \item Led \textbf{two cross-functional projects} with 15+ team members, coordinating software and deployment efforts to improve classification performance and reliability, enabling more accurate data driven decisions in a large scale production pipeline.
-    \item Proposed and implemented data-driven improvements to production pipelines, securing a successful \textbf{2-year project extension}. Recognized as a top 10\% contributor within the collaboration.
-    \item Mentored junior analysts/researchers on experimental design, statistical validation, and production-grade codebases.
-    \item Communicated analytical findings to both technical and non-technical audiences to support data driven decisions within a large international scientific collaboration.
+    \item Supported daily production workflows on \href{https://www.nersc.gov/}{NERSC} systems using Python, Slurm, parallel processing, and automated validation.
+    \item Investigated workflow failures, identified root causes, and coordinated fixes across data, software, and computing teams.
+    \item Led analytical and software workstreams from problem definition through implementation, testing, delivery, and communication of results.
+    \item Mentored junior researchers and coordinated technical priorities, milestones, and project deliverables.
 \end{itemize}
 \end{adjustwidth}
+
 \vspace{2mm}
+
 \textcolor{sectionblue}{\textbf{PhD Research Fellow}} \hfill
 \textcolor{sectionblue}{\textit{Max Planck Institute for Astrophysics, Germany}} \hfill
-\textcolor{sectionblue}{\textit{Sep 2018 –- Jul 2022}}
+\textcolor{sectionblue}{\textit{Sep 2018 -- Jul 2022}}
 
-\vspace{2mm}
+\vspace{1.5mm}
 \begin{adjustwidth}{1em}{0pt}
-
-\textcolor{sectionblue}{\textbf{\underline{Data Engineering, ML and Big Data}}}
 \begin{itemize}[leftmargin=*, itemsep=2pt]
-    \item Built parallel \textbf{signal-processing models (matched-kernel detection)} for large sequential data, raising precision ($\geq95\%$ purity) and reducing runtime from weeks to hours on ~1M+ samples
-    \item Developed and accelerated \textbf{non-linear regression pipelines (with Numba)} for parameter estimation, with rigorous model testing/validation and performance analysis.
-    \item Ran large-scale statistical validation (hypothesis testing, bootstrapping) and experiment design to quantify uncertainty and build models.
+    \item Developed a Python-based signal-detection tool for identifying weak features in noisy one-dimensional data.
+    \item Built parallel analysis workflows that achieved over 95\% detection reliability and reduced runtime from weeks to hours.
+    \item Performed large-scale statistical validation using resampling, completeness testing, uncertainty analysis, and reproducible pipelines.
+    \item Led projects from method design and implementation through validation, publication, and release of reusable data products.
 \end{itemize}
-
-\vspace{2pt}
-\textcolor{sectionblue}{\textbf{\underline{Project Leadership and Scientific Impact}}}
-\begin{itemize}[leftmargin=*, itemsep=2pt]
-   \item Led \textbf{two large research projects}, from concept to publication, resulting in high-purity data products used by \textbf{50+ research teams worldwide.}
-    \item Collaborated with computational physicists \textbf{to merge observational and simulated datasets}, enabling new insights into the physical origins of detected patterns.
-    \end{itemize}
 \end{adjustwidth}
-\vspace*{-2.5mm}
+
+\vspace*{-1mm}
+
+\section*{Selected Open-Source Software}
+\begin{adjustwidth}{1em}{0pt}
+\begin{itemize}[leftmargin=*, itemsep=3pt]
+    \item \textbf{\href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}} --- Developer and maintainer of a scalable Python package for signal detection, classification, and measurement in noisy sequential data.
+    \item \textbf{\href{https://github.com/abhi0395/nmfqsofit}{nmfqsofit}} --- Developer and maintainer of a Python package for data reconstruction and feature modeling using non-negative matrix factorization.
+    \item \textbf{\href{https://github.com/desihub/redrock}{redrock}} and \textbf{\href{https://github.com/desihub/desispec}{desispec}} --- Contributor to large-scale data-processing and model-fitting software used by an international scientific collaboration.
+\end{itemize}
+\end{adjustwidth}
+
+\vspace*{-2mm}
 
 \section*{Technical Skills}
-\begin{tabular}{p{3cm} p{13cm}}
-\textbf{Programming} & Python (NumPy, Pandas, SciPy, scikit-learn, Matplotlib), SQL, Version control collaboration (Git workflows), LaTeX, Jupyter, unittest \\
-\textbf{ML \& Statistics} & Predictive modeling (regression/classification), NMF/PCA/feature engineering, clustering; statistics \& probability (hypothesis testing, bootstrapping, experiment design). \\
-\textbf{Data Engineering} & Parallel I/O pipelines (FITS, HDF5), HPC (Slurm, NERSC), Cloud-ready workflow design, Automated schedulers (cron), debugging, dashboards, code optimization and documentation, Exploratory data analysis (EDA), visualization for insights and reporting \\
-\textbf{Open Source} & Maintainer/contributor: \href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind}, \href{https://github.com/desihub/redrock}{redrock} (27 GitHub stars), \href{https://github.com/desihub/desispec}{desispec} (39 GitHub stars) \\
-\textbf{Soft Skills} & Mentorship, Team leadership, Cross-team collaboration, Agile workflows
+\renewcommand{\arraystretch}{1.1}
+\begin{tabular}{p{3.4cm} p{12.5cm}}
+    \textbf{Data Science \& ML} & Python, NumPy, SciPy, pandas, scikit-learn, regression, classification, clustering, PCA, NMF, model validation \\
+    \textbf{Statistics \& Signals} & Statistical inference, probability, hypothesis testing, bootstrapping, uncertainty analysis, one-dimensional sequential data, convolution, matched filtering, feature detection, noise modeling \\
+    \textbf{Data Engineering} & Basic SQL for data access, data cleaning, data transformation, ETL-style workflows, structured and unstructured data, FITS, HDF5, parallel I/O \\
+    \textbf{Software Development} & Git, GitHub, code review, unit testing (\textit{pytest}), GitHub Actions, CI/CD, automated validation, modular package design, Sphinx documentation \\
+    \textbf{Large-Scale Computing} & Linux, NERSC Perlmutter, Slurm, multiprocessing, MPI, performance debugging, Jupyter \\
+    \textbf{Leadership} & Project ownership, mentorship, cross-team collaboration, technical communication, project coordination
 \end{tabular}
+\renewcommand{\arraystretch}{1.0}
 
-\iffalse
-\section*{Technical Skills}
+\vspace*{-2mm}
 
-\textcolor{sectionblue}{\textbf{Programming:}}
-Python (NumPy, SciPy, scikit-learn, Matplotlib), Git, LaTeX, SQL, Jupyter Notebooks
-
-\textcolor{sectionblue}{\textbf{ML \& Statistics:}}
-Statistical modeling (hypothesis testing, Monte Carlo simulations, bootstrapping);
-machine learning (PCA, NMF, matched-filter detection, regression, clustering)
-
-\textcolor{sectionblue}{\textbf{Data Engineering:}}
-Data pipelines, high-performance computing (Slurm, \href{https://www.nersc.gov}{NERSC}), data wrangling, unit testing
-
-\textcolor{sectionblue}{\textbf{Data Visualization:}}
-Keynote, Matplotlib, Google slides, Powerpoint, Tableau
-
-\textcolor{sectionblue}{\textbf{Open Source Contributions:}}
-\href{https://github.com/abhi0395/qsoabsfind}{qsoabsfind} (signal detection pipeline),
-\href{https://github.com/desihub/redrock}{redrock} (spectral classification and modeling),
-\href{https://github.com/desihub/desispec}{desispec} (data reduction and preprocessing)
-
-\textcolor{sectionblue}{\textbf{Soft Skills:}}
-Mentorship, team leadership, project planning and risk assessment, cross-functional communication
-\fi
+\section*{Selected Professional Activities}
+\begin{adjustwidth}{1em}{0pt}
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Awarded Builder status, given to approximately 10\% of collaboration members, for contributions to survey operations and data systems in one international project.
+    \item Core member of the institute Computing Facilities Committee, contributing to research-computing planning and user support.
+    \item Awarded a three-year Max Planck India Mobility Grant (2026--2029), given by Max Planck Society of Germany.
+    \item Author of 48 publications, including 5 first-author papers, with more than 6000 citations.
+    \item Referee for \textit{Nature Astronomy}, \textit{Astronomy \& Astrophysics}, and \textit{The Astrophysical Journal}.
+\end{itemize}
+\end{adjustwidth}
 
 \vspace*{-2mm}
 
 \section*{Education}
 
-\textcolor{sectionblue}{\textbf{PhD in Astrophysics}} \hfill \textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill \textit{Sep 2018 –- Jul 2022}\\
-\textcolor{sectionblue}{\textbf{BS - MS in Physics}} \hfill \textit{Indian Institute of Science (IISc), Bangalore, India} \hfill \textit{Aug 2012 –- Jun 2017}
+\textcolor{sectionblue}{\textbf{PhD in Astrophysics}} \hfill
+\textit{Max Planck Institute for Astrophysics, Garching, Germany} \hfill
+\textit{Sep 2018 -- Jul 2022}\\
+\vspace{-1.5mm}
+\textcolor{sectionblue}{\textbf{BS--MS in Physics}} \hfill
+\textit{Indian Institute of Science (IISc), Bangalore, India} \hfill
+\textit{Aug 2012 -- Jun 2017}
+
 \end{document}
