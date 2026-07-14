@@ -336,9 +336,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 48 / refereed: 32 / first-author: 5 / selected
+Total publications: 48 / refereed: 33 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 6,261 / h-index: 19 (Last updated: 2026-07-13)
+citations: 6,261 / h-index: 19 (Last updated: 2026-07-14)
 
 ### First-author publications (citations: 146)
 
@@ -457,6 +457,12 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 <div class="list">
 
+Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
+S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
+for Photometric Redshift Training and
+Calibration](http://dx.doi.org/10.3847/1538-3881/ae7441)*, The
+Astronomical Journal, **172**, 65
+
 Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
 luminosity functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
@@ -495,12 +501,6 @@ DR1](http://dx.doi.org/10.1088/1475-7516/2026/04/004)*, Journal of
 Cosmology and Astroparticle Physics, **2026**, 004
 ([arXiv:2510.19149](http://arxiv.org/abs/2510.19149)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...04..004Z)\]
-
-Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
-S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
-for Photometric Redshift Training and
-Calibration](http://dx.doi.org/10.48550/arXiv.2604.06143)*, ArXiv,
-arXiv:2604.06143 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143))
 
 Karaçaylı, Naim Göksel; Ravoux, Corentin; Martini, Paul; Goff, Jean-Marc
 Le; Armengaud, Eric; *et al.* (incl. **A. Anand**), 2026, *[DESI DR1
