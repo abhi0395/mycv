@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2604.06143",
     "authors": [
       "Dey, Biprateep",
       "Newman, Jeffrey A.",
@@ -490,7 +490,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 476,
+    "citations": 478,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ae4c43",
     "page": "285",
@@ -2091,7 +2091,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 1204,
+    "citations": 1207,
     "doctype": "article",
     "doi": "10.1103/tr6y-kpc6",
     "page": "083515",
@@ -2257,7 +2257,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.1103/2wwn-xjm5",
     "page": "083514",
@@ -3591,7 +3591,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 506,
+    "citations": 507,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/04/012",
     "page": "012",
@@ -3861,7 +3861,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 1644,
+    "citations": 1645,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/02/021",
     "page": "021",
@@ -4075,7 +4075,7 @@
       "Zou, H.",
       "DESI Collaboration"
     ],
-    "citations": 362,
+    "citations": 364,
     "doctype": "article",
     "doi": "10.1088/1475-7516/2025/01/124",
     "page": "124",
@@ -4670,7 +4670,7 @@
       "Zou, S.",
       "Zu, Y."
     ],
-    "citations": 538,
+    "citations": 541,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3217",
     "page": "58",
@@ -4951,7 +4951,7 @@
       "Zu, Y.",
       "DESI Collaboration"
     ],
-    "citations": 295,
+    "citations": 296,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad0b08",
     "page": "62",
