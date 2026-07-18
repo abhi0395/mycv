@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 48 / refereed: 33 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 6,275 / h-index: 19 (Last updated: 2026-07-17)
+citations: 6,275 / h-index: 19 (Last updated: 2026-07-18)
 
 ### First-author publications (citations: 146)
 
@@ -540,13 +540,6 @@ in the 3-Point Correlation Function of DESI DR1 Luminous Red
 Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
 arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
 
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
-ArXiv, arXiv:2512.03845
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
-
 Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
 Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
 *[Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy
@@ -554,6 +547,13 @@ Lensing with DESI DR1](http://dx.doi.org/10.48550/arXiv.2512.15962)*,
 ArXiv, arXiv:2512.15962
 ([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215962L)\]
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
+ArXiv, arXiv:2512.03845
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845))
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
 Calum; Casas, Laura; *et al.* (incl. **A. Anand**), 2025, *[The
