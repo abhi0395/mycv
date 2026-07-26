@@ -338,7 +338,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 48 / refereed: 33 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 6,340 / h-index: 19 (Last updated: 2026-07-25)
+citations: 6,355 / h-index: 19 (Last updated: 2026-07-26)
 
 ### First-author publications (citations: 148)
 
@@ -453,7 +453,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6098)
+### Collaboration papers (citations: 6113)
 
 <div class="list">
 
@@ -483,7 +483,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[486
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[489
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 
 Turner, Wynne; Cuceu, Andrei; Martini, Paul; Aguilar, J.; Ahlen, S.;
@@ -532,6 +532,7 @@ Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
 All-Sky Survey with
 Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
 arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
+\[[1 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
 
 Kamalinejad, Farshad; Slepian, Zachary; Krolewski, Alex; Greco,
 Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
@@ -599,7 +600,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1232
+\[[1236
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
@@ -607,7 +608,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[228
+\[[229
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 
 Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
@@ -645,7 +646,7 @@ César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
 Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
 cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
 ArXiv, arXiv:2509.15308
-([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[17
+([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
 
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
@@ -668,7 +669,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 characteristics, and two-point clustering
 statistics](http://dx.doi.org/10.1088/1475-7516/2025/07/017)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 017
-([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[122
+([arXiv:2411.12020](http://arxiv.org/abs/2411.12020)) \[[123
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -684,7 +685,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1661
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1664
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 
 Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
@@ -700,7 +701,7 @@ Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.1088/1475-7516/2025/01/125)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 125
-([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[53
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..125R)\]
 
 Scholte, Dirk; Saintonge, Amélie; Moustakas, John; Catinella, Barbara;
