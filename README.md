@@ -336,9 +336,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 48 / refereed: 33 / first-author: 5 / selected
+Total publications: 48 / refereed: 34 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 36 / total
-citations: 6,367 / h-index: 19 (Last updated: 2026-07-27)
+citations: 6,366 / h-index: 19 (Last updated: 2026-07-28)
 
 ### First-author publications (citations: 148)
 
@@ -453,9 +453,14 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6125)
+### Collaboration papers (citations: 6124)
 
 <div class="list">
+
+McArthur, E.; Millon, M.; Powell, M.; Wechsler, R. H.; Pan, Z.;
+*et al.* (incl. **A. Anand**), 2026, *[Quasars Acting as Strong Lenses
+Found in DESI DR1](http://dx.doi.org/10.3847/1538-4357/ae8014)*, The
+Astrophysical Journal, **1006**, 147
 
 Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
 S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
@@ -573,13 +578,6 @@ of DESI for Photometric Redshift Calibration: A Case Study with
 KiDS-1000](http://dx.doi.org/10.48550/arXiv.2512.15964)*, ArXiv,
 arXiv:2512.15964 ([arXiv:2512.15964](http://arxiv.org/abs/2512.15964))
 \[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215964B)\]
-
-McArthur, Everett; Millon, Martin; Powell, Meredith; Wechsler, Risa H.;
-Pan, Zhiwei; *et al.* (incl. **A. Anand**), 2025, *[Quasars acting as
-Strong Lenses Found in DESI
-DR1](http://dx.doi.org/10.48550/arXiv.2511.02009)*, ArXiv,
-arXiv:2511.02009 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009))
-\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251102009M)\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
