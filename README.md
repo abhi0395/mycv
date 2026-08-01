@@ -44,7 +44,7 @@ Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune, India;
 
 - Leading an independent research program on the statistical properties
   of metals in the Universe and the physical state of gas in and around
-  galaxies, using observations from SDSS, DESI and HST.
+  galaxies, using observations from SDSS, DESI, MUSE and HST.
 
 - Developing community software for scalable analysis of large
   spectroscopic survey data, including
@@ -227,6 +227,14 @@ Government of India (2012–2017).
 ## Mentoring and Supervision
 
 <div class="list">
+
+Suman Sourav Biswal (MS, IISER Berhampur): Co-mentoring a project on
+characterizing neutral gas in the ISM of nearby galaxies (2026–present,
+IUCAA VSP Program Student).
+
+Roshna V (MSc, Central University of Andhra Pradesh): Co-mentoring a
+project on the data-driven approach to model quasar continuum
+(2026–present, IUCAA VSP Program Student).
 
 Paryag Sharma (PhD, Central University of Himachal Pradesh):
 Co-mentoring a project on the circumgalactic medium of quasars using
