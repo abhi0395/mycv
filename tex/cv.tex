@@ -1,6 +1,6 @@
 % The formatting of this CV is based on @davidwhogg's layout.
 
-\documentclass[12pt,letterpaper]{article}
+\documentclass[11pt,letterpaper]{article}
 \input{cvstyle}
 \newcommand{\tex}[1]{#1}
 
@@ -191,7 +191,11 @@ I study galaxy formation and evolution through the circumgalactic and intergalac
 
   \subsubsection{First-author publications (citations: \firstcites)}
 \begin{list}{}{\cvlist}
-  \input{first_author}
+  \ifdefined\withfull
+    \input{first_author_full}
+  \else
+    \input{first_author}
+  \fi
 \end{list}
 
 \subsubsection{Selected significant contributions (citations: \sigcites)}
