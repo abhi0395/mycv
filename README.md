@@ -353,6 +353,77 @@ Journal, **990**, 151
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..151A)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
+*<u>My role:</u> Constructed the largest catalogue of triply ionized
+carbon absorbers to date and measured the evolution of their incidence
+and cosmic mass density over 1.4<z<4.5. Interpreted these trends in
+the context of the cosmic star-formation history and the evolution of
+the ultraviolet background.*
+
+**Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
+Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
+the Dark Energy Spectroscopic Instrument
+Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
+Journal, **168**, 124
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[44
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
+\[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Developed and implemented a new galaxy redshift-fitting
+method for DESI that reduced catastrophic failures and improved redshift
+reliability. The method provides a flexible alternative for estimating
+redshifts in current and future large spectroscopic surveys.*
+
+**Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
+circumgalactic gas in galaxy clusters: connecting the DESI legacy
+imaging survey and SDSS DR16 Mg II
+absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
+the Royal Astronomical Society, **513**, 3210
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[31
+citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
+\[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Mapped cool metal-enriched gas around galaxy clusters
+and compared its distribution with that around field galaxies. This was
+among the first studies to show that galaxy clusters host a substantial
+reservoir of cool metal-enriched gas in the intracluster medium.*
+
+**Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
+*[Characterizing the abundance, properties, and kinematics of the cool
+circumgalactic medium of galaxies in absorption with SDSS
+DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
+Royal Astronomical Society, **504**, 65
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[65
+citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
+\[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> onstructed a large SDSS DR16 Mg II absorber sample to
+characterize the abundance, spatial distribution, and kinematics of cool
+circumgalactic gas around star-forming and passive galaxies. Identified
+the characteristic scales at which differences driven by stellar
+processes and halo-scale processes begin to emerge.*
+
+**Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
+I emission from superdisk candidates associated with radio
+galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
+Astronomy and Astrophysics, **19**, 083
+([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
+\[**Impact Factor: 2.6; Scopus Quartile: Q2**\]
+
+*<u>My role:</u> Analysed VLA observations and performed the spectral
+analysis to search for H I 21 cm emission from superdisk radio galaxies.
+Led the interpretation and writing of the paper as part of my MS thesis
+at IISc Bangalore.*
+
+**Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
+A.; *et al.*, 2025, *[The Cosmic Evolution of C IV Absorbers at 1.4 \< z
+\< 4.5: Insights from 100,000 Systems in DESI
+Quasars](http://dx.doi.org/10.3847/1538-4357/adef3c)*, The Astrophysical
+Journal, **990**, 151
+([arXiv:2504.20299](http://arxiv.org/abs/2504.20299)) \[[6
+citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..151A)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
 **Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
 Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
