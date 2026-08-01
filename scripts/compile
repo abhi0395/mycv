@@ -2,8 +2,8 @@
 set -e
 
 tectonic tex/cv.tex
-python scripts/merge-first-roles
 python scripts/merge-sig-roles
+python scripts/merge-first-roles
 tectonic tex/pubs.tex
 tectonic tex/cv_pubs.tex
 tectonic tex/biosketch.tex
