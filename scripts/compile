@@ -2,6 +2,7 @@
 set -e
 
 tectonic tex/cv.tex
+python scripts/merge-first-roles
 python scripts/merge-sig-roles
 tectonic tex/pubs.tex
 tectonic tex/cv_pubs.tex

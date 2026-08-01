@@ -3,6 +3,7 @@
 
 import os
 import json
+import csv
 import importlib.util
 from datetime import date
 from operator import itemgetter
@@ -23,6 +24,27 @@ JOURNAL_MAP = {
     "iau general assembly": "IAU",
     "american astronomical society meeting abstracts": "AAS",
 }
+
+
+def load_journal_details(filename):
+    journal_details = {}
+
+    with open(filename, "r", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+
+        for row in reader:
+            # Convert:
+            # "The Astronomical Journal (AJ)"
+            # to:
+            # "The Astronomical Journal"
+            journal_name = row["Journal"].split(" (")[0].strip()
+
+            journal_details[journal_name] = {
+                "impact_factor": row["Impact Factor"],
+                "quartile": row["Scopus Quartile"],
+            }
+
+    return journal_details
 
 
 def format_pub(args):
@@ -65,12 +87,35 @@ def format_pub(args):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if pub["citations"] >= 1:
-        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"], pub["citations"])
+        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(
+            pub["url"],
+            pub["citations"],
+        )
+
+    journal_details = JOURNAL_DETAILS.get(
+        pub["pub"],
+        {
+            "impact_factor": "N/A",
+            "quartile": "N/A",
+        },
+    )
+
+    fmt += (
+        " [\\textbf{{Impact Factor: {0}; Scopus Quartile: {1}}}]"
+    ).format(
+        journal_details["impact_factor"],
+        journal_details["quartile"],
+    )
 
     return fmt
 
 
 if __name__ == "__main__":
+
+    JOURNAL_DETAILS = load_journal_details(
+        "data/journal_impact_scopus.csv"
+    )
+
     with open("data/pubs.json", "r") as f:
         pubs = json.load(f)
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
