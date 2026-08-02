@@ -12,9 +12,11 @@
 
 \subsubsection{First-author publications (citations: \firstcites)}
 \begin{list}{}{\cvlist}
-\input{first_author}
-\newline \\
- \input{in_prep}
+  \ifdefined\withfull
+    \input{first_author_full}
+  \else
+    \input{first_author}
+  \fi
 \end{list}
 
 \subsubsection{Selected significant contributions (citations: \sigcites)}
@@ -28,7 +30,8 @@
 
 \subsubsection{Collaboration papers (citations: \collabcites)}
 \begin{list}{}{\cvlist}
-\input{collaboration_author}
+  \input{collaboration_author}
 \end{list}
+\fi
 
 \end{document}
