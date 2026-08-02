@@ -485,9 +485,10 @@ Astronomical Journal, **172**, 65
 5.8; Scopus Quartile: Q1**\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
-*et al.* (incl. **A. Anand**), 2026, DESI DR2 Results IV:
+*et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
 Alcock-Paczyński Measurements from the Lyman Alpha Forest and
-Cosmological Constraints, ArXiv, arXiv:2607.27410
+Cosmological Constraints](http://dx.doi.org/10.48550/arXiv.2607.27410)*,
+ArXiv, arXiv:2607.27410
 ([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[**Impact Factor:
 N/A; Scopus Quartile: N/A**\]
 
