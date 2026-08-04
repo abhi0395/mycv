@@ -346,7 +346,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 49 / refereed: 34 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 37 / total
-citations: 6,553 / h-index: 19 (Last updated: 2026-08-03)
+citations: 6,553 / h-index: 19 (Last updated: 2026-08-04)
 
 ### First-author publications (citations: 149)
 
