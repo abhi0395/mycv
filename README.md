@@ -346,7 +346,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 49 / refereed: 34 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 37 / total
-citations: 6,553 / h-index: 19 (Last updated: 2026-08-05)
+citations: 6,553 / h-index: 19 (Last updated: 2026-08-06)
 
 ### First-author publications (citations: 149)
 
@@ -580,15 +580,6 @@ arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
 \[[1 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260216134K)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
-ArXiv, arXiv:2512.03845
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251203845C)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
-
 Lange, Johannes U.; Wells, Alexandra; Hearin, Andrew; Beltz-Mohrmann,
 Gillian; Leauthaud, Alexie; *et al.* (incl. **A. Anand**), 2025,
 *[Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy
@@ -596,6 +587,15 @@ Lensing with DESI DR1](http://dx.doi.org/10.48550/arXiv.2512.15962)*,
 ArXiv, arXiv:2512.15962
 ([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251215962L)\]
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2025, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.48550/arXiv.2512.03845)*,
+ArXiv, arXiv:2512.03845
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251203845C)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
