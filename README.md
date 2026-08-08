@@ -245,9 +245,9 @@ Technology): Co-mentoring a project on the circumgalactic medium of
 low-redshift galaxies using SDSS, DESI, and HST data; manuscript in
 preparation (2026–present).
 
-Joanne Tan (PhD, Max Planck Institute for Astrophysics): Co-mentoring a
+Joanne Tan (PhD, Max Planck Institute for Astrophysics): Co-mentored a
 project on metal absorbers in TNG100 simulations; manuscript in
-preparation (2025–present).
+preparation (2025–2026, now a postdoc at ASIAA, Taiwan).
 
 Corey Dodeson (Undergraduate, UC Berkeley): Supervised a short-term
 reading project on the circumgalactic medium (2023).
