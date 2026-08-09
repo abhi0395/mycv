@@ -3,6 +3,10 @@
 \documentclass[11pt,letterpaper]{article}
 \input{cvstyle}
 \newcommand{\tex}[1]{#1}
+\newcommand{\shortmonthname}{%
+  \ifcase\month\or Jan\or Feb\or Mar\or Apr\or May\or Jun\or Jul\or Aug\or Sep\or Oct\or Nov\or Dec\fi
+}
+\newcommand{\lastupdatedate}{\shortmonthname\ \number\day, \number\year}
 
 \begin{document}\thispagestyle{empty}\sloppy\sloppypar\raggedbottom
 
@@ -213,4 +217,5 @@ I study galaxy formation and evolution through the circumgalactic and intergalac
   \input{collaboration_author}
 \end{list}
 \fi
+\noindent\textit{Last update on: \lastupdatedate}
 \end{document}
