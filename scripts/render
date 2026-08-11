@@ -155,9 +155,22 @@ if __name__ == "__main__":
 
     # Compute citation stats
     nrefpapers = len(ref)
-    ntotal = len(ref)+len(unref)
+    ntotal = len(ref) + len(unref)
 
-    assert ntotal==len(first) + len(significant) + len(collaboration)
+    first_len = len(first)
+    significant_len = len(significant)
+    collaboration_len = len(collaboration)
+    print(
+        f"publication grouping counts: first={first_len}, "
+        f"significant={significant_len}, collaboration={collaboration_len}, total={ntotal}"
+    )
+
+    if ntotal != first_len + significant_len + collaboration_len:
+        raise AssertionError(
+            "Publication grouping mismatch: "
+            f"ntotal={ntotal}, first={first_len}, significant={significant_len}, "
+            f"collaboration={collaboration_len}"
+        )
 
     # Per-subsection citation totals (computed before format_pub transforms the lists)
     first_cites = sum(p["citations"] for p in first)
