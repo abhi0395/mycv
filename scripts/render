@@ -166,6 +166,10 @@ if __name__ == "__main__":
     )
 
     if ntotal != first_len + significant_len + collaboration_len:
+        print(
+            "missing publication title(s):",
+            [p["title"] for p in pubs if p not in (first + significant + collaboration)],
+        )
         raise AssertionError(
             "Publication grouping mismatch: "
             f"ntotal={ntotal}, first={first_len}, significant={significant_len}, "
