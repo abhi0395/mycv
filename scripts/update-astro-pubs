@@ -127,7 +127,7 @@ def get_papers(author):
             if paper.page is not None and paper.page[0].startswith("arXiv:"):
                 aid.append(":".join(paper.page[0].split(":")[1:]))
 
-        if ("LiteBIRD" not in paper.title[0] and "LIGO" not in paper.title[0]) and paper.doctype!="phdthesis":
+        if ("LiteBIRD" not in paper.title[0] and "GWTC-5.0" not in paper.title[0]) and paper.doctype!="phdthesis":
             dicts.append(
                 dict(
                     doctype=paper.doctype,
