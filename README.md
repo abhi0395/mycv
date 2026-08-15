@@ -346,7 +346,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 50 / refereed: 34 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 38 / total
-citations: 6,725 / h-index: 20 (Last updated: 2026-08-14)
+citations: 6,729 / h-index: 20 (Last updated: 2026-08-15)
 
 ### First-author publications (citations: 149)
 
@@ -398,7 +398,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Selected significant contributions (citations: 97)
+### Selected significant contributions (citations: 98)
 
 <div class="list">
 
@@ -458,13 +458,13 @@ Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
 White, Simon D. M., 2023, *[The physical origin of galactic conformity:
 from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
 Monthly Notices of the Royal Astronomical Society, **519**, 1913
-([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[29
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 \[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
 
 </div>
 
-### Collaboration papers (citations: 6479)
+### Collaboration papers (citations: 6482)
 
 <div class="list">
 
@@ -778,7 +778,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[559
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[562
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
