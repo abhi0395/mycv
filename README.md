@@ -39,8 +39,8 @@ for robust analysis of current and future spectroscopic survey data.
 <div class="list">
 
 Dec 2025 - present: Independent Postdoctoral Fellow, IUCAA, Pune, India;
-*Affiliate Scientist*, Lawrence Berkeley National Lab, Berkeley, CA, USA
-(from Feb 2026)  
+*Affiliate PostdoctoralScientist*, Lawrence Berkeley National Lab,
+Berkeley, CA, USA (from Feb 2026)  
 
 - Leading an independent research program on the statistical properties
   of metals in the Universe and the physical state of gas in and around
@@ -139,6 +139,12 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 
 <div class="list">
 
+Sep 2026: *Department of Astronomy (DAASE)*, IIT Indore, India — invited
+seminar
+
+Sep 2026: *Bridging Observations and Simulations in CGM-IGM Science*,
+CUHP, Dharamshala, India — invited talk
+
 May 2026: *Department of Physics Seminar*, Presidency University,
 Kolkata, India — invited seminar
 
@@ -228,26 +234,27 @@ Government of India (2012–2017).
 
 <div class="list">
 
-Suman Sourav Biswal (MS, IISER Berhampur): Co-mentoring a project on
-characterizing neutral gas in the ISM of nearby galaxies (2026–present,
-IUCAA VSP Program Student).
+Suman Sourav Biswal (MS, IISER Berhampur): Co-mentored with Prof. Sowgat
+Muzahid on a project characterizing neutral gas in the ISM of nearby
+galaxies (Jun–Aug 2026; IUCAA VSP student).
 
-Roshna V (MSc, Central University of Andhra Pradesh): Co-mentoring a
-project on the data-driven approach to model quasar continuum
-(2026–present, IUCAA VSP Program Student).
+Roshna V (MSc, Central University of Andhra Pradesh): Co-mentored with
+Prof. Sowgat Muzahid on a data-driven approach to modeling quasar
+continua (Jun–Aug 2026; IUCAA VSP student).
 
 Paryag Sharma (PhD, Central University of Himachal Pradesh):
-Co-mentoring a project on the circumgalactic medium of quasars using
-SDSS and DESI data; manuscript in preparation (2026–present).
+Co-mentoring with Prof. Raghunathan Srianand and Prof. Hum Chand on the
+circumgalactic medium of quasars using SDSS and DESI data
+(2026–present).
 
 Sumukha Bharadwaj (PhD, Indian Institute of Space Science and
-Technology): Co-mentoring a project on the circumgalactic medium of
-low-redshift galaxies using SDSS, DESI, and HST data; manuscript in
-preparation (2026–present).
+Technology): Co-mentoring with Prof. Anand Narayanan on the
+circumgalactic medium of low-redshift galaxies using SDSS, DESI, and HST
+data (2026–present).
 
-Joanne Tan (PhD, Max Planck Institute for Astrophysics): Co-mentored a
-project on metal absorbers in TNG100 simulations; manuscript in
-preparation (2025–2026, now a postdoc at ASIAA, Taiwan).
+Joanne Tan (PhD, Max Planck Institute for Astrophysics): Co-mentored
+with Dr. Thorsten Naab on metal absorbers in the TNG100 simulation
+(2025–2026; now a postdoctoral researcher at ASIAA, Taiwan).
 
 Corey Dodeson (Undergraduate, UC Berkeley): Supervised a short-term
 reading project on the circumgalactic medium (2023).
@@ -361,6 +368,77 @@ Journal, **990**, 151
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..151A)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
+*<u>My role:</u> Constructed the largest catalogue of triply ionized
+carbon absorbers to date and measured the evolution of their incidence
+and cosmic mass density over 1.4<z<4.5. Interpreted these trends in
+the context of the cosmic star-formation history and the evolution of
+the ultraviolet background.*
+
+**Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
+Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
+the Dark Energy Spectroscopic Instrument
+Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
+Journal, **168**, 124
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[44
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
+\[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Developed and implemented a new galaxy redshift-fitting
+method for DESI that reduced catastrophic failures and improved redshift
+reliability. The method provides a flexible alternative for estimating
+redshifts in current and future large spectroscopic surveys.*
+
+**Anand, Abhijeet**; Kauffmann, Guinevere; & Nelson, Dylan, 2022, *[Cool
+circumgalactic gas in galaxy clusters: connecting the DESI legacy
+imaging survey and SDSS DR16 Mg II
+absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
+the Royal Astronomical Society, **513**, 3210
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[31
+citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
+\[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Mapped cool metal-enriched gas around galaxy clusters
+and compared its distribution with that around field galaxies. This was
+among the first studies to show that galaxy clusters host a substantial
+reservoir of cool metal-enriched gas in the intracluster medium.*
+
+**Anand, Abhijeet**; Nelson, Dylan; & Kauffmann, Guinevere, 2021,
+*[Characterizing the abundance, properties, and kinematics of the cool
+circumgalactic medium of galaxies in absorption with SDSS
+DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
+Royal Astronomical Society, **504**, 65
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[65
+citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
+\[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> onstructed a large SDSS DR16 Mg II absorber sample to
+characterize the abundance, spatial distribution, and kinematics of cool
+circumgalactic gas around star-forming and passive galaxies. Identified
+the characteristic scales at which differences driven by stellar
+processes and halo-scale processes begin to emerge.*
+
+**Anand, Abhijeet**; Roy, Nirupam; & Gopal-Krishna, 2019, *[Search for H
+I emission from superdisk candidates associated with radio
+galaxies](http://dx.doi.org/10.1088/1674-4527/19/6/83)*, Research in
+Astronomy and Astrophysics, **19**, 083
+([arXiv:1812.06875](http://arxiv.org/abs/1812.06875)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
+\[**Impact Factor: 2.6; Scopus Quartile: Q2**\]
+
+*<u>My role:</u> Analysed VLA observations and performed the spectral
+analysis to search for H I 21 cm emission from superdisk radio galaxies.
+Led the interpretation and writing of the paper as part of my MS thesis
+at IISc Bangalore.*
+
+**Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
+A.; *et al.*, 2025, *[The Cosmic Evolution of C IV Absorbers at 1.4 \< z
+\< 4.5: Insights from 100,000 Systems in DESI
+Quasars](http://dx.doi.org/10.3847/1538-4357/adef3c)*, The Astrophysical
+Journal, **990**, 151
+([arXiv:2504.20299](http://arxiv.org/abs/2504.20299)) \[[6
+citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..151A)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
 **Anand, Abhijeet**; Guy, Julien; Bailey, Stephen; Moustakas, John;
 Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
@@ -401,6 +479,94 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 ### Selected significant contributions (citations: 98)
 
 <div class="list">
+
+Napolitano, Lucas; Myers, Adam D.; Tedeschi, Adam; **Anand, Abhijeet**;
+Herrera-Alcantar, Hiram K.; *et al.*, 2025, *[The Composite Spectrum of
+QSO Absorption Line Systems in DESI
+DR2](http://dx.doi.org/10.48550/arXiv.2512.02992)*, ArXiv,
+arXiv:2512.02992 ([arXiv:2512.02992](http://arxiv.org/abs/2512.02992))
+\[[1 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251202992N)\]
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+*<u>My role:</u> Contributed to absorber selection for the stacking
+analysis and served as an internal reviewer during the
+collaboration-wide review.*
+
+Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
+Abhijeet**; *et al.*, 2025, *[The Multi-Phase Circumgalactic Medium of
+DESI Emission-Line Galaxies at
+z 1.5](http://dx.doi.org/10.48550/arXiv.2511.03195)*, ArXiv,
+arXiv:2511.03195 ([arXiv:2511.03195](http://arxiv.org/abs/2511.03195))
+\[[4 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251103195L)\]
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+*<u>My role:</u> Contributed to the column density measurements of C IV
+absorbers identified in DESI quasar spectra and to the interpretation of
+the results in the context of previous work.*
+
+Wu, Xuanyi; Cai, Z.; Lan, T.-W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
+2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
+Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
+Using DESI-Y1 Data](http://dx.doi.org/10.3847/1538-4357/adb28a)*, The
+Astrophysical Journal, **983**, 186
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[15
+citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...983..186W)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Contributed to the discussion section and to the
+interpretation of the results in the context of the circumgalactic
+medium of emission-line galaxies.*
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Napolitano, Lucas;
+**Anand, Abhijeet**; *et al.*, 2024, *[Probing the Impact of Radio-mode
+Feedback on the Properties of the Cool Circumgalactic
+Medium](http://dx.doi.org/10.3847/1538-4357/ad6c44)*, The Astrophysical
+Journal, **974**, 191
+([arXiv:2405.08314](http://arxiv.org/abs/2405.08314)) \[[9
+citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..191C)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Contributed to writing and to placing the results in
+the context of previous studies of gas profiles around luminous red
+galaxies.*
+
+Galiullin, Ilkham; Rodriguez, Antonio C.; El-Badry, Kareem; Szkody,
+Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for new
+cataclysmic variables in the Chandra Source
+Catalog](http://dx.doi.org/10.1051/0004-6361/202450734)*, Astronomy and
+Astrophysics, **690**, A374
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[7
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.374G)\]
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+*<u>My role:</u> Contributed to cross-matching the Chandra Source
+Catalog with SDSS and DESI EDR data, leading to the identification of
+new cataclysmic variables with follow-up from eROSITA and Keck.*
+
+Napolitano, Lucas; Pandey, Agnesh; Myers, Adam D.; Lan, Ting-Wen;
+**Anand, Abhijeet**; *et al.*, 2023, *[Detecting and Characterizing Mg
+II Absorption in DESI Survey Validation Quasar
+Spectra](http://dx.doi.org/10.3847/1538-3881/ace62c)*, The Astronomical
+Journal, **166**, 99
+([arXiv:2305.20016](http://arxiv.org/abs/2305.20016)) \[[30
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...99N)\]
+\[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Contributed to algorithm development and to the
+physical interpretation of Mg II absorbers detected in DESI early quasar
+data.*
+
+Ayromlou, Mohammadreza; Kauffmann, Guinevere; **Anand, Abhijeet**; &
+White, Simon D. M., 2023, *[The physical origin of galactic conformity:
+from theory to observation](http://dx.doi.org/10.1093/mnras/stac3637)*,
+Monthly Notices of the Royal Astronomical Society, **519**, 1913
+([arXiv:2207.02218](http://arxiv.org/abs/2207.02218)) \[[29
+citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
+\[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
+
+*<u>My role:</u> Contributed to the comparison of conformity signals in
+blue and red galaxies between L-Galaxies simulations and observations
+from the Legacy Imaging Surveys and SDSS.*
 
 Napolitano, Lucas; Myers, Adam D.; Tedeschi, Adam; **Anand, Abhijeet**;
 Herrera-Alcantar, Hiram K.; *et al.*, 2025, *[The Composite Spectrum of
@@ -802,7 +968,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: JanFebMarAprMayJunJulAugSepOctNovDec  ,*
+*Last update on: Aug 18, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
