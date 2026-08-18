@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+from datetime import date
 
 def fix_latex_inline(line):
     """
@@ -38,6 +39,12 @@ if __name__ == "__main__":
     prev = ""
     for i, line in enumerate(lines):
         stripped = line.strip()
+
+        if stripped.startswith("*Last update on:"):
+            line = "*Last update on: {0}*".format(
+                date.today().strftime("%b %d, %Y").replace(" 0", " ")
+            )
+            stripped = line.strip()
 
         if stripped.startswith("=") or stripped.startswith("<span> ="):
             continue
