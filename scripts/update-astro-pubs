@@ -127,7 +127,10 @@ def get_papers(author):
             if paper.page is not None and paper.page[0].startswith("arXiv:"):
                 aid.append(":".join(paper.page[0].split(":")[1:]))
 
-        if ("LiteBIRD" not in paper.title[0] and "GWTC-5.0" not in paper.title[0]) and paper.doctype!="phdthesis":
+        keywords = ["LIGO", "Virgo", "KAGRA", "LiteBIRD", "GWTC-5.0", "Gravitational-Wave"]
+
+        if not any(word.lower() in paper.title[0].lower() for word in keywords) and (paper.doctype!="phdthesis"):
+
             dicts.append(
                 dict(
                     doctype=paper.doctype,
