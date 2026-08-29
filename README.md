@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 50 / refereed: 34 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 38 / total
-citations: 6,734 / h-index: 20 (Last updated: 2026-08-28)
+citations: 6,767 / h-index: 20 (Last updated: 2026-08-29)
 
 ### First-author publications (citations: 149)
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6487)
+### Collaboration papers (citations: 6520)
 
 <div class="list">
 
@@ -688,7 +688,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 clustering from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/09/008)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 008
-([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[144
+([arXiv:2411.12021](http://arxiv.org/abs/2411.12021)) \[[178
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -740,7 +740,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 oscillations from galaxies and
 quasars](http://dx.doi.org/10.1088/1475-7516/2025/04/012)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 012
-([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[546
+([arXiv:2404.03000](http://arxiv.org/abs/2404.03000)) \[[545
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -809,7 +809,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Aug 28, 2026*
+*Last update on: Aug 29, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
