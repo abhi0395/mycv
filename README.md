@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 50 / refereed: 34 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 38 / total
-citations: 6,767 / h-index: 20 (Last updated: 2026-08-30)
+citations: 6,774 / h-index: 20 (Last updated: 2026-08-31)
 
 ### First-author publications (citations: 149)
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6520)
+### Collaboration papers (citations: 6527)
 
 <div class="list">
 
@@ -528,7 +528,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[522
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[524
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -662,7 +662,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[250
+\[[251
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -758,7 +758,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[381
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[382
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -785,7 +785,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[565
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[567
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -794,7 +794,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[300
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[301
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -809,7 +809,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Aug 30, 2026*
+*Last update on: Aug 31, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
