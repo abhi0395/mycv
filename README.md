@@ -351,9 +351,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 50 / refereed: 34 / first-author: 5 / selected
-significant contributions: 7 / collaboration papers: 38 / total
-citations: 6,774 / h-index: 20 (Last updated: 2026-09-01)
+Total publications: 51 / refereed: 34 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 39 / total
+citations: 6,774 / h-index: 20 (Last updated: 2026-09-02)
 
 ### First-author publications (citations: 149)
 
@@ -482,6 +482,13 @@ Astrophysical Journal, **1006**, 147
 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
+Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
+Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
+Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
+Sky Fibers, ArXiv, arXiv:2608.28740
+([arXiv:2608.28740](http://arxiv.org/abs/2608.28740)) \[**Impact Factor:
+N/A; Scopus Quartile: N/A**\]
 
 Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 *et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
@@ -809,7 +816,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 1, 2026*
+*Last update on: Sep 2, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
