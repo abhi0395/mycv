@@ -351,9 +351,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 51 / refereed: 34 / first-author: 5 / selected
-significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,792 / h-index: 20 (Last updated: 2026-09-04)
+Total publications: 52 / refereed: 35 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 40 / total
+citations: 6,790 / h-index: 20 (Last updated: 2026-09-05)
 
 ### First-author publications (citations: 151)
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6543)
+### Collaboration papers (citations: 6541)
 
 <div class="list">
 
@@ -496,6 +496,13 @@ Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
 arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
+Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
+from the BAO amplitude: A consistent approach to parametrizing
+perturbation growth](http://dx.doi.org/10.1103/fcb6-7xpx)*, Physical
+Review D, **114**, 043545 \[**Impact Factor: 5.3; Scopus Quartile:
+Q1**\]
 
 Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
 S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
@@ -660,7 +667,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1366
+\[[1365
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -756,7 +763,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1770
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1769
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -816,7 +823,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 4, 2026*
+*Last update on: Sep 5, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
