@@ -351,9 +351,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 52 / refereed: 35 / first-author: 5 / selected
-significant contributions: 7 / collaboration papers: 40 / total
-citations: 6,790 / h-index: 20 (Last updated: 2026-09-06)
+Total publications: 51 / refereed: 35 / first-author: 5 / selected
+significant contributions: 7 / collaboration papers: 39 / total
+citations: 6,789 / h-index: 20 (Last updated: 2026-09-07)
 
 ### First-author publications (citations: 151)
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6541)
+### Collaboration papers (citations: 6540)
 
 <div class="list">
 
@@ -483,12 +483,13 @@ Astrophysical Journal, **1006**, 147
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
-Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
-*et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
-1.0<z<3.5 from SDSS and
-DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
-arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
+Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
+from the BAO amplitude: A consistent approach to parametrizing
+perturbation growth](http://dx.doi.org/10.1103/fcb6-7xpx)*, Physical
+Review D, **114**, 043545
+([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[**Impact Factor:
+5.3; Scopus Quartile: Q1**\]
 
 Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
 Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
@@ -497,12 +498,20 @@ Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
 arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
-Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
-Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
-from the BAO amplitude: A consistent approach to parametrizing
-perturbation growth](http://dx.doi.org/10.1103/fcb6-7xpx)*, Physical
-Review D, **114**, 043545 \[**Impact Factor: 5.3; Scopus Quartile:
-Q1**\]
+Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
+*et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
+1.0<z<3.5 from SDSS and
+DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
+arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
+*et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
+Alcock-Paczyński Measurements from the Lyman Alpha Forest and
+Cosmological Constraints](http://dx.doi.org/10.48550/arXiv.2607.27410)*,
+ArXiv, arXiv:2607.27410
+([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[**Impact Factor:
+N/A; Scopus Quartile: N/A**\]
 
 Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
 S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
@@ -512,14 +521,6 @@ Astronomical Journal, **172**, 65
 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172...65D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
-*et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
-Alcock-Paczyński Measurements from the Lyman Alpha Forest and
-Cosmological Constraints](http://dx.doi.org/10.48550/arXiv.2607.27410)*,
-ArXiv, arXiv:2607.27410
-([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[**Impact Factor:
-N/A; Scopus Quartile: N/A**\]
 
 Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
@@ -651,15 +652,6 @@ of local environment on Ly{\ensuremath{\alpha}} line profile in
 DESI/ODIN LAEs](http://dx.doi.org/10.48550/arXiv.2511.17498)*, ArXiv,
 arXiv:2511.17498 ([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
 \[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
-
-Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
-Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2025, *[Baryon fraction
-from the BAO amplitude: a consistent approach to parameterizing
-perturbation growth](http://dx.doi.org/10.48550/arXiv.2511.23459)*,
-ArXiv, arXiv:2511.23459
-([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[[1
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251123459C)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
@@ -823,7 +815,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 6, 2026*
+*Last update on: Sep 7, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
