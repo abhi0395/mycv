@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 51 / refereed: 35 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,789 / h-index: 20 (Last updated: 2026-09-07)
+citations: 6,792 / h-index: 20 (Last updated: 2026-09-08)
 
 ### First-author publications (citations: 151)
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6540)
+### Collaboration papers (citations: 6543)
 
 <div class="list">
 
@@ -482,14 +482,6 @@ Astrophysical Journal, **1006**, 147
 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
-
-Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
-Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
-from the BAO amplitude: A consistent approach to parametrizing
-perturbation growth](http://dx.doi.org/10.1103/fcb6-7xpx)*, Physical
-Review D, **114**, 043545
-([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[**Impact Factor:
-5.3; Scopus Quartile: Q1**\]
 
 Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
 Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
@@ -504,6 +496,14 @@ Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
 arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
+Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
+Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
+from the BAO amplitude: A consistent approach to parametrizing
+perturbation growth](http://dx.doi.org/10.1103/fcb6-7xpx)*, Physical
+Review D, **114**, 043545
+([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[**Impact Factor:
+5.3; Scopus Quartile: Q1**\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
 *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
@@ -543,7 +543,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[526
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[527
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -584,6 +584,14 @@ Cosmology and Astroparticle Physics, **2026**, 019
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...03..019E)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
+Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
+Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
+All-Sky Survey with
+Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
+arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
+\[[1 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
 Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2026, *[A
 New Way to Discover Strong Gravitational Lenses: Pairwise Spectroscopic
@@ -592,14 +600,6 @@ Astrophysical Journal Supplement Series, **282**, 41
 ([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...41H)\]
 \[**Impact Factor: 7.7; Scopus Quartile: Q1**\]
-
-Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
-Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
-All-Sky Survey with
-Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
-arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
-\[[1 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Kamalinejad, Farshad; Slepian, Zachary; Krolewski, Alex; Greco,
 Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
@@ -668,7 +668,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[251
+\[[252
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -728,7 +728,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[333
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[332
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -764,7 +764,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[381
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[382
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -791,7 +791,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[566
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[567
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -815,7 +815,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 7, 2026*
+*Last update on: Sep 8, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
