@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 51 / refereed: 35 / first-author: 5 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,807 / h-index: 20 (Last updated: 2026-09-22)
+citations: 6,808 / h-index: 20 (Last updated: 2026-09-23)
 
 ### First-author publications (citations: 151)
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6557)
+### Collaboration papers (citations: 6558)
 
 <div class="list">
 
@@ -810,13 +810,13 @@ Schlafly, Edward F.; *et al.* (incl. **A. Anand**), 2023, *[NANCY:
 Next-generation All-sky Near-infrared Community
 surveY](http://dx.doi.org/10.48550/arXiv.2306.11784)*, ArXiv,
 arXiv:2306.11784 ([arXiv:2306.11784](http://arxiv.org/abs/2306.11784))
-\[[10
+\[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 </div>
 
-*Last update on: Sep 22, 2026*
+*Last update on: Sep 23, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
