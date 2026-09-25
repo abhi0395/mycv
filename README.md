@@ -353,17 +353,17 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 35 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,834 / h-index: 20 (Last updated: 2026-09-24)
+citations: 6,834 / h-index: 20 (Last updated: 2026-09-25)
 
 ### First-author publications (citations: 150)
 
 <div class="list">
 
-**Anand, Abhijeet**; & Muzahid, Sowgat, 2026, The First Blind Survey of
-Intervening NaI Absorbers: Incidence and Cosmic Evolution with DESI,
-ArXiv, arXiv:2609.26794
-([arXiv:2609.26794](http://arxiv.org/abs/2609.26794)) \[**Impact Factor:
-N/A; Scopus Quartile: N/A**\]
+**Anand, Abhijeet**; & Muzahid, Sowgat, 2026, *[The First Blind Survey
+of Intervening NaI Absorbers: Incidence and Cosmic Evolution with
+DESI](http://dx.doi.org/10.48550/arXiv.2609.26794)*, ArXiv,
+arXiv:2609.26794 ([arXiv:2609.26794](http://arxiv.org/abs/2609.26794))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 **Anand, Abhijeet**; Aguilar, J.; Ahlen, S.; Bianchi, D.; Brodzeller,
 A.; *et al.*, 2025, *[The Cosmic Evolution of C IV Absorbers at 1.4 \< z
@@ -822,7 +822,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 24, 2026*
+*Last update on: Sep 25, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
