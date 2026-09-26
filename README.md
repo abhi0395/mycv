@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 35 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,834 / h-index: 20 (Last updated: 2026-09-25)
+citations: 6,834 / h-index: 20 (Last updated: 2026-09-26)
 
 ### First-author publications (citations: 150)
 
@@ -822,7 +822,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 25, 2026*
+*Last update on: Sep 26, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
