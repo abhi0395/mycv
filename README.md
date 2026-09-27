@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 35 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,834 / h-index: 20 (Last updated: 2026-09-26)
+citations: 6,832 / h-index: 20 (Last updated: 2026-09-27)
 
 ### First-author publications (citations: 150)
 
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6585)
+### Collaboration papers (citations: 6583)
 
 <div class="list">
 
@@ -666,7 +666,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1380
+\[[1379
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -762,7 +762,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1781
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1780
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -822,7 +822,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 26, 2026*
+*Last update on: Sep 27, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
