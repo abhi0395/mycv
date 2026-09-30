@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 37 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,855 / h-index: 20 (Last updated: 2026-09-29)
+citations: 6,855 / h-index: 20 (Last updated: 2026-09-30)
 
 ### First-author publications (citations: 150)
 
@@ -492,8 +492,9 @@ Blanco, Diana; Leauthaud, Alexie; Lange, Johannes Ulf; Wright, Angus H.;
 Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2026, *[The Power
 of DESI for Photometric Redshift Calibration: A Case Study with
 KiDS-1000](http://dx.doi.org/10.33232/001c.163965)*, The Open Journal of
-Astrophysics, **9**, 63965 \[**Impact Factor: 2.4; Scopus Quartile:
-Q1**\]
+Astrophysics, **9**, 63965
+([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[**Impact Factor:
+2.4; Scopus Quartile: Q1**\]
 
 McArthur, E.; Millon, M.; Powell, M.; Wechsler, R. H.; Pan, Z.;
 *et al.* (incl. **A. Anand**), 2026, *[Quasars Acting as Strong Lenses
@@ -819,7 +820,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 29, 2026*
+*Last update on: Sep 30, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
