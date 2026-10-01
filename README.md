@@ -353,9 +353,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 37 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,855 / h-index: 20 (Last updated: 2026-09-30)
+citations: 6,858 / h-index: 20 (Last updated: 2026-10-01)
 
-### First-author publications (citations: 150)
+### First-author publications (citations: 151)
 
 <div class="list">
 
@@ -379,7 +379,7 @@ Aguilar, J.; *et al.*, 2024, *[Archetype-based Redshift Estimation for
 the Dark Energy Spectroscopic Instrument
 Survey](http://dx.doi.org/10.3847/1538-3881/ad60c2)*, The Astronomical
 Journal, **168**, 124
-([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[44
+([arXiv:2405.19288](http://arxiv.org/abs/2405.19288)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..124A)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -411,7 +411,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Selected significant contributions (citations: 99)
+### Selected significant contributions (citations: 98)
 
 <div class="list">
 
@@ -436,7 +436,7 @@ Wu, Xuanyi; Cai, Z.; Lan, T.-W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
 Using DESI-Y1 Data](http://dx.doi.org/10.3847/1538-4357/adb28a)*, The
 Astrophysical Journal, **983**, 186
-([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[16
+([arXiv:2407.17809](http://arxiv.org/abs/2407.17809)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...983..186W)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6606)
+### Collaboration papers (citations: 6609)
 
 <div class="list">
 
@@ -485,16 +485,19 @@ Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
 Aguilar, J.; *et al.* (incl. **A. Anand**), 2026, *[Tracing the Cosmic
 Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
 with DESI Year 1 Data](http://dx.doi.org/10.3847/1538-4357/ae96b2)*, The
-Astrophysical Journal, **1009**, 121 \[**Impact Factor: 5.7; Scopus
-Quartile: Q1**\]
+Astrophysical Journal, **1009**, 121
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..121C)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
 Blanco, Diana; Leauthaud, Alexie; Lange, Johannes Ulf; Wright, Angus H.;
 Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2026, *[The Power
 of DESI for Photometric Redshift Calibration: A Case Study with
 KiDS-1000](http://dx.doi.org/10.33232/001c.163965)*, The Open Journal of
 Astrophysics, **9**, 63965
-([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[**Impact Factor:
-2.4; Scopus Quartile: Q1**\]
+([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2026OJAp....963965B)\]
+\[**Impact Factor: 2.4; Scopus Quartile: Q1**\]
 
 McArthur, E.; Millon, M.; Powell, M.; Wechsler, R. H.; Pan, Z.;
 *et al.* (incl. **A. Anand**), 2026, *[Quasars Acting as Strong Lenses
@@ -565,7 +568,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[534
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[537
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -673,7 +676,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[259
+\[[258
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -733,7 +736,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[337
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[336
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -760,7 +763,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the measurements of baryon acoustic
 oscillations](http://dx.doi.org/10.1088/1475-7516/2025/02/021)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 021
-([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1787
+([arXiv:2404.03002](http://arxiv.org/abs/2404.03002)) \[[1785
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -769,7 +772,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 Oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1088/1475-7516/2025/01/124)*, Journal of
 Cosmology and Astroparticle Physics, **2025**, 124
-([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[383
+([arXiv:2404.03001](http://arxiv.org/abs/2404.03001)) \[[382
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -778,7 +781,7 @@ Ross, A. J.; Aguilar, J.; Ahlen, S.; Alam, S.; **Anand, Abhijeet**;
 the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.1088/1475-7516/2025/01/125)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 125
-([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[59
+([arXiv:2405.16593](http://arxiv.org/abs/2405.16593)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..125R)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -796,7 +799,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[570
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[569
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -820,7 +823,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Sep 30, 2026*
+*Last update on: Oct 1, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
