@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 37 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,878 / h-index: 20 (Last updated: 2026-10-06)
+citations: 6,878 / h-index: 20 (Last updated: 2026-10-07)
 
 ### First-author publications (citations: 151)
 
@@ -516,6 +516,13 @@ Review D, **114**, 043545
 citations](https://ui.adsabs.harvard.edu/abs/2026PhRvD.114d3545C)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
+Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
+Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
+*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
+Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
+arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 *et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
 1.0<z<3.5 from SDSS and
@@ -523,12 +530,13 @@ DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
 arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
-Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
-Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
-*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
-Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
-arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
+*et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
+Alcock-Paczyński Measurements from the Lyman Alpha Forest and
+Cosmological Constraints](http://dx.doi.org/10.48550/arXiv.2607.27410)*,
+ArXiv, arXiv:2607.27410
+([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[**Impact Factor:
+N/A; Scopus Quartile: N/A**\]
 
 Dey, Biprateep; Newman, Jeffrey A.; Zhang, Tianqing; Aguilar, J.; Ahlen,
 S.; *et al.* (incl. **A. Anand**), 2026, *[Deep Spectroscopy with DESI
@@ -538,14 +546,6 @@ Astronomical Journal, **172**, 65
 ([arXiv:2604.06143](http://arxiv.org/abs/2604.06143)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172...65D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
-
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
-*et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
-Alcock-Paczyński Measurements from the Lyman Alpha Forest and
-Cosmological Constraints](http://dx.doi.org/10.48550/arXiv.2607.27410)*,
-ArXiv, arXiv:2607.27410
-([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[**Impact Factor:
-N/A; Scopus Quartile: N/A**\]
 
 Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
@@ -823,7 +823,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Oct 6, 2026*
+*Last update on: Oct 7, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
