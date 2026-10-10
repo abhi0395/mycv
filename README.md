@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 37 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,918 / h-index: 20 (Last updated: 2026-10-09)
+citations: 6,919 / h-index: 20 (Last updated: 2026-10-10)
 
 ### First-author publications (citations: 151)
 
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6667)
+### Collaboration papers (citations: 6668)
 
 <div class="list">
 
@@ -568,7 +568,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[548
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[549
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -823,7 +823,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Oct 9, 2026*
+*Last update on: Oct 10, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
