@@ -353,7 +353,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 38 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 6,969 / h-index: 20 (Last updated: 2026-10-14)
+citations: 6,969 / h-index: 20 (Last updated: 2026-10-15)
 
 ### First-author publications (citations: 151)
 
@@ -505,13 +505,6 @@ Astrophysical Journal, **1006**, 147
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
-Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
-Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
-*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
-Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
-arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
-
 Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
 Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
 from the BAO amplitude: A consistent approach to parametrizing
@@ -520,6 +513,13 @@ Review D, **114**, 043545
 ([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026PhRvD.114d3545C)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
+
+Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
+Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
+*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
+Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
+arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 *et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
@@ -821,7 +821,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Oct 14, 2026*
+*Last update on: Oct 15, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
