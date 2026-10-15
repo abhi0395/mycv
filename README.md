@@ -234,6 +234,15 @@ Government of India (2012–2017).
 
 <div class="list">
 
+Priya Sharma (PhD, Central University of Himachal Pradesh): Co-mentoring
+with Prof. Sowgat Muzahid on the nature of cold, shielded metal gas in
+and around galaxies (2026–present).
+
+Paryag Sharma (PhD, Central University of Himachal Pradesh):
+Co-mentoring with Prof. Raghunathan Srianand and Prof. Hum Chand on the
+circumgalactic medium of quasars using SDSS and DESI data
+(2026–present).
+
 Suman Sourav Biswal (MS, IISER Berhampur): Co-mentored with Prof. Sowgat
 Muzahid on a project characterizing neutral gas in the ISM of nearby
 galaxies (Jun–Aug 2026; IUCAA VSP student).
@@ -241,16 +250,6 @@ galaxies (Jun–Aug 2026; IUCAA VSP student).
 Roshna V (MSc, Central University of Andhra Pradesh): Co-mentored with
 Prof. Sowgat Muzahid on a data-driven approach to modeling quasar
 continua (Jun–Aug 2026; IUCAA VSP student).
-
-Paryag Sharma (PhD, Central University of Himachal Pradesh):
-Co-mentoring with Prof. Raghunathan Srianand and Prof. Hum Chand on the
-circumgalactic medium of quasars using SDSS and DESI data
-(2026–present).
-
-Sumukha Bharadwaj (PhD, Indian Institute of Space Science and
-Technology): Co-mentoring with Prof. Anand Narayanan on the
-circumgalactic medium of low-redshift galaxies using SDSS, DESI, and HST
-data (2026–present).
 
 Joanne Tan (PhD, Max Planck Institute for Astrophysics): Co-mentored
 with Dr. Thorsten Naab on metal absorbers in the TNG100 simulation
