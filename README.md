@@ -352,7 +352,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 53 / refereed: 40 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 40 / total
-citations: 7,241 / h-index: 20 (Last updated: 2026-10-22)
+citations: 7,241 / h-index: 20 (Last updated: 2026-10-23)
 
 ### First-author publications (citations: 158)
 
@@ -487,17 +487,17 @@ Astrophysical Journal, **1009**, 121
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..121C)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
-Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
-*et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
-Full-scale Clustering and Galaxy-Galaxy Lensing with DESI
-DR1](http://dx.doi.org/10.3847/1538-4357/aeaa3b)*, The Astrophysical
-Journal, **1010**, 170 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
-
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2026, *[Effect
 of Local Environment on Ly\alpha Line Profile in DESI/ODIN
 LAEs](http://dx.doi.org/10.3847/1538-4357/aea6d8)*, The Astrophysical
 Journal, **1010**, 76 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
+Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
+*et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
+Full-scale Clustering and Galaxy-Galaxy Lensing with DESI
+DR1](http://dx.doi.org/10.3847/1538-4357/aeaa3b)*, The Astrophysical
+Journal, **1010**, 170 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
 Blanco, Diana; Leauthaud, Alexie; Lange, Johannes Ulf; Wright, Angus H.;
 Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2026, *[The Power
@@ -516,6 +516,13 @@ Astrophysical Journal, **1006**, 147
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
+Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
+Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
+*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
+Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
+arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
 Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
 from the BAO amplitude: A consistent approach to parametrizing
@@ -524,13 +531,6 @@ Review D, **114**, 043545
 ([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026PhRvD.114d3545C)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
-
-Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
-Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
-*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
-Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
-arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 *et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
@@ -824,7 +824,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Oct 22, 2026*
+*Last update on: Oct 23, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
