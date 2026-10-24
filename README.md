@@ -356,9 +356,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 53 / refereed: 40 / first-author: 6 / selected
-significant contributions: 7 / collaboration papers: 40 / total
-citations: 7,241 / h-index: 20 (Last updated: 2026-10-24)
+Total publications: 52 / refereed: 40 / first-author: 6 / selected
+significant contributions: 7 / collaboration papers: 39 / total
+citations: 7,238 / h-index: 20 (Last updated: 2026-10-24)
 
 ### First-author publications (citations: 158)
 
@@ -482,7 +482,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6978)
+### Collaboration papers (citations: 6975)
 
 <div class="list">
 
@@ -499,7 +499,9 @@ Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2026, *[Effect
 of Local Environment on Ly\alpha Line Profile in DESI/ODIN
 LAEs](http://dx.doi.org/10.3847/1538-4357/aea6d8)*, The Astrophysical
-Journal, **1010**, 76 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+Journal, **1010**, 76
+([arXiv:2511.17498](http://arxiv.org/abs/2511.17498)) \[**Impact Factor:
+5.7; Scopus Quartile: Q1**\]
 
 Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
 *et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
@@ -664,14 +666,6 @@ Cosmology and Astroparticle Physics, **2025**, 053
 ([arXiv:2507.21852](http://arxiv.org/abs/2507.21852)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...12..053H)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
-
-Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
-P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2025, *[Effect
-of local environment on Ly{\ensuremath{\alpha}} line profile in
-DESI/ODIN LAEs](http://dx.doi.org/10.48550/arXiv.2511.17498)*, ArXiv,
-arXiv:2511.17498 ([arXiv:2511.17498](http://arxiv.org/abs/2511.17498))
-\[[3 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 *et al.* (incl. **A. Anand**), 2025, *[DESI DR2 results. II.
