@@ -139,6 +139,11 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 
 <div class="list">
 
+Dec 2026: *Cosmology Seminar*, Max Planck Institute for Astrophysics,
+Garching, Germany — invited seminar
+
+Dec 2026: *CGM Group Meeting*, ESO, Garching, Germany — invited talk
+
 Sep 2026: *Department of Astronomy (DAASE) Seminar*, IIT Indore, India —
 invited seminar
 
@@ -205,7 +210,7 @@ Max Planck-India Mobility Grant, Max Planck Society (2026–2029; EUR 5000
 p.a.): awarded to support annual research visits to German research
 institutes.
 
-IUCAA Independent Postdoctoral Fellowship (2025–2027).
+IUCAA Independent Postdoctoral Fellowship (2025–2028).
 
 [DESI Builder
 Award](https://www.desi.lbl.gov/collaboration/desi-builders/) (2025) for
@@ -292,7 +297,8 @@ Unix/Linux, CI/CD workflows
 <div class="list">
 
 Refereeing —  
-– Nature Astronomy (2026–present)  
+– Proposal reviewer for VLT/MUSE (2026–present) – Nature Astronomy
+(2026–present)  
 – Astronomy & Astrophysics (2023–present)  
 – Astrophysical Journal (2023–present)  
 – Internal reviewer for DESI collaboration papers (2023–present)
@@ -303,7 +309,7 @@ Leadership and Committee Service —
 Committee](https://desi.lbl.gov/trac/wiki/PublicPages/Contacts#ProfessionalDevelopmentCommittee)
 (2024–2025); contributed to early-career support and mentoring
 initiatives  
-– Organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/),
+– Co-organizer, [INPA Weekly Seminar](https://inpa.lbl.gov/events/),
 Physics Division, Lawrence Berkeley National Laboratory (2023–2024)
 
 Collaboration and Community Activities —  
