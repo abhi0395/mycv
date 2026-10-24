@@ -27,7 +27,7 @@ def remove_arxiv_duplicates(sorted_papers):
     """
     def normalize_title(title):
         # Convert to lowercase and strip extra spaces
-        title = ' '.join(title.lower().split())
+        title = ' '.join(title.lower().replace('$', '').split())
 
         # General normalization for chemical notations, removing spaces between elements and numbers
         title = re.sub(r'(?<=\w)\s+(?=\w)', '', title)
