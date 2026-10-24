@@ -44,12 +44,18 @@ def remove_arxiv_duplicates(sorted_papers):
 
         if normalized_title in title_dict:
             # If "arXiv" is in the current item's doi, add it to removed duplicates
+            existing = title_dict[normalized_title]
             if "arXiv" in doi:
+                # Keep the journal version, but fill in a missing arXiv ID from the arXiv one
+                if not existing.get("arxiv") and item.get("arxiv"):
+                    existing["arxiv"] = item["arxiv"]
                 removed_duplicates.append(item)
                 continue
             # If "arXiv" is in the existing item's doi, replace it and add the old item to removed duplicates
-            elif "arXiv" in title_dict[normalized_title].get("doi", ""):
-                removed_duplicates.append(title_dict[normalized_title])
+            elif "arXiv" in (existing.get("doi") or ""):
+                if not item.get("arxiv") and existing.get("arxiv"):
+                    item["arxiv"] = existing["arxiv"]
+                removed_duplicates.append(existing)
                 title_dict[normalized_title] = item
             else:
                 removed_duplicates.append(item)
@@ -57,11 +63,10 @@ def remove_arxiv_duplicates(sorted_papers):
             title_dict[normalized_title] = item
 
     # Return the cleaned list and the list of removed duplicates
-    cleaned_list = list(title_dict.values())
-    for i, clean in enumerate(cleaned_list):
-        if clean["doctype"] in ["inproceedings", "phdthesis"]:
-           cleaned_list.pop(i)
-    return cleaned_list
+    return [
+        clean for clean in title_dict.values()
+        if clean["doctype"] not in ["inproceedings", "phdthesis"]
+    ]
 
 
 here = os.path.dirname(os.path.abspath(__file__))
