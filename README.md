@@ -424,7 +424,9 @@ Napolitano, Lucas; Myers, Adam D.; Tedeschi, Adam; **Anand, Abhijeet**;
 Herrera-Alcantar, Hiram K.; *et al.*, 2026, *[The Composite Spectrum of
 QSO Absorption Line Systems in DESI
 DR2](http://dx.doi.org/10.3847/1538-3881/aea6da)*, The Astronomical
-Journal, **172**, 250 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
+Journal, **172**, 250
+([arXiv:2512.02992](http://arxiv.org/abs/2512.02992)) \[**Impact Factor:
+5.8; Scopus Quartile: Q1**\]
 
 Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
 Abhijeet**; *et al.*, 2025, *[The Multi-Phase Circumgalactic Medium of
@@ -503,7 +505,9 @@ Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
 *et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
 Full-scale Clustering and Galaxy-Galaxy Lensing with DESI
 DR1](http://dx.doi.org/10.3847/1538-4357/aeaa3b)*, The Astrophysical
-Journal, **1010**, 170 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+Journal, **1010**, 170
+([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[**Impact Factor:
+5.7; Scopus Quartile: Q1**\]
 
 Blanco, Diana; Leauthaud, Alexie; Lange, Johannes Ulf; Wright, Angus H.;
 Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2026, *[The Power
