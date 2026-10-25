@@ -297,8 +297,8 @@ Unix/Linux, CI/CD workflows
 <div class="list">
 
 Refereeing —  
-– Proposal reviewer for VLT/MUSE (2026–present) – Nature Astronomy
-(2026–present)  
+– Proposal reviewer for VLT/MUSE (2026–present)  
+– Nature Astronomy (2026–present)  
 – Astronomy & Astrophysics (2023–present)  
 – Astrophysical Journal (2023–present)  
 – Internal reviewer for DESI collaboration papers (2023–present)
