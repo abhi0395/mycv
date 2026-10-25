@@ -358,7 +358,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 40 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 7,238 / h-index: 20 (Last updated: 2026-10-24)
+citations: 7,238 / h-index: 20 (Last updated: 2026-10-25)
 
 ### First-author publications (citations: 158)
 
@@ -520,6 +520,13 @@ Astrophysics, **9**, 63965
 citations](https://ui.adsabs.harvard.edu/abs/2026OJAp....963965B)\]
 \[**Impact Factor: 2.4; Scopus Quartile: Q1**\]
 
+Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
+Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
+*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
+Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
+arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 McArthur, E.; Millon, M.; Powell, M.; Wechsler, R. H.; Pan, Z.;
 *et al.* (incl. **A. Anand**), 2026, *[Quasars Acting as Strong Lenses
 Found in DESI DR1](http://dx.doi.org/10.3847/1538-4357/ae8014)*, The
@@ -527,13 +534,6 @@ Astrophysical Journal, **1006**, 147
 ([arXiv:2511.02009](http://arxiv.org/abs/2511.02009)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
-
-Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
-Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
-*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
-Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
-arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
 Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
@@ -631,6 +631,14 @@ Cosmology and Astroparticle Physics, **2026**, 019
 citations](https://ui.adsabs.harvard.edu/abs/2026JCAP...03..019E)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
+Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
+Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
+All-Sky Survey with
+Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
+arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
+\[[2 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Hsu, Yuan-Ming; Huang, Xiaosheng; Storfer, Christopher J.; Inchausti,
 Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2026, *[A
 New Way to Discover Strong Gravitational Lenses: Pairwise Spectroscopic
@@ -639,14 +647,6 @@ Astrophysical Journal Supplement Series, **282**, 41
 ([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...41H)\]
 \[**Impact Factor: 7.7; Scopus Quartile: Q1**\]
-
-Han, Jiwon Jesse; Chiti, Anirudh; Chen, Kai-Feng; Bechtol, Keith;
-Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
-All-Sky Survey with
-Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
-arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
-\[[2 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Kamalinejad, Farshad; Slepian, Zachary; Krolewski, Alex; Greco,
 Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
@@ -828,7 +828,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Oct 24, 2026*
+*Last update on: Oct 25, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
