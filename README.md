@@ -356,9 +356,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 52 / refereed: 40 / first-author: 6 / selected
-significant contributions: 7 / collaboration papers: 39 / total
-citations: 7,238 / h-index: 20 (Last updated: 2026-10-25)
+Total publications: 50 / refereed: 39 / first-author: 6 / selected
+significant contributions: 6 / collaboration papers: 38 / total
+citations: 7,214 / h-index: 19 (Last updated: 2026-10-26)
 
 ### First-author publications (citations: 158)
 
@@ -420,14 +420,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 <div class="list">
 
-Napolitano, Lucas; Myers, Adam D.; Tedeschi, Adam; **Anand, Abhijeet**;
-Herrera-Alcantar, Hiram K.; *et al.*, 2026, *[The Composite Spectrum of
-QSO Absorption Line Systems in DESI
-DR2](http://dx.doi.org/10.3847/1538-3881/aea6da)*, The Astronomical
-Journal, **172**, 250
-([arXiv:2512.02992](http://arxiv.org/abs/2512.02992)) \[**Impact Factor:
-5.8; Scopus Quartile: Q1**\]
-
 Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
 Abhijeet**; *et al.*, 2025, *[The Multi-Phase Circumgalactic Medium of
 DESI Emission-Line Galaxies at
@@ -482,7 +474,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 6975)
+### Collaboration papers (citations: 6951)
 
 <div class="list">
 
@@ -499,9 +491,7 @@ Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
 P.; Ramakrishnan, Vandana; *et al.* (incl. **A. Anand**), 2026, *[Effect
 of Local Environment on Ly\alpha Line Profile in DESI/ODIN
 LAEs](http://dx.doi.org/10.3847/1538-4357/aea6d8)*, The Astrophysical
-Journal, **1010**, 76
-([arXiv:2511.17498](http://arxiv.org/abs/2511.17498)) \[**Impact Factor:
-5.7; Scopus Quartile: Q1**\]
+Journal, **1010**, 76 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
 Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
 *et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
@@ -719,15 +709,6 @@ arXiv:2509.20434 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434))
 \[[2 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250920434T)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
-Cuceu, Andrei; Herrera-Alcantar, Hiram K.; Gordon, Calum; Ramı́rez-Pérez,
-César; Armengaud, E.; *et al.* (incl. **A. Anand**), 2025, *[DESI DR1
-Ly{\ensuremath{\alpha}} forest: 3D full-shape analysis and
-cosmological constraints](http://dx.doi.org/10.48550/arXiv.2509.15308)*,
-ArXiv, arXiv:2509.15308
-([arXiv:2509.15308](http://arxiv.org/abs/2509.15308)) \[[24
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250915308C)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
-
 Medina, Gustavo E.; Li, Ting S.; Eadie, Gwendolyn M.; Riley, Alexander
 H.; Valluri, Monica; *et al.* (incl. **A. Anand**), 2025, *[The mass of
 the Milky Way from outer halo stars measured by DESI
@@ -828,7 +809,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Oct 25, 2026*
+*Last update on: Oct 26, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
