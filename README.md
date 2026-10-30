@@ -202,7 +202,7 @@ contributed talk
 
 </div>
 
-## Honors and Awards
+## Grants and Awards
 
 <div class="list">
 
@@ -358,9 +358,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 40 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 7,994 / h-index: 20 (Last updated: 2026-10-30)
+citations: 8,001 / h-index: 20 (Last updated: 2026-10-30)
 
-### First-author publications (citations: 169)
+### First-author publications (citations: 170)
 
 <div class="list">
 
@@ -393,7 +393,7 @@ circumgalactic gas in galaxy clusters: connecting the DESI legacy
 imaging survey and SDSS DR16 Mg II
 absorbers](http://dx.doi.org/10.1093/mnras/stac928)*, Monthly Notices of
 the Royal Astronomical Society, **513**, 3210
-([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[32
+([arXiv:2201.07811](http://arxiv.org/abs/2201.07811)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 \[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
 
@@ -482,7 +482,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 7718)
+### Collaboration papers (citations: 7724)
 
 <div class="list">
 
@@ -804,7 +804,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad3217)*, The
 Astronomical Journal, **168**, 58
-([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[616
+([arXiv:2306.06308](http://arxiv.org/abs/2306.06308)) \[[620
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -813,7 +813,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[337
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[339
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
