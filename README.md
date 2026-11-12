@@ -358,9 +358,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 40 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 8,203 / h-index: 20 (Last updated: 2026-11-11)
+citations: 8,194 / h-index: 20 (Last updated: 2026-11-12)
 
-### First-author publications (citations: 171)
+### First-author publications (citations: 170)
 
 <div class="list">
 
@@ -402,7 +402,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.3210A)\]
 circumgalactic medium of galaxies in absorption with SDSS
 DR16](http://dx.doi.org/10.1093/mnras/stab871)*, Monthly Notices of the
 Royal Astronomical Society, **504**, 65
-([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[70
+([arXiv:2103.15842](http://arxiv.org/abs/2103.15842)) \[[69
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504...65A)\]
 \[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
 
@@ -416,7 +416,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Selected significant contributions (citations: 106)
+### Selected significant contributions (citations: 105)
 
 <div class="list">
 
@@ -460,7 +460,7 @@ Paula; **Anand, Abhijeet**; *et al.*, 2024, *[Searching for new
 cataclysmic variables in the Chandra Source
 Catalog](http://dx.doi.org/10.1051/0004-6361/202450734)*, Astronomy and
 Astrophysics, **690**, A374
-([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[10
+([arXiv:2408.00078](http://arxiv.org/abs/2408.00078)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.374G)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
@@ -483,18 +483,9 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 7926)
+### Collaboration papers (citations: 7919)
 
 <div class="list">
-
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2026, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.3847/1538-4357/ae96b2)*, The
-Astrophysical Journal, **1009**, 121
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..121C)\]
-\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
 Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
 *et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
@@ -503,6 +494,15 @@ DR1](http://dx.doi.org/10.3847/1538-4357/aeaa3b)*, The Astrophysical
 Journal, **1010**, 170
 ([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1010..170L)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2026, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.3847/1538-4357/ae96b2)*, The
+Astrophysical Journal, **1009**, 121
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[5
+citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..121C)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
@@ -531,6 +531,13 @@ Astrophysical Journal, **1006**, 147
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..147M)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
+Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
+Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
+*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
+Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
+arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
 Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
 from the BAO amplitude: A consistent approach to parametrizing
@@ -539,13 +546,6 @@ Review D, **114**, 043545
 ([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026PhRvD.114d3545C)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
-
-Saydjari, Andrew K.; Draine, Bruce T.; Brandt, Timothy D.; Schlafly,
-Edward F.; Dey, Arjun; *et al.* (incl. **A. Anand**), 2026,
-*[Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI
-Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
-arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
 *et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
@@ -593,7 +593,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[701
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[698
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -675,7 +675,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Alam, S.; Allen, L.;
 Measurements of baryon acoustic oscillations and cosmological
 constraints](http://dx.doi.org/10.1103/tr6y-kpc6)*, Physical Review D,
 **112**, 083515 ([arXiv:2503.14738](http://arxiv.org/abs/2503.14738))
-\[[1779
+\[[1777
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -684,7 +684,7 @@ Abdul Karim, M.; Aguilar, J.; Ahlen, S.; Allende Prieto, C.; Alves, O.;
 acoustic oscillations from the Lyman alpha
 forest](http://dx.doi.org/10.1103/2wwn-xjm5)*, Physical Review D,
 **112**, 083514 ([arXiv:2503.14739](http://arxiv.org/abs/2503.14739))
-\[[339
+\[[338
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3514A)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -693,7 +693,7 @@ Brodzeller, A.; Wolfson, M.; Santos, D. M.; Ho, M.; Tan, T.;
 Ly{\ensuremath{\alpha}} absorber catalog for DESI DR2
 Ly{\ensuremath{\alpha}} BAO](http://dx.doi.org/10.1103/wxyv-46kb)*,
 Physical Review D, **112**, 083510
-([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[31
+([arXiv:2503.14740](http://arxiv.org/abs/2503.14740)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3510B)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
 
@@ -744,7 +744,7 @@ Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.;
 constraints from the full-shape modeling of clustering
 measurements](http://dx.doi.org/10.1088/1475-7516/2025/07/028)*, Journal
 of Cosmology and Astroparticle Physics, **2025**, 028
-([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[413
+([arXiv:2411.12022](http://arxiv.org/abs/2411.12022)) \[[412
 citations](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A)\]
 \[**Impact Factor: 6.4; Scopus Quartile: Q1**\]
 
@@ -816,7 +816,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.;
 Program for the Dark Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ad0b08)*, The
 Astronomical Journal, **167**, 62
-([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[334
+([arXiv:2306.06307](http://arxiv.org/abs/2306.06307)) \[[335
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -831,7 +831,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Nov 11, 2026*
+*Last update on: Nov 12, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
