@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import argparse
 import os
 import json
 import importlib.util
 from operator import itemgetter
 import re
-import ads
 
 def fix_latex_typesetting(sorted_papers):
     for papers in sorted_papers:
@@ -23,14 +23,8 @@ def fix_latex_typesetting(sorted_papers):
 def remove_arxiv_duplicates(sorted_papers):
     """Deduplicate by title and first author, preferring published records."""
     def normalize_title(title):
-        return ' '.join(title.casefold().replace('$', '').split())
-
-    def is_arxiv(item):
-        publication = (item.get("pub") or "").casefold()
-        url = (item.get("url") or "").casefold()
-        if publication.startswith("arxiv") or re.search(r'/abs/\d{4}arxiv', url):
-            return True
-        return not publication and "arxiv" in (item.get("doi") or "").casefold()
+        title = ' '.join(title.casefold().replace('$', '').split())
+        return re.sub(r'\s*~\s*', '~', title)
 
     papers_by_key = {}
 
@@ -49,17 +43,18 @@ def remove_arxiv_duplicates(sorted_papers):
             continue
 
         existing = papers_by_key[key]
-        existing_arxiv = is_arxiv(existing)
-        item_arxiv = is_arxiv(item)
-        replace = (existing_arxiv and not item_arxiv) or (
-            existing_arxiv and item_arxiv and item["pubdate"] > existing["pubdate"]
+        existing_published = existing["volume"] is not None
+        item_published = item["volume"] is not None
+        replace = (item_published and not existing_published) or (
+            not existing_published and not item_published
+            and item["pubdate"] > existing["pubdate"]
         )
         kept, removed = (item, existing) if replace else (existing, item)
         if not kept.get("arxiv") and removed.get("arxiv"):
             kept["arxiv"] = removed["arxiv"]
         papers_by_key[key] = kept
 
-    return list(papers_by_key.values())
+    return sorted(papers_by_key.values(), key=itemgetter("pubdate"), reverse=True)
 
 
 here = os.path.dirname(os.path.abspath(__file__))
@@ -70,6 +65,8 @@ utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
 def get_papers(author):
+    import ads
+
     query = ads.SearchQuery(
         author=author,
         q='galaxy',
@@ -149,13 +146,21 @@ def get_papers(author):
             )
         else:
             continue
-    sorted_papers = sorted(dicts, key=itemgetter("pubdate"), reverse=True)
-    sorted_papers = remove_arxiv_duplicates(sorted_papers) # in case any arxiv duplicates or inproceedings are found...
-    sorted_papers = fix_latex_typesetting(sorted_papers)
-    return sorted_papers
+    return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
 
 if __name__ == "__main__":
-    papers = get_papers("Anand, Abhijeet")
+    parser = argparse.ArgumentParser(description="Update the astronomy publication list.")
+    parser.add_argument(
+        "--deduplicate-existing", action="store_true",
+        help="deduplicate data/pubs.json without fetching from ADS",
+    )
+    args = parser.parse_args()
+    if args.deduplicate_existing:
+        with open("data/pubs.json") as f:
+            papers = json.load(f)
+    else:
+        papers = get_papers("Anand, Abhijeet")
+    papers = remove_arxiv_duplicates(fix_latex_typesetting(papers))
     with open("data/pubs.json", "w") as f:
         json.dump(papers, f, sort_keys=True, indent=2, separators=(",", ": "))
