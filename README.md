@@ -356,9 +356,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 53 / refereed: 42 / first-author: 6 / selected
-significant contributions: 8 / collaboration papers: 39 / total
-citations: 8,263 / h-index: 20 (Last updated: 2026-11-17)
+Total publications: 52 / refereed: 42 / first-author: 6 / selected
+significant contributions: 7 / collaboration papers: 39 / total
+citations: 8,258 / h-index: 20 (Last updated: 2026-11-17)
 
 ### First-author publications (citations: 170)
 
@@ -416,7 +416,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019RAA....19...83A)\]
 
 </div>
 
-### Selected significant contributions (citations: 105)
+### Selected significant contributions (citations: 100)
 
 <div class="list">
 
@@ -433,15 +433,9 @@ Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
 Abhijeet**; *et al.*, 2026, *[The Multiphase Circumgalactic Medium of
 DESI Emission-line Galaxies at z  
 1.5](http://dx.doi.org/10.3847/1538-4357/aeb118)*, The Astrophysical
-Journal, **1012**, 55 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
-
-Lan, Ting-Wen; Prochaska, J. Xavier; Aguilar, J.; Ahlen, S.; **Anand,
-Abhijeet**; *et al.*, 2025, *[The Multiphase Circumgalactic Medium of
-DESI Emission-Line Galaxies at
-z 1.5](http://dx.doi.org/10.48550/arXiv.2511.03195)*, ArXiv,
-arXiv:2511.03195 ([arXiv:2511.03195](http://arxiv.org/abs/2511.03195))
-\[[5 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv251103195L)\]
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+Journal, **1012**, 55
+([arXiv:2511.03195](http://arxiv.org/abs/2511.03195)) \[**Impact Factor:
+5.7; Scopus Quartile: Q1**\]
 
 Wu, Xuanyi; Cai, Z.; Lan, T.-W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
