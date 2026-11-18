@@ -358,7 +358,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 52 / refereed: 42 / first-author: 6 / selected
 significant contributions: 7 / collaboration papers: 39 / total
-citations: 8,258 / h-index: 20 (Last updated: 2026-11-17)
+citations: 8,258 / h-index: 20 (Last updated: 2026-11-18)
 
 ### First-author publications (citations: 170)
 
@@ -546,6 +546,13 @@ Sky Fibers](http://dx.doi.org/10.48550/arXiv.2608.28740)*, ArXiv,
 arXiv:2608.28740 ([arXiv:2608.28740](http://arxiv.org/abs/2608.28740))
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
+Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
+*et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
+1.0<z<3.5 from SDSS and
+DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
+arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Crespi, Andrea; Percival, Will J.; Krolewski, Alex; Bonici, Marco;
 Zhang, Hanyu; *et al.* (incl. **A. Anand**), 2026, *[Baryon fraction
 from the BAO amplitude: A consistent approach to parametrizing
@@ -554,13 +561,6 @@ Review D, **114**, 043545
 ([arXiv:2511.23459](http://arxiv.org/abs/2511.23459)) \[[1
 citations](https://ui.adsabs.harvard.edu/abs/2026PhRvD.114d3545C)\]
 \[**Impact Factor: 5.3; Scopus Quartile: Q1**\]
-
-Yin, Gaocheng; Jiang, Linhua; Pan, Zhiwei; Martini, Paul; Guo, Wei-Jian;
-*et al.* (incl. **A. Anand**), 2026, *[Luminosity function of quasars at
-1.0<z<3.5 from SDSS and
-DESI](http://dx.doi.org/10.48550/arXiv.2608.06000)*, ArXiv,
-arXiv:2608.06000 ([arXiv:2608.06000](http://arxiv.org/abs/2608.06000))
-\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
 *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Results IV:
@@ -831,7 +831,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Nov 17, 2026*
+*Last update on: Nov 18, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
