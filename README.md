@@ -356,9 +356,9 @@ National Science Day 2026, IUCAA, Pune, India
 
 ## Publications
 
-Total publications: 52 / refereed: 42 / first-author: 6 / selected
-significant contributions: 7 / collaboration papers: 39 / total
-citations: 8,297 / h-index: 20 (Last updated: 2026-11-19)
+Total publications: 54 / refereed: 42 / first-author: 6 / selected
+significant contributions: 8 / collaboration papers: 40 / total
+citations: 8,297 / h-index: 20 (Last updated: 2026-11-20)
 
 ### First-author publications (citations: 174)
 
@@ -437,6 +437,12 @@ Journal, **1012**, 55
 ([arXiv:2511.03195](http://arxiv.org/abs/2511.03195)) \[**Impact Factor:
 5.7; Scopus Quartile: Q1**\]
 
+Bailey, S.; Brodzeller, A.; Moustakas, J.; **Anand, Abhijeet**; Warner,
+C.; *et al.*, 2026, Redrock: Spectroscopic Classification and Redshift
+Fitting for the Dark Energy Spectroscopic Instrument, ArXiv,
+arXiv:2611.23636 ([arXiv:2611.23636](http://arxiv.org/abs/2611.23636))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
+
 Wu, Xuanyi; Cai, Z.; Lan, T.-W.; Zou, S.; **Anand, Abhijeet**; *et al.*,
 2025, *[Tracing the Evolution of the Cool Gas in CGM and IGM
 Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65
@@ -494,6 +500,13 @@ DES](http://dx.doi.org/10.3847/1538-4357/aeb49b)*, The Astrophysical
 Journal, **1012**, 49
 ([arXiv:2509.20434](http://arxiv.org/abs/2509.20434)) \[**Impact Factor:
 5.7; Scopus Quartile: Q1**\]
+
+Moustakas, John; Buhler, Jeremy; Scholte, Dirk; Aguilar, Jessica; Ahlen,
+Steven; *et al.* (incl. **A. Anand**), 2026, FastSpecFit:
+Spectrophotometric Modeling of 38 Million Extragalactic Targets from the
+Dark Energy Spectroscopic Instrument Second Data Release, ArXiv,
+arXiv:2611.22914 ([arXiv:2611.22914](http://arxiv.org/abs/2611.22914))
+\[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
 *et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
@@ -832,7 +845,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Nov 19, 2026*
+*Last update on: Nov 20, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
