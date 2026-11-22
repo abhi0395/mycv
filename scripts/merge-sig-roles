@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 merge-sig-roles: Merges significant_author.tex (auto-generated from ADS)
-with significant_roles.tex (manually maintained role descriptions) to produce
-significant_author_full.tex, used only by cv_full.tex.
+with significant_roles.tex (manually maintained role descriptions keyed by
+arXiv ID) to produce significant_author_full.tex, used only by cv_full.tex.
 
 Run from the repo root or from the tex/ directory:
     python scripts/merge-sig-roles
@@ -28,13 +28,73 @@ def load_papers(path):
 
 def load_roles(path):
     with open(path) as f:
-        raw = f.read()
-    # Strip comment lines (lines starting with %)
-    lines = [l for l in raw.split("\n") if not l.strip().startswith("%")]
-    cleaned = "\n".join(lines)
-    # Split on blank lines
-    roles = [r.strip() for r in re.split(r"\n\s*\n", cleaned) if r.strip()]
+        lines = f.read().splitlines()
+
+    roles = []
+    arxiv_id = None
+    role_lines = []
+
+    def finish_role():
+        role = "\n".join(role_lines).strip()
+        if not role:
+            raise ValueError(f"No role description for arXiv:{arxiv_id}")
+        roles.append((arxiv_id, role))
+
+    for line in lines:
+        match = re.match(r"^\s*%\s*arXiv:\s*(\S+)", line, re.IGNORECASE)
+        if match:
+            if arxiv_id is not None:
+                finish_role()
+            arxiv_id = match.group(1)
+            role_lines = []
+        elif arxiv_id is not None:
+            if line.strip().startswith("%"):
+                continue
+            role_lines.append(line)
+        elif line.strip() and not line.strip().startswith("%"):
+            raise ValueError("Role description found without an arXiv ID comment")
+
+    if arxiv_id is not None:
+        finish_role()
+
     return roles
+
+
+def pair_papers_with_roles(papers, roles):
+    papers_by_arxiv = {}
+    for paper in papers:
+        matches = re.findall(r"\\arxiv\{([^}]+)\}", paper)
+        if len(matches) != 1:
+            raise ValueError(
+                f"Expected exactly one arXiv ID in paper entry, found {len(matches)}"
+            )
+        arxiv_id = matches[0]
+        if arxiv_id in papers_by_arxiv:
+            raise ValueError(f"Duplicate paper arXiv ID: {arxiv_id}")
+        papers_by_arxiv[arxiv_id] = paper
+
+    roles_by_arxiv = {}
+    for arxiv_id, role in roles:
+        if arxiv_id in roles_by_arxiv:
+            raise ValueError(f"Duplicate role arXiv ID: {arxiv_id}")
+        roles_by_arxiv[arxiv_id] = role
+
+    missing_roles = papers_by_arxiv.keys() - roles_by_arxiv.keys()
+    extra_roles = roles_by_arxiv.keys() - papers_by_arxiv.keys()
+    if missing_roles or extra_roles:
+        errors = []
+        if missing_roles:
+            ids = ", ".join(sorted(missing_roles))
+            errors.append(f"missing roles for arXiv ID(s): {ids}")
+        if extra_roles:
+            ids = ", ".join(sorted(extra_roles))
+            errors.append(f"roles have no matching paper for arXiv ID(s): {ids}")
+        raise ValueError("; ".join(errors))
+
+    return [
+        (paper, roles_by_arxiv[arxiv_id])
+        for arxiv_id, paper in papers_by_arxiv.items()
+    ]
 
 
 def main():
@@ -42,21 +102,16 @@ def main():
     roles_path = os.path.join(tex_dir, "significant_roles.tex")
     output_path = os.path.join(tex_dir, "significant_author_full.tex")
 
-    papers = load_papers(papers_path)
-    roles = load_roles(roles_path)
-
-    if len(papers) != len(roles):
-        print(
-            f"ERROR: {len(papers)} papers in significant_author.tex "
-            f"but {len(roles)} roles in significant_roles.tex.\n"
-            f"Please update significant_roles.tex to match "
-            f"(add/remove entries at the top for newest/removed papers).",
-            file=sys.stderr,
-        )
+    try:
+        papers = load_papers(papers_path)
+        roles = load_roles(roles_path)
+        paper_roles = pair_papers_with_roles(papers, roles)
+    except ValueError as error:
+        print(f"ERROR: {error}", file=sys.stderr)
         sys.exit(1)
 
     blocks = []
-    for paper, role in zip(papers, roles):
+    for paper, role in paper_roles:
         blocks.append(paper)
         blocks.append("")
         blocks.append("\\vspace{1mm}")
