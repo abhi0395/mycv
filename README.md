@@ -358,7 +358,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 54 / refereed: 42 / first-author: 6 / selected
 significant contributions: 8 / collaboration papers: 40 / total
-citations: 8,462 / h-index: 20 (Last updated: 2026-11-22)
+citations: 8,488 / h-index: 20 (Last updated: 2026-11-22)
 
 ### First-author publications (citations: 173)
 
@@ -491,7 +491,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 8182)
+### Collaboration papers (citations: 8208)
 
 <div class="list">
 
@@ -544,7 +544,7 @@ Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2026, *[The Power
 of DESI for Photometric Redshift Calibration: A Case Study with
 KiDS-1000](http://dx.doi.org/10.33232/001c.163965)*, The Open Journal of
 Astrophysics, **9**, 63965
-([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[[3
+([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026OJAp....963965B)\]
 \[**Impact Factor: 2.4; Scopus Quartile: Q1**\]
 
@@ -584,7 +584,7 @@ DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alves, O.;
 Alcock-Paczyński Measurements from the Lyman Alpha Forest and
 Cosmological Constraints](http://dx.doi.org/10.48550/arXiv.2607.27410)*,
 ArXiv, arXiv:2607.27410
-([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[[15
+([arXiv:2607.27410](http://arxiv.org/abs/2607.27410)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260727410D)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
@@ -601,7 +601,7 @@ Moore, Samuel G.; Cole, Shaun; Wilson, Michael; Norberg, Peder;
 Moustakas, John; *et al.* (incl. **A. Anand**), 2026, *[DESI DR2 Galaxy
 luminosity functions](http://dx.doi.org/10.1093/mnras/stag866)*, Monthly
 Notices of the Royal Astronomical Society, **549**, stag866
-([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[9
+([arXiv:2511.01803](http://arxiv.org/abs/2511.01803)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag866M)\]
 \[**Impact Factor: 5.2; Scopus Quartile: Q1**\]
 
@@ -618,7 +618,7 @@ J.; *et al.* (incl. **A. Anand**), 2026, *[Data Release 1 of the Dark
 Energy Spectroscopic
 Instrument](http://dx.doi.org/10.3847/1538-3881/ae4c43)*, The
 Astronomical Journal, **171**, 285
-([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[731
+([arXiv:2503.14745](http://arxiv.org/abs/2503.14745)) \[[750
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D)\]
 \[**Impact Factor: 5.8; Scopus Quartile: Q1**\]
 
@@ -664,7 +664,7 @@ Jose Carlos; Schlegel, David; *et al.* (incl. **A. Anand**), 2026, *[A
 New Way to Discover Strong Gravitational Lenses: Pairwise Spectroscopic
 Search from DESI DR1](http://dx.doi.org/10.3847/1538-4365/ae27ce)*, The
 Astrophysical Journal Supplement Series, **282**, 41
-([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[5
+([arXiv:2509.16033](http://arxiv.org/abs/2509.16033)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...41H)\]
 \[**Impact Factor: 7.7; Scopus Quartile: Q1**\]
 
@@ -673,7 +673,7 @@ Bellini, Andrea; *et al.* (incl. **A. Anand**), 2026, *[A Path to an
 All-Sky Survey with
 Roman](http://dx.doi.org/10.48550/arXiv.2602.21280)*, ArXiv,
 arXiv:2602.21280 ([arXiv:2602.21280](http://arxiv.org/abs/2602.21280))
-\[[3 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
+\[[4 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260221280H)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Kamalinejad, Farshad; Slepian, Zachary; Krolewski, Alex; Greco,
@@ -682,7 +682,7 @@ Alessandro; Ortolá Leonard, William; *et al.* (incl. **A. Anand**),
 in the 3-Point Correlation Function of DESI DR1 Luminous Red
 Galaxies](http://dx.doi.org/10.48550/arXiv.2602.16134)*, ArXiv,
 arXiv:2602.16134 ([arXiv:2602.16134](http://arxiv.org/abs/2602.16134))
-\[[4 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260216134K)\]
+\[[5 citations](https://ui.adsabs.harvard.edu/abs/2026arXiv260216134K)\]
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
 Herrera-Alcantar, Hiram K.; Armengaud, Eric; Yèche, Christophe; Gordon,
