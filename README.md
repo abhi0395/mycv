@@ -139,10 +139,10 @@ Science, Bangalore, India (*Grade: 6.6/8*).
 
 <div class="list">
 
+Dec 2026: *CGM Group Meeting*, ESO, Garching, Germany — invited talk
+
 Dec 2026: *Cosmology Seminar*, Max Planck Institute for Astrophysics,
 Garching, Germany — invited seminar
-
-Dec 2026: *CGM Group Meeting*, ESO, Garching, Germany — invited talk
 
 Sep 2026: *Department of Astronomy (DAASE) Seminar*, IIT Indore, India —
 invited seminar
