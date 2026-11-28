@@ -5,8 +5,8 @@ import os
 import json
 import csv
 import importlib.util
+import re
 from datetime import date
-from operator import itemgetter
 
 here = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location(
@@ -24,6 +24,14 @@ JOURNAL_MAP = {
     "iau general assembly": "IAU",
     "american astronomical society meeting abstracts": "AAS",
 }
+
+
+def arxiv_sort_key(pub):
+    arxiv_id = pub["arxiv"]
+    match = re.fullmatch(r"(\d{4})\.(\d{4,5})(?:v\d+)?", arxiv_id or "")
+    if not match:
+        raise ValueError(f"Missing or unsupported arXiv ID for: {pub['title']}")
+    return tuple(map(int, match.groups()))
 
 
 def load_journal_details(filename):
@@ -118,7 +126,6 @@ if __name__ == "__main__":
 
     with open("data/pubs.json", "r") as f:
         pubs = json.load(f)
-    pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
     pubs = [
         p
         for p in pubs
@@ -127,6 +134,7 @@ if __name__ == "__main__":
             and p["pub"] != "Zenodo Software Release"
         )
     ]
+    pubs = sorted(pubs, key=arxiv_sort_key, reverse=True)
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
 
