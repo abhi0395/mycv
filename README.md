@@ -358,7 +358,7 @@ National Science Day 2026, IUCAA, Pune, India
 
 Total publications: 54 / refereed: 42 / first-author: 6 / selected
 significant contributions: 8 / collaboration papers: 40 / total
-citations: 8,488 / h-index: 20 (Last updated: 2026-11-27)
+citations: 8,489 / h-index: 20 (Last updated: 2026-11-28)
 
 ### First-author publications (citations: 173)
 
@@ -491,7 +491,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1913A)\]
 
 </div>
 
-### Collaboration papers (citations: 8208)
+### Collaboration papers (citations: 8209)
 
 <div class="list">
 
@@ -512,15 +512,6 @@ Release](http://dx.doi.org/10.48550/arXiv.2611.22914)*, ArXiv,
 arXiv:2611.22914 ([arXiv:2611.22914](http://arxiv.org/abs/2611.22914))
 \[**Impact Factor: N/A; Scopus Quartile: N/A**\]
 
-Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
-Aguilar, J.; *et al.* (incl. **A. Anand**), 2026, *[Tracing the Cosmic
-Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
-with DESI Year 1 Data](http://dx.doi.org/10.3847/1538-4357/ae96b2)*, The
-Astrophysical Journal, **1009**, 121
-([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..121C)\]
-\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
-
 Lange, J. U.; Wells, A.; Hearin, A.; Beltz-Mohrmann, G.; Leauthaud, A.;
 *et al.* (incl. **A. Anand**), 2026, *[Cosmological Constraints from
 Full-scale Clustering and Galaxy-Galaxy Lensing with DESI
@@ -528,6 +519,15 @@ DR1](http://dx.doi.org/10.3847/1538-4357/aeaa3b)*, The Astrophysical
 Journal, **1010**, 170
 ([arXiv:2512.15962](http://arxiv.org/abs/2512.15962)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1010..170L)\]
+\[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
+
+Chang, Yu-Ling; Lan, Ting-Wen; Prochaska, J. Xavier; Siudek, Malgorzata;
+Aguilar, J.; *et al.* (incl. **A. Anand**), 2026, *[Tracing the Cosmic
+Evolution of the Cool Circumgalactic Medium of Luminous Red Galaxies
+with DESI Year 1 Data](http://dx.doi.org/10.3847/1538-4357/ae96b2)*, The
+Astrophysical Journal, **1009**, 121
+([arXiv:2512.03845](http://arxiv.org/abs/2512.03845)) \[[5
+citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..121C)\]
 \[**Impact Factor: 5.7; Scopus Quartile: Q1**\]
 
 Uzsoy, Ana Sofı́a M.; Dey, Arjun; Raichoor, Anand; Finkbeiner, Douglas
@@ -544,7 +544,7 @@ Hildebrandt, Hendrik; *et al.* (incl. **A. Anand**), 2026, *[The Power
 of DESI for Photometric Redshift Calibration: A Case Study with
 KiDS-1000](http://dx.doi.org/10.33232/001c.163965)*, The Open Journal of
 Astrophysics, **9**, 63965
-([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[[4
+([arXiv:2512.15964](http://arxiv.org/abs/2512.15964)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2026OJAp....963965B)\]
 \[**Impact Factor: 2.4; Scopus Quartile: Q1**\]
 
@@ -849,7 +849,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230611784H)\]
 
 </div>
 
-*Last update on: Nov 27, 2026*
+*Last update on: Nov 28, 2026*
 
 [^1]: International Max Planck Research School on Astrophysics
 
